@@ -835,6 +835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2020-04-14 23:58:07 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-01-16 22:41:57 +0800"
@@ -2169,6 +2175,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-01-16 23:02:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-04-14 22:31:11 +0800"
     },
     "done": true
   },

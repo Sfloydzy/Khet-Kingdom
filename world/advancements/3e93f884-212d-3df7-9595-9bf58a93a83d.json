@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2020-04-14 21:15:10 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2019-01-16 22:47:05 +0800"
@@ -338,6 +344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2020-04-15 00:24:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-04 23:39:30 +0800"
@@ -443,6 +455,12 @@
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_wet_sponge": "2020-04-08 01:24:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2020-04-15 00:24:02 +0800"
     },
     "done": true
   },
@@ -967,6 +985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-04-14 11:24:07 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-01-16 22:38:31 +0800"
@@ -1198,6 +1222,12 @@
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-04-05 14:09:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-04-15 00:24:02 +0800"
     },
     "done": true
   },
@@ -1552,6 +1582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2020-04-15 00:24:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2020-04-08 00:33:59 +0800"
@@ -1735,6 +1771,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-04-01 23:03:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-04-15 00:24:02 +0800"
     },
     "done": true
   },
@@ -2022,6 +2064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-04-15 00:24:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-01-16 22:40:00 +0800"
@@ -2154,6 +2202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2020-04-15 00:24:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2019-02-01 03:19:10 +0800"
@@ -2163,6 +2217,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2019-01-16 22:38:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2020-04-15 00:24:02 +0800"
     },
     "done": true
   },
@@ -2594,6 +2654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-04-15 00:24:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_blasting": {
     "criteria": {
       "has_redstone_ore": "2020-04-10 16:25:48 +0800"
@@ -2888,6 +2954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-04-15 00:24:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2019-01-16 22:38:31 +0800"
@@ -2909,6 +2981,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-02 16:39:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2020-04-15 00:24:02 +0800"
     },
     "done": true
   },
@@ -2942,9 +3020,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-04-15 00:24:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-04-03 16:54:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-04-14 11:24:07 +0800"
     },
     "done": true
   },
@@ -2981,6 +3071,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-04-05 14:09:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-04-14 11:24:07 +0800"
     },
     "done": true
   },
