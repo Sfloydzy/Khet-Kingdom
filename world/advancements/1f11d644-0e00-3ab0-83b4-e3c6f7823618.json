@@ -1391,19 +1391,23 @@
       "minecraft:mountains": "2020-04-05 03:51:20 +0800",
       "minecraft:badlands_plateau": "2020-04-06 19:41:52 +0800",
       "minecraft:taiga": "2020-04-05 15:11:49 +0800",
+      "minecraft:desert_hills": "2020-04-17 23:04:28 +0800",
       "minecraft:giant_tree_taiga": "2020-04-07 01:35:33 +0800",
       "minecraft:deep_cold_ocean": "2020-04-07 19:41:52 +0800",
       "minecraft:taiga_hills": "2020-04-14 22:37:37 +0800",
       "minecraft:desert": "2020-04-05 03:03:41 +0800",
       "minecraft:deep_frozen_ocean": "2020-04-14 14:52:05 +0800",
       "minecraft:birch_forest": "2019-01-16 23:17:02 +0800",
+      "minecraft:deep_lukewarm_ocean": "2020-04-18 00:33:31 +0800",
       "minecraft:badlands": "2020-04-04 23:17:17 +0800",
       "minecraft:beach": "2020-04-04 23:20:42 +0800",
       "minecraft:dark_forest": "2019-01-17 00:05:04 +0800",
       "minecraft:river": "2019-01-16 22:53:23 +0800",
       "minecraft:birch_forest_hills": "2019-01-16 23:45:54 +0800",
+      "minecraft:wooded_mountains": "2020-04-18 00:40:26 +0800",
       "minecraft:wooded_hills": "2019-01-16 23:45:57 +0800",
       "minecraft:giant_tree_taiga_hills": "2020-04-07 01:46:13 +0800",
+      "minecraft:stone_shore": "2020-04-18 00:40:15 +0800",
       "minecraft:wooded_badlands_plateau": "2020-04-05 03:52:53 +0800",
       "minecraft:swamp": "2020-04-05 14:33:24 +0800",
       "minecraft:savanna": "2020-04-08 12:59:13 +0800",
@@ -2023,6 +2027,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2019-01-16 22:55:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2020-04-18 00:24:27 +0800"
     },
     "done": true
   },
@@ -3044,6 +3054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2020-04-17 23:44:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2019-01-16 23:31:16 +0800"
@@ -3317,6 +3333,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2020-04-13 17:16:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2020-04-17 23:44:15 +0800"
     },
     "done": true
   },

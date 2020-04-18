@@ -1,224 +1,92 @@
-[00:01:12] [Server thread/WARN]: KangaReuben moved wrongly!
-[00:15:23] [Server thread/INFO]: Om3gaNut fell from a high place
-[00:15:37] [Server thread/INFO]: <KangaReuben> the drowned spawn rate is so damn low
-[00:15:45] [Server thread/INFO]: <Om3gaNut> rip
-[00:15:51] [Server thread/INFO]: <Om3gaNut> got anything yet?
-[00:17:25] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/418534, l='world', x=37.68, y=64.00, z=191.18]
-[00:20:19] [Server thread/INFO]: <Om3gaNut> bye
-[00:20:27] [Server thread/INFO]: <KangaReuben> nooo
-[00:20:34] [Server thread/INFO]: <KangaReuben> this grind is so lonelt
-[00:20:37] [Server thread/INFO]: <Om3gaNut> haha
-[00:20:41] [Server thread/INFO]: <Om3gaNut> soz man
-[00:20:43] [Server thread/INFO]: <Om3gaNut> maybe tmrw
-[00:20:50] [Server thread/INFO]: <Om3gaNut> i got class in the morning
-[00:20:51] [Server thread/INFO]: <KangaReuben> is aight
-[00:20:53] [Server thread/INFO]: <KangaReuben> night man
-[00:21:15] [Server thread/INFO]: Om3gaNut lost connection: Disconnected
-[00:21:15] [Server thread/INFO]: Om3gaNut left the game
-[00:27:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
-[00:42:52] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/426916, l='world', x=38.27, y=64.00, z=196.59]
-[00:43:28] [Server thread/INFO]: KangaReuben lost connection: Disconnected
-[00:43:28] [Server thread/INFO]: KangaReuben left the game
-[00:43:30] [Server thread/INFO]: KangaReuben[/25.120.20.117:57089] logged in with entity id 427073 at (99.4632833155278, 59.0, 226.4215945021303)
-[00:43:30] [Server thread/INFO]: KangaReuben joined the game
-[00:50:52] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/428087, l='world', x=20.80, y=74.00, z=154.20]
-[00:53:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/428423, l='world', x=20.39, y=74.00, z=155.80]
-[00:54:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[00:55:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[00:55:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
-[00:56:53] [Server thread/INFO]: DodgeyDoge[/25.120.13.182:63088] logged in with entity id 428946 at (49.209760587125096, 75.0, 340.9836403151396)
-[00:56:53] [Server thread/INFO]: DodgeyDoge joined the game
-[00:56:58] [Server thread/INFO]: <DodgeyDoge> sup man
-[00:57:00] [Server thread/INFO]: <KangaReuben> sup
-[00:57:05] [Server thread/INFO]: <DodgeyDoge> i just ended work
-[00:57:23] [Server thread/INFO]: <KangaReuben> god damn
-[00:57:25] [Server thread/INFO]: <KangaReuben> thats late af
-[00:57:39] [Server thread/INFO]: <DodgeyDoge> yeah shag but
-[00:57:46] [Server thread/INFO]: <DodgeyDoge> minecraft bro
-[00:58:40] [Server thread/INFO]: <KangaReuben> i went drowned hunting man
-[00:58:42] [Server thread/INFO]: <KangaReuben> it didnt go well
-[00:58:51] [Server thread/INFO]: <DodgeyDoge> lol shag
-[00:58:56] [Server thread/INFO]: <DodgeyDoge> i know theres an area
-[00:59:03] [Server thread/INFO]: <DodgeyDoge> in the iceburg land
-[00:59:11] [Server thread/INFO]: <DodgeyDoge> with a lot of drowned
-[00:59:28] [Server thread/INFO]: <KangaReuben> dude at one point i was fighting 6 of them
-[00:59:32] [Server thread/INFO]: <KangaReuben> only one had a trident
-[00:59:39] [Server thread/INFO]: <KangaReuben> and i suspect some of them were converted zombies
-[00:59:53] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/429695, l='world', x=20.80, y=74.00, z=154.62]
-[00:59:59] [Server thread/INFO]: <KangaReuben> we actually have 1 legitimately acquired trident
-[01:00:05] [Server thread/INFO]: <KangaReuben> but cris lost it when he threw it at a wraith
-[01:00:13] [Server thread/INFO]: <KangaReuben> also i was hoping for nautilus shells
-[01:00:24] [Server thread/INFO]: <KangaReuben> but nth man
-[01:00:40] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/429866, l='world', x=20.48, y=74.00, z=155.33]
-[01:02:44] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/430293, l='world', x=20.14, y=74.00, z=155.80]
-[01:03:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/430388, l='world', x=20.80, y=74.00, z=155.43]
-[01:06:42] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/431067, l='world', x=31.91, y=64.00, z=194.87]
-[01:08:18] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/431368, l='world', x=32.65, y=70.00, z=342.93]
-[01:13:19] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/432276, l='world', x=33.84, y=64.00, z=192.45]
-[01:17:25] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/433016, l='world', x=20.52, y=74.00, z=155.80]
-[01:17:46] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/433092, l='world', x=20.29, y=74.00, z=154.73]
-[01:18:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/433167, l='world', x=29.19, y=64.00, z=190.45]
-[01:25:10] [Server thread/INFO]: DodgeyDoge has made the advancement [Cover Me With Diamonds]
-[01:28:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/437518, l='world', x=32.61, y=70.00, z=342.94]
-[01:30:09] [Server thread/INFO]: [DodgeyDoge: Applied enchantment Respiration III to DodgeyDoge's item]
-[01:30:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
-[01:32:03] [Server thread/INFO]: [DodgeyDoge: Applied enchantment Protection IV to DodgeyDoge's item]
-[01:32:33] [Server thread/INFO]: [DodgeyDoge: Applied enchantment Unbreaking I to DodgeyDoge's item]
-[01:32:52] [Server thread/INFO]: [DodgeyDoge: Applied enchantment Unbreaking III to DodgeyDoge's item]
-[01:32:56] [Server thread/INFO]: [DodgeyDoge: Applied enchantment Protection IV to DodgeyDoge's item]
-[01:32:59] [Server thread/INFO]: [DodgeyDoge: Applied enchantment Respiration III to DodgeyDoge's item]
-[01:33:27] [Server thread/INFO]: [DodgeyDoge: Applied enchantment Protection IV to DodgeyDoge's item]
-[01:33:41] [Server thread/INFO]: [DodgeyDoge: Applied enchantment Unbreaking III to DodgeyDoge's item]
-[01:34:41] [Server thread/INFO]: [DodgeyDoge: Applied enchantment Mending to DodgeyDoge's item]
-[01:34:56] [Server thread/INFO]: [DodgeyDoge: Applied enchantment Mending to DodgeyDoge's item]
-[01:34:59] [Server thread/INFO]: [DodgeyDoge: Applied enchantment Unbreaking III to DodgeyDoge's item]
-[01:35:05] [Server thread/INFO]: [DodgeyDoge: Applied enchantment Protection IV to DodgeyDoge's item]
-[01:35:59] [Server thread/INFO]: [DodgeyDoge: Applied enchantment Protection IV to DodgeyDoge's item]
-[01:36:12] [Server thread/INFO]: [DodgeyDoge: Applied enchantment Depth Strider III to DodgeyDoge's item]
-[01:36:38] [Server thread/INFO]: [DodgeyDoge: Applied enchantment Feather Falling IV to DodgeyDoge's item]
-[01:36:48] [Server thread/INFO]: <DodgeyDoge> reubs
-[01:36:59] [Server thread/INFO]: <KangaReuben> yo
-[01:37:14] [Server thread/INFO]: <DodgeyDoge> wanna see some cool stuff
-[01:37:30] [Server thread/INFO]: <KangaReuben> does it involve finding nautilus shells
-[01:37:41] [Server thread/WARN]: KangaReuben moved wrongly!
-[01:38:31] [Server thread/INFO]: <DodgeyDoge> nah
-[01:38:33] [Server thread/INFO]: <KangaReuben> im otw back
-[01:40:50] [Server thread/INFO]: <KangaReuben> i lost my trident yknow
-[01:40:54] [Server thread/INFO]: <DodgeyDoge> sad
-[01:40:59] [Server thread/INFO]: <DodgeyDoge> i know
-[01:41:12] [Server thread/INFO]: <KangaReuben> but i had an extra
-[01:41:47] [Server thread/INFO]: <KangaReuben> which i enchanted w loyalty 3 this time
-[01:41:53] [Server thread/INFO]: <KangaReuben> so actually this one is even better
-[01:41:54] [Server thread/INFO]: <KangaReuben> im back
-[01:41:56] [Server thread/INFO]: <KangaReuben> wyd
-[01:42:01] [Server thread/INFO]: <DodgeyDoge> LOL
-[01:42:04] [Server thread/INFO]: <DodgeyDoge> I SEE THAT
-[01:42:10] [Server thread/INFO]: <DodgeyDoge> genesis
-[01:42:20] [Server thread/INFO]: <DodgeyDoge> finished construction that mini room i built
-[01:42:33] [Server thread/INFO]: <DodgeyDoge> wanna see
-[01:42:38] [Server thread/INFO]: <KangaReuben> yeah
-[01:42:51] [Server thread/INFO]: <DodgeyDoge> not done yet but
-[01:42:55] [Server thread/INFO]: [DodgeyDoge: Teleported KangaReuben to DodgeyDoge]
-[01:42:59] [Server thread/INFO]: <KangaReuben> wtf
-[01:43:01] [Server thread/INFO]: <DodgeyDoge> check it
-[01:43:09] [Server thread/INFO]: <KangaReuben> this is decadence
-[01:43:12] [Server thread/INFO]: <DodgeyDoge> its just an armoury haha
-[01:43:33] [Server thread/INFO]: <KangaReuben> oh shit
-[01:43:38] [Server thread/INFO]: <KangaReuben> i didnt know that'd happen
-[01:43:42] [Server thread/INFO]: <DodgeyDoge> all good
-[01:44:03] [Server thread/INFO]: <KangaReuben> wtf...
-[01:44:08] [Server thread/INFO]: <KangaReuben> this armour is stacked...
-[01:44:16] [Server thread/INFO]: <DodgeyDoge> the most stacked armour possible
-[01:44:25] [Server thread/INFO]: <KangaReuben> i think you can use console commands to get like
-[01:44:31] [Server thread/INFO]: <KangaReuben> 1000 efficiency pickaxes
-[01:44:40] [Server thread/INFO]: <DodgeyDoge> the most stacked armour possible
-[01:44:43] [Server thread/INFO]: [DodgeyDoge: Teleported KangaReuben to DodgeyDoge]
-[01:45:08] [Server thread/INFO]: <KangaReuben> oh dude
-[01:45:13] [Server thread/INFO]: <KangaReuben> i started work on the entrance of the new base
-[01:45:21] [Server thread/INFO]: <DodgeyDoge> at cris' place?
-[01:45:25] [Server thread/INFO]: <KangaReuben> yeah
-[01:45:27] [Server thread/INFO]: <KangaReuben> come see
-[01:45:33] [Server thread/INFO]: <DodgeyDoge> aight leggo
-[01:45:38] [Server thread/INFO]: [DodgeyDoge: Set own game mode to Survival Mode]
-[01:46:47] [Server thread/INFO]: <DodgeyDoge> yoooo
-[01:46:53] [Server thread/WARN]: KangaReuben moved wrongly!
-[01:46:55] [Server thread/INFO]: <DodgeyDoge> dopeeee
-[01:47:06] [Server thread/INFO]: <KangaReuben> its gonna extend
-[01:47:18] [Server thread/INFO]: <KangaReuben> as a glass tunnel
-[01:47:18] [Server thread/INFO]: <DodgeyDoge> why not make it a switch
-[01:47:38] [Server thread/INFO]: <DodgeyDoge> you want a glass tunnel just a few blocks in front?
-[01:47:44] [Server thread/INFO]: <DodgeyDoge> just to help out a lil bit
-[01:47:54] [Server thread/INFO]: <KangaReuben> idk i kinda like the idea of the pressure plate
-[01:48:02] [Server thread/INFO]: <KangaReuben> yeah but dont console command it
-[01:48:14] [Server thread/INFO]: <KangaReuben> cos the redstone circuitry is a bitch to do around water
-[01:48:27] [Server thread/INFO]: <DodgeyDoge> nah as in ill do it past the gate
-[01:48:42] [Server thread/INFO]: <DodgeyDoge> like directly infront of me
-[01:48:42] [Server thread/INFO]: <KangaReuben> wait can you pass me some stone brick
-[01:48:58] [Server thread/INFO]: <KangaReuben> lemme seal this shit up
-[01:49:03] [Server thread/INFO]: [DodgeyDoge: Gave 30 [Stone Bricks] to KangaReuben]
-[01:49:49] [Server thread/INFO]: <DodgeyDoge> directly in front is just going to be glass right
-[01:49:49] [Server thread/INFO]: <KangaReuben> im thinking
-[01:49:51] [Server thread/INFO]: <KangaReuben> smooth stone
-[01:49:53] [Server thread/INFO]: <KangaReuben> base
-[01:49:57] [Server thread/INFO]: <KangaReuben> and glass walls and roof
-[01:50:03] [Server thread/INFO]: <KangaReuben> but dont you think the roof would be nice
-[01:50:05] [Server thread/INFO]: <KangaReuben> curved
-[01:50:14] [Server thread/INFO]: <DodgeyDoge> no such thing as curved
-[01:50:18] [Server thread/INFO]: <DodgeyDoge> in minecraft
-[01:50:20] [Server thread/INFO]: <KangaReuben> as in like
-[01:50:22] [Server thread/INFO]: <KangaReuben> not a flat roof
-[01:50:35] [Server thread/INFO]: <KangaReuben> like you can make domes
-[01:50:47] [Server thread/INFO]: <DodgeyDoge> ya i know haha lol i think a stair case roof is night
-[01:50:49] [Server thread/INFO]: <DodgeyDoge> nice
-[01:51:17] [Server thread/INFO]: <KangaReuben> anyway
-[01:51:20] [Server thread/INFO]: <KangaReuben> i kinda like this
-[01:51:24] [Server thread/INFO]: <KangaReuben> staircase as orange
-[01:51:27] [Server thread/INFO]: <KangaReuben> but at the same time
-[01:51:29] [Server thread/INFO]: <DodgeyDoge> its quite dope
-[01:51:31] [Server thread/INFO]: <KangaReuben> i want it as brick
-[01:51:33] [Server thread/INFO]: <KangaReuben> so idk
-[01:51:56] [Server thread/INFO]: <DodgeyDoge> still need to make it a stair case
-[01:52:00] [Server thread/INFO]: <KangaReuben> yeah
-[01:52:03] [Server thread/INFO]: <DodgeyDoge> with steps
-[01:53:02] [Server thread/INFO]: <KangaReuben> kinda wanna clear out this hill im on
-[01:53:22] [Server thread/INFO]: <DodgeyDoge> like completely?
-[01:54:49] [Server thread/INFO]: <DodgeyDoge> tridents are damn beast
-[01:54:53] [Server thread/INFO]: <KangaReuben> yeah
-[01:54:56] [Server thread/INFO]: <KangaReuben> not the entire hill
-[01:55:00] [Server thread/INFO]: <KangaReuben> just this area to flatten it out
-[01:55:12] [Server thread/INFO]: <KangaReuben> i'll do it tmr
-[01:55:14] [Server thread/INFO]: <KangaReuben> nbd
-[01:56:03] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/446108, l='world', x=-270.01, y=58.00, z=590.50]
-[01:56:03] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/446108, l='world', x=-270.01, y=58.00, z=590.50]
-[01:58:09] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/446557, l='world', x=-276.99, y=58.00, z=589.75]
-[01:58:09] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/446557, l='world', x=-276.99, y=58.00, z=589.75]
-[01:59:13] [Server thread/INFO]: <DodgeyDoge> imma head off to sleep
-[01:59:15] [Server thread/INFO]: <DodgeyDoge> irl
-[01:59:27] [Server thread/INFO]: <KangaReuben> yeah me too
-[02:00:20] [Server thread/INFO]: <KangaReuben> you know
-[02:00:25] [Server thread/INFO]: <KangaReuben> i like to trap them in my house
-[02:00:28] [Server thread/INFO]: <KangaReuben> super easy to kill
-[02:00:44] [Server thread/INFO]: <KangaReuben> lmao wtf
-[02:00:46] [Server thread/INFO]: <DodgeyDoge> wot
-[02:01:17] [Server thread/INFO]: <KangaReuben> LMAO
-[02:01:24] [Server thread/INFO]: <DodgeyDoge> this is actual slavery
-[02:01:27] [Server thread/INFO]: <DodgeyDoge> in a basement
-[02:01:32] [Server thread/INFO]: <KangaReuben> bitch started his own chicken farm
-[02:01:41] [Server thread/INFO]: <KangaReuben> not as good as mine
-[02:02:21] [Server thread/INFO]: <KangaReuben> interesting base he's been working on
-[02:02:28] [Server thread/INFO]: <DodgeyDoge> ya nubbad
-[02:02:46] [Server thread/INFO]: <DodgeyDoge> lemme know if you wanna go back to base
-[02:02:51] [Server thread/INFO]: <KangaReuben> yeah im gg back
-[02:02:52] [Server thread/INFO]: <DodgeyDoge> i ll fast tele
-[02:03:00] [Server thread/INFO]: <DodgeyDoge> kk fast tele
-[02:03:03] [Server thread/INFO]: <KangaReuben> k
-[02:03:22] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to KangaReuben]
-[02:03:22] [Server thread/WARN]: DodgeyDoge moved too quickly! 35.63117819182804,1.0,21.07653522821022
-[02:03:26] [Server thread/INFO]: <DodgeyDoge> hold up
-[02:03:36] [Server thread/INFO]: <DodgeyDoge> lemme try something
-[02:04:05] [Server thread/INFO]: [DodgeyDoge: Teleported KangaReuben to -240.5, 200.0, 604.5]
-[02:04:08] [Server thread/INFO]: KangaReuben fell from a high place
-[02:04:12] [Server thread/INFO]: <DodgeyDoge> lol
-[02:04:15] [Server thread/INFO]: <KangaReuben> thats one way of doing it
-[02:04:25] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to -240.5, 200.0, 604.5]
-[02:04:29] [Server thread/INFO]: DodgeyDoge fell from a high place
-[02:04:29] [Server thread/INFO]: <KangaReuben> kk sleep time
-[02:04:38] [Server thread/INFO]: <DodgeyDoge> aight night fam
-[02:04:46] [Server thread/INFO]: <DodgeyDoge> i'll save and back up the server
-[02:04:47] [Server thread/INFO]: DodgeyDoge lost connection: Disconnected
-[02:04:47] [Server thread/INFO]: DodgeyDoge left the game
-[02:04:55] [Server thread/INFO]: KangaReuben lost connection: Disconnected
-[02:04:55] [Server thread/INFO]: KangaReuben left the game
-[02:05:01] [Server thread/INFO]: Stopping the server
-[02:05:01] [Server thread/INFO]: Stopping server
-[02:05:01] [Server thread/INFO]: Saving players
-[02:05:01] [Server thread/INFO]: Saving worlds
-[02:05:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[02:05:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:05:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[02:05:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:05:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[02:05:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:05:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:05:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:05:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:27:03] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:27:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:27:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:27:03] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:27:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:27:04] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[02:27:04] [Server thread/INFO]: Loading properties
+[02:27:04] [Server thread/INFO]: Default game type: SURVIVAL
+[02:27:04] [Server thread/INFO]: Generating keypair
+[02:27:04] [Server thread/INFO]: Starting Minecraft server on 25.120.13.182:25565
+[02:27:04] [Server thread/INFO]: Using default channel type
+[02:27:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:27:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:27:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:27:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:27:07] [Server thread/INFO]: Preparing level "world"
+[02:27:07] [Server thread/INFO]: Reloading ResourceManager: Default
+[02:27:09] [Server thread/INFO]: Loaded 6 recipes
+[02:27:09] [Server thread/INFO]: Loaded 825 advancements
+[02:27:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:27:11] [Server thread/INFO]: Preparing spawn area: 0%
+[02:27:11] [Server thread/INFO]: Preparing spawn area: 0%
+[02:27:11] [Server thread/INFO]: Preparing spawn area: 0%
+[02:27:11] [Server thread/INFO]: Preparing spawn area: 0%
+[02:27:11] [Server thread/INFO]: Time elapsed: 2009 ms
+[02:27:11] [Server thread/INFO]: Done (4.549s)! For help, type "help"
+[02:27:23] [Server thread/INFO]: KangaReuben[/25.120.20.117:64967] logged in with entity id 427 at (-138.0442291591051, 75.5, -130.5255927620368)
+[02:27:23] [Server thread/INFO]: KangaReuben joined the game
+[02:32:49] [Server thread/INFO]: KrispinKreme[/25.68.72.200:50053] logged in with entity id 1093 at (-286.04774145709746, 69.0, 588.5616424941032)
+[02:32:49] [Server thread/INFO]: KrispinKreme joined the game
+[02:37:43] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3470, l='world', x=31.93, y=70.00, z=344.05]
+[02:46:19] [Server thread/INFO]: KrispinKreme lost connection: Disconnected
+[02:46:19] [Server thread/INFO]: KrispinKreme left the game
+[02:47:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/6279, l='world', x=19.20, y=74.00, z=155.80]
+[02:47:41] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/6359, l='world', x=31.18, y=64.00, z=191.88]
+[02:47:56] [Server thread/INFO]: KangaReuben lost connection: Disconnected
+[02:47:56] [Server thread/INFO]: KangaReuben left the game
+[02:50:24] [Server thread/INFO]: KrispinKreme[/25.68.72.200:50138] logged in with entity id 6401 at (-413.69999998807907, 31.0, 650.6381816928676)
+[02:50:24] [Server thread/INFO]: KrispinKreme joined the game
+[02:50:51] [Server thread/INFO]: KrispinKreme lost connection: Disconnected
+[02:50:51] [Server thread/INFO]: KrispinKreme left the game
+[02:59:22] [Server thread/INFO]: KrispinKreme[/25.68.72.200:50200] logged in with entity id 6680 at (-415.5254923023895, 30.0, 652.3688688436483)
+[02:59:22] [Server thread/INFO]: KrispinKreme joined the game
+[03:06:36] [Server thread/INFO]: KrispinKreme was shot by Skeleton
+[03:06:37] [Server thread/WARN]: KrispinKreme moved too quickly! 72.33209408788366,47.0000002,-94.33016793354193
+[03:26:06] [Server thread/INFO]: KrispinKreme was shot by Skeleton
+[03:36:43] [Server thread/INFO]: KrispinKreme lost connection: Disconnected
+[03:36:43] [Server thread/INFO]: KrispinKreme left the game
+[10:09:48] [Server thread/INFO]: KangaReuben[/25.120.20.117:50074] logged in with entity id 13869 at (64.85920383107054, 64.0, 217.37859897615516)
+[10:09:48] [Server thread/INFO]: KangaReuben joined the game
+[11:09:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/19771, l='world', x=19.20, y=74.00, z=154.49]
+[11:10:31] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/19923, l='world', x=28.07, y=64.00, z=191.01]
+[11:25:04] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/22107, l='world', x=105.50, y=33.35, z=296.40]
+[11:31:18] [Server thread/INFO]: KangaReuben was slain by Zombie
+[11:31:19] [Server thread/WARN]: KangaReuben moved too quickly! -12.095507914142217,113.00000019999999,4.430213837710994
+[11:32:27] [Server thread/INFO]: KangaReuben was slain by Spider
+[11:32:29] [Server thread/WARN]: KangaReuben moved too quickly! -12.966949777058971,113.00000019999999,-11.199999988079071
+[11:32:58] [Server thread/INFO]: KangaReuben was slain by Spider
+[11:32:59] [Server thread/WARN]: KangaReuben moved too quickly! -1.393457529547561,113.00000019999999,7.5623236127306654
+[11:33:33] [Server thread/INFO]: KangaReuben was shot by Skeleton
+[11:37:56] [Server thread/INFO]: KangaReuben was slain by Zombie
+[11:37:57] [Server thread/WARN]: KangaReuben moved too quickly! 14.01297440608306,112.00000019999999,33.10366945450494
+[11:39:47] [Server thread/INFO]: KangaReuben was pricked to death
+[11:41:41] [Server thread/INFO]: KangaReuben was pricked to death
+[11:51:10] [Server thread/INFO]: KangaReuben was shot by Skeleton
+[11:51:12] [Server thread/WARN]: KangaReuben moved too quickly! -14.504011407471694,113.00000019999999,9.050678277763495
+[11:51:12] [Server thread/WARN]: KangaReuben moved too quickly! -14.504011407471694,113.00000019999999,9.050678277763495
+[11:52:24] [Server thread/INFO]: Unknown command
+[11:52:24] [Server thread/INFO]:  /say ayy<--[HERE]
+[11:52:25] [Server thread/INFO]: KangaReuben was slain by Zombie
+[11:52:26] [Server thread/WARN]: KangaReuben moved too quickly! 1.6647867833596024,106.00000019999999,-8.18550693481734
+[11:52:27] [Server thread/WARN]: KangaReuben moved too quickly! 1.6647867833596024,106.00000019999999,-8.18550693481734
+[11:52:27] [Server thread/INFO]: [Server] ayy
+[11:52:48] [Server thread/INFO]: [Server] im going to restart the server for a bit
+[11:52:53] [Server thread/INFO]: [Server] so i can back it up
+[11:53:07] [Server thread/INFO]: <KangaReuben> gimme a sec
+[11:53:10] [Server thread/INFO]: KangaReuben was slain by Spider
+[11:53:37] [Server thread/INFO]: KangaReuben lost connection: Disconnected
+[11:53:37] [Server thread/INFO]: KangaReuben left the game
+[11:53:45] [Server thread/INFO]: Stopping the server
+[11:53:45] [Server thread/INFO]: Stopping server
+[11:53:45] [Server thread/INFO]: Saving players
+[11:53:45] [Server thread/INFO]: Saving worlds
+[11:53:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[11:53:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:53:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[11:53:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:53:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[11:53:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:53:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:53:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:53:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
