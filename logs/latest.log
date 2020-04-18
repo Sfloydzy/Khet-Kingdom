@@ -1,92 +1,13 @@
-[02:27:03] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:27:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:27:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:27:03] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:27:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:27:04] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[02:27:04] [Server thread/INFO]: Loading properties
-[02:27:04] [Server thread/INFO]: Default game type: SURVIVAL
-[02:27:04] [Server thread/INFO]: Generating keypair
-[02:27:04] [Server thread/INFO]: Starting Minecraft server on 25.120.13.182:25565
-[02:27:04] [Server thread/INFO]: Using default channel type
-[02:27:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:27:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:27:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:27:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:27:07] [Server thread/INFO]: Preparing level "world"
-[02:27:07] [Server thread/INFO]: Reloading ResourceManager: Default
-[02:27:09] [Server thread/INFO]: Loaded 6 recipes
-[02:27:09] [Server thread/INFO]: Loaded 825 advancements
-[02:27:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:27:11] [Server thread/INFO]: Preparing spawn area: 0%
-[02:27:11] [Server thread/INFO]: Preparing spawn area: 0%
-[02:27:11] [Server thread/INFO]: Preparing spawn area: 0%
-[02:27:11] [Server thread/INFO]: Preparing spawn area: 0%
-[02:27:11] [Server thread/INFO]: Time elapsed: 2009 ms
-[02:27:11] [Server thread/INFO]: Done (4.549s)! For help, type "help"
-[02:27:23] [Server thread/INFO]: KangaReuben[/25.120.20.117:64967] logged in with entity id 427 at (-138.0442291591051, 75.5, -130.5255927620368)
-[02:27:23] [Server thread/INFO]: KangaReuben joined the game
-[02:32:49] [Server thread/INFO]: KrispinKreme[/25.68.72.200:50053] logged in with entity id 1093 at (-286.04774145709746, 69.0, 588.5616424941032)
-[02:32:49] [Server thread/INFO]: KrispinKreme joined the game
-[02:37:43] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3470, l='world', x=31.93, y=70.00, z=344.05]
-[02:46:19] [Server thread/INFO]: KrispinKreme lost connection: Disconnected
-[02:46:19] [Server thread/INFO]: KrispinKreme left the game
-[02:47:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/6279, l='world', x=19.20, y=74.00, z=155.80]
-[02:47:41] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/6359, l='world', x=31.18, y=64.00, z=191.88]
-[02:47:56] [Server thread/INFO]: KangaReuben lost connection: Disconnected
-[02:47:56] [Server thread/INFO]: KangaReuben left the game
-[02:50:24] [Server thread/INFO]: KrispinKreme[/25.68.72.200:50138] logged in with entity id 6401 at (-413.69999998807907, 31.0, 650.6381816928676)
-[02:50:24] [Server thread/INFO]: KrispinKreme joined the game
-[02:50:51] [Server thread/INFO]: KrispinKreme lost connection: Disconnected
-[02:50:51] [Server thread/INFO]: KrispinKreme left the game
-[02:59:22] [Server thread/INFO]: KrispinKreme[/25.68.72.200:50200] logged in with entity id 6680 at (-415.5254923023895, 30.0, 652.3688688436483)
-[02:59:22] [Server thread/INFO]: KrispinKreme joined the game
-[03:06:36] [Server thread/INFO]: KrispinKreme was shot by Skeleton
-[03:06:37] [Server thread/WARN]: KrispinKreme moved too quickly! 72.33209408788366,47.0000002,-94.33016793354193
-[03:26:06] [Server thread/INFO]: KrispinKreme was shot by Skeleton
-[03:36:43] [Server thread/INFO]: KrispinKreme lost connection: Disconnected
-[03:36:43] [Server thread/INFO]: KrispinKreme left the game
-[10:09:48] [Server thread/INFO]: KangaReuben[/25.120.20.117:50074] logged in with entity id 13869 at (64.85920383107054, 64.0, 217.37859897615516)
-[10:09:48] [Server thread/INFO]: KangaReuben joined the game
-[11:09:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/19771, l='world', x=19.20, y=74.00, z=154.49]
-[11:10:31] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/19923, l='world', x=28.07, y=64.00, z=191.01]
-[11:25:04] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/22107, l='world', x=105.50, y=33.35, z=296.40]
-[11:31:18] [Server thread/INFO]: KangaReuben was slain by Zombie
-[11:31:19] [Server thread/WARN]: KangaReuben moved too quickly! -12.095507914142217,113.00000019999999,4.430213837710994
-[11:32:27] [Server thread/INFO]: KangaReuben was slain by Spider
-[11:32:29] [Server thread/WARN]: KangaReuben moved too quickly! -12.966949777058971,113.00000019999999,-11.199999988079071
-[11:32:58] [Server thread/INFO]: KangaReuben was slain by Spider
-[11:32:59] [Server thread/WARN]: KangaReuben moved too quickly! -1.393457529547561,113.00000019999999,7.5623236127306654
-[11:33:33] [Server thread/INFO]: KangaReuben was shot by Skeleton
-[11:37:56] [Server thread/INFO]: KangaReuben was slain by Zombie
-[11:37:57] [Server thread/WARN]: KangaReuben moved too quickly! 14.01297440608306,112.00000019999999,33.10366945450494
-[11:39:47] [Server thread/INFO]: KangaReuben was pricked to death
-[11:41:41] [Server thread/INFO]: KangaReuben was pricked to death
-[11:51:10] [Server thread/INFO]: KangaReuben was shot by Skeleton
-[11:51:12] [Server thread/WARN]: KangaReuben moved too quickly! -14.504011407471694,113.00000019999999,9.050678277763495
-[11:51:12] [Server thread/WARN]: KangaReuben moved too quickly! -14.504011407471694,113.00000019999999,9.050678277763495
-[11:52:24] [Server thread/INFO]: Unknown command
-[11:52:24] [Server thread/INFO]:  /say ayy<--[HERE]
-[11:52:25] [Server thread/INFO]: KangaReuben was slain by Zombie
-[11:52:26] [Server thread/WARN]: KangaReuben moved too quickly! 1.6647867833596024,106.00000019999999,-8.18550693481734
-[11:52:27] [Server thread/WARN]: KangaReuben moved too quickly! 1.6647867833596024,106.00000019999999,-8.18550693481734
-[11:52:27] [Server thread/INFO]: [Server] ayy
-[11:52:48] [Server thread/INFO]: [Server] im going to restart the server for a bit
-[11:52:53] [Server thread/INFO]: [Server] so i can back it up
-[11:53:07] [Server thread/INFO]: <KangaReuben> gimme a sec
-[11:53:10] [Server thread/INFO]: KangaReuben was slain by Spider
-[11:53:37] [Server thread/INFO]: KangaReuben lost connection: Disconnected
-[11:53:37] [Server thread/INFO]: KangaReuben left the game
-[11:53:45] [Server thread/INFO]: Stopping the server
-[11:53:45] [Server thread/INFO]: Stopping server
-[11:53:45] [Server thread/INFO]: Saving players
-[11:53:45] [Server thread/INFO]: Saving worlds
-[11:53:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[11:53:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:53:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[11:53:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:53:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[11:53:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:53:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:53:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:53:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:09:17] [Server thread/INFO]: Stopping the server
+[01:09:18] [Server thread/INFO]: Stopping server
+[01:09:18] [Server thread/INFO]: Saving players
+[01:09:18] [Server thread/INFO]: Saving worlds
+[01:09:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[01:09:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:09:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[01:09:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:09:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[01:09:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:09:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:09:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:09:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
