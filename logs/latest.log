@@ -1,13 +1,155 @@
-[01:09:17] [Server thread/INFO]: Stopping the server
-[01:09:18] [Server thread/INFO]: Stopping server
-[01:09:18] [Server thread/INFO]: Saving players
-[01:09:18] [Server thread/INFO]: Saving worlds
-[01:09:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[01:09:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:09:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[01:09:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:09:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[01:09:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:09:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:09:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:09:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:00:18] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/484189, l='world', x=-275.05, y=58.00, z=590.24]
+[00:00:52] [Server thread/INFO]: <Om3gaNut> all done
+[00:01:26] [Server thread/INFO]: <Om3gaNut> nice!
+[00:01:35] [Server thread/INFO]: <Om3gaNut> why ur water so uneven
+[00:01:39] [Server thread/INFO]: <Om3gaNut> or u want it to flow
+[00:01:41] [Server thread/INFO]: <KangaReuben> mike try ur
+[00:01:49] [Server thread/INFO]: <KangaReuben> new elevator
+[00:01:49] [Server thread/INFO]: <J9> haha isit? ya sure
+[00:01:59] [Server thread/INFO]: <Om3gaNut> reubs i did
+[00:02:01] [Server thread/INFO]: <Om3gaNut> insane
+[00:02:17] [Server thread/INFO]: <Om3gaNut> j9 u should make a lattice for ur flowers
+[00:02:22] [Server thread/INFO]: <J9> oo?
+[00:02:23] [Server thread/INFO]: <J9> how?
+[00:02:30] [Server thread/INFO]: <Om3gaNut> hm
+[00:02:37] [Server thread/INFO]: <Om3gaNut> can try use fences for the effec
+[00:03:50] [Server thread/INFO]: <J9> mike WA
+[00:04:04] [Server thread/INFO]: <J9> whatsapp
+[00:04:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-348, y=47, z=512} fk{x=-348, y=46, z=511}
+[00:04:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-348, y=47, z=512} fk{x=-348, y=46, z=511}
+[00:04:34] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/486272, l='world', x=20.44, y=74.00, z=154.20]
+[00:04:34] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/486272, l='world', x=20.44, y=74.00, z=154.20]
+[00:04:36] [Server thread/INFO]: Om3gaNut lost connection: Disconnected
+[00:04:36] [Server thread/INFO]: Om3gaNut left the game
+[00:04:36] [Server thread/INFO]: Om3gaNut[/25.121.167.183:50715] logged in with entity id 486273 at (-38.33931645114095, 78.0, 144.23664360746645)
+[00:04:36] [Server thread/INFO]: Om3gaNut joined the game
+[00:07:53] [Server thread/WARN]: KangaReuben moved too quickly! 2.9155039781584264,-4.740401001191863,-8.3579259125529
+[00:11:05] [Server thread/INFO]: KangaReuben was impaled by Drowned
+[00:14:04] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/489230, l='world', x=38.74, y=64.00, z=190.83]
+[00:14:04] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/489230, l='world', x=38.74, y=64.00, z=190.83]
+[00:14:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/489259, l='world', x=35.41, y=64.00, z=190.37]
+[00:14:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/489259, l='world', x=35.41, y=64.00, z=190.37]
+[00:20:32] [Server thread/INFO]: <Om3gaNut> reubs wyd
+[00:20:42] [Server thread/INFO]: <KangaReuben> working on exodus
+[00:20:42] [Server thread/INFO]: [Server] what yall doing
+[00:20:45] [Server thread/INFO]: <KangaReuben> main lobby
+[00:20:49] [Server thread/INFO]: <KangaReuben> laying the groundwork
+[00:20:54] [Server thread/INFO]: <KangaReuben> the circular base
+[00:20:57] [Server thread/INFO]: <Om3gaNut> i can come help
+[00:20:59] [Server thread/INFO]: [Server] bro
+[00:21:16] [Server thread/INFO]: <KangaReuben> yo
+[00:21:18] [Server thread/INFO]: [Server] waiting for that soul speed to come out
+[00:21:18] [Server thread/INFO]: <KangaReuben> follow me first
+[00:21:34] [Server thread/INFO]: [Server] soUl S P E E D
+[00:21:50] [Server thread/INFO]: <KangaReuben> get a bunch of smooth stone
+[00:21:55] [Server thread/INFO]: <KangaReuben> make it into slabs
+[00:22:36] [Server thread/INFO]: <KangaReuben> check tele
+[00:22:39] [Server thread/INFO]: <KangaReuben> i sent a link
+[00:22:44] [Server thread/INFO]: <KangaReuben> we're doing width 69
+[00:22:46] [Server thread/INFO]: <KangaReuben> lmao
+[00:22:52] [Server thread/INFO]: <Om3gaNut> lmao
+[00:23:32] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/492320, l='world', x=-270.56, y=58.00, z=589.86]
+[00:23:37] [Server thread/INFO]: <Om3gaNut> height?
+[00:23:44] [Server thread/INFO]: <KangaReuben> dw about height first
+[00:23:47] [Server thread/INFO]: <KangaReuben> its j a circle tbf
+[00:23:48] [Server thread/INFO]: <KangaReuben> hahaha
+[00:23:52] [Server thread/INFO]: <KangaReuben> should be 69 also right
+[00:24:00] [Server thread/INFO]: <Om3gaNut> ye
+[00:31:13] [Server thread/INFO]: <KangaReuben> it'll intersect the mountain
+[00:31:15] [Server thread/INFO]: <KangaReuben> j mine into it
+[00:32:58] [Server thread/INFO]: <KangaReuben> it's j now occurring to me how big of a project this is
+[00:33:01] [Server thread/INFO]: <KangaReuben> LOL
+[00:34:14] [Server thread/INFO]: <KangaReuben> 3,2,3,2,2,2,2,2,2,2,2,1,2,2,1,2,1,1,2,1,2,1,1,1,1,2
+[00:34:48] [Server thread/INFO]: <J9> reubs need any help?
+[00:34:56] [Server thread/INFO]: <KangaReuben> Yeah
+[00:34:59] [Server thread/INFO]: <KangaReuben> we gonna need loads of glass
+[00:37:45] [Server thread/INFO]: <Om3gaNut> wait
+[00:37:48] [Server thread/INFO]: <Om3gaNut> yes
+[00:37:51] [Server thread/INFO]: <Om3gaNut> correct
+[00:38:00] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/495705, l='world', x=-353.22, y=48.00, z=491.99]
+[00:38:33] [Server thread/INFO]: <J9> reubs have a shovel?
+[00:38:48] [Server thread/INFO]: <KangaReuben> i'll dig w u
+[00:38:49] [Server thread/INFO]: <KangaReuben> wait
+[00:38:53] [Server thread/INFO]: <KangaReuben> do you have a shovel?
+[00:39:00] [Server thread/INFO]: <J9> mine died out
+[00:39:03] [Server thread/INFO]: <KangaReuben> shag
+[00:39:15] [Server thread/INFO]: <KangaReuben> how much sand do you have now
+[00:39:52] [Server thread/INFO]: <KangaReuben> gotta fill this circle in now mike
+[00:39:54] [Server thread/INFO]: <J9> about 70
+[00:40:03] [Server thread/INFO]: <KangaReuben> kk janyne j go smelt that first
+[00:40:04] [Server thread/INFO]: <Om3gaNut> smooth stone slabs?
+[00:40:07] [Server thread/INFO]: <KangaReuben> yeahboi
+[00:40:28] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/496220, l='world', x=-277.06, y=58.00, z=589.27]
+[00:40:28] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/496220, l='world', x=-277.06, y=58.00, z=589.27]
+[00:40:45] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/496272, l='world', x=-270.55, y=58.00, z=593.55]
+[00:40:53] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-328, y=49, z=528} fk{x=-328, y=48, z=528}
+[00:42:23] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/496839, l='world', x=-270.31, y=58.00, z=591.74]
+[00:42:26] [Server thread/INFO]: <Om3gaNut> reubs
+[00:42:29] [Server thread/INFO]: <KangaReuben> yo
+[00:42:29] [Server thread/INFO]: <Om3gaNut> im gonna blow it up
+[00:42:36] [Server thread/INFO]: <Om3gaNut> the hill in the way
+[00:42:40] [Server thread/INFO]: <KangaReuben> kk
+[00:44:07] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-287, y=57, z=493} fk{x=-287, y=55, z=494}
+[00:44:13] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-290, y=53, z=485} fk{x=-289, y=53, z=486}
+[00:44:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-286, y=55, z=486} fk{x=-287, y=54, z=486}
+[00:44:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-285, y=55, z=486} fk{x=-287, y=54, z=486}
+[00:44:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-285, y=55, z=486} fk{x=-287, y=54, z=486}
+[00:44:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-285, y=55, z=486} fk{x=-287, y=54, z=486}
+[00:44:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-285, y=55, z=486} fk{x=-287, y=54, z=486}
+[00:44:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-285, y=55, z=486} fk{x=-287, y=54, z=486}
+[00:44:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-285, y=55, z=486} fk{x=-287, y=54, z=486}
+[00:48:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[00:53:57] [Server thread/INFO]: <KangaReuben> im gonna go get more cobble to smelt
+[00:54:27] [Server thread/INFO]: <J9> reubs the glass is in the furnace in crispins
+[00:54:35] [Server thread/INFO]: <J9> u know where?
+[00:54:35] [Server thread/INFO]: <KangaReuben> kk
+[00:54:38] [Server thread/INFO]: <KangaReuben> yeah
+[00:54:39] [Server thread/INFO]: Om3gaNut was blown up by Om3gaNut
+[00:54:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[00:57:34] [Server thread/INFO]: KangaReuben tried to swim in lava
+[00:58:43] [Server thread/INFO]: J9 was slain by Drowned
+[01:03:18] [Server thread/INFO]: J9 was shot by Skeleton
+[01:03:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-344, y=48, z=508} fk{x=-344, y=47, z=508}
+[01:04:14] [Server thread/INFO]: <J9> BYE REUBS
+[01:04:22] [Server thread/INFO]: <J9> all d glass is int he chest
+[01:04:22] [Server thread/INFO]: <KangaReuben> omg bye :(
+[01:04:26] [Server thread/INFO]: <J9> goodnight
+[01:04:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/504477, l='world', x=-276.80, y=58.00, z=591.47]
+[01:04:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/504477, l='world', x=-276.80, y=58.00, z=591.47]
+[01:04:32] [Server thread/INFO]: <J9> and in the furnaces
+[01:04:35] [Server thread/INFO]: J9 lost connection: Disconnected
+[01:04:35] [Server thread/INFO]: J9 left the game
+[01:05:44] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-343, y=47, z=504} fk{x=-343, y=46, z=504}
+[01:14:48] [Server thread/INFO]: <Om3gaNut> reubs ah
+[01:14:55] [Server thread/INFO]: <Om3gaNut> this is cfm too shallow
+[01:14:58] [Server thread/INFO]: <KangaReuben> i know
+[01:15:01] [Server thread/INFO]: <Om3gaNut> our dome is gonna poke out
+[01:15:04] [Server thread/INFO]: <KangaReuben> i dont think we can do a perfect dome
+[01:15:30] [Server thread/INFO]: <KangaReuben> maybe a flat top
+[01:15:49] [Server thread/INFO]: <KangaReuben> i just wanna know that we can do it
+[01:17:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-299, y=47, z=501} fk{x=-299, y=46, z=501}
+[01:19:45] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/507446, l='world', x=-270.58, y=58.00, z=589.91]
+[01:21:57] [Server thread/INFO]: <Om3gaNut> yo
+[01:22:00] [Server thread/INFO]: <Om3gaNut> im going off
+[01:22:01] [Server thread/INFO]: <KangaReuben> yo
+[01:22:03] [Server thread/INFO]: <KangaReuben> yeah please do
+[01:22:05] [Server thread/INFO]: <Om3gaNut> night
+[01:22:09] [Server thread/INFO]: <KangaReuben> night
+[01:22:12] [Server thread/INFO]: Om3gaNut lost connection: Disconnected
+[01:22:12] [Server thread/INFO]: Om3gaNut left the game
+[01:27:04] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/509162, l='world', x=-269.70, y=58.00, z=595.80]
+[01:46:32] [Server thread/INFO]: KangaReuben lost connection: Disconnected
+[01:46:32] [Server thread/INFO]: KangaReuben left the game
+[06:18:04] [Server thread/INFO]: Stopping the server
+[06:18:04] [Server thread/INFO]: Stopping server
+[06:18:05] [Server thread/INFO]: Saving players
+[06:18:06] [Server thread/INFO]: Saving worlds
+[06:18:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[06:18:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:18:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[06:18:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:18:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[06:18:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:18:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:18:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:18:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
