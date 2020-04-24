@@ -1,352 +1,85 @@
-[00:00:05] [Server thread/INFO]: <KrispinKreme> kk
-[00:00:28] [Server thread/INFO]: KrispinKreme has made the advancement [Ice Bucket Challenge]
-[00:00:32] [Server thread/INFO]: <KrispinKreme> tq!
-[00:00:35] [Server thread/INFO]: <KangaReuben> mike
-[00:00:37] [Server thread/INFO]: <KangaReuben> im gonna head back
-[00:00:41] [Server thread/INFO]: <Om3gaNut> aight
-[00:00:44] [Server thread/INFO]: <KangaReuben> inv full
-[00:00:48] [Server thread/INFO]: <KangaReuben> didnt plan to explore
-[00:00:51] [Server thread/INFO]: KangaReuben tried to swim in lava
-[00:00:53] [Server thread/WARN]: KangaReuben moved too quickly! 1269.5674710854898,59.0000002,1128.7908480819824
-[00:00:54] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/35705, l='world', x=19.59, y=74.00, z=154.20]
-[00:01:35] [Server thread/INFO]: KrispinKreme burned to death
-[00:01:43] [Server thread/INFO]: <KangaReuben> cris
-[00:01:45] [Server thread/INFO]: <KangaReuben> i got 15 diamond
-[00:01:47] [Server thread/INFO]: <KangaReuben> from that area
-[00:01:49] [Server thread/INFO]: <KrispinKreme> sick
-[00:01:50] [Server thread/INFO]: <KangaReuben> i pass u later
-[00:01:50] [Server thread/INFO]: <KrispinKreme> wtf
-[00:01:55] [Server thread/INFO]: <KangaReuben> mike got 19
-[00:01:57] [Server thread/INFO]: <Om3gaNut> i got 41
-[00:02:01] [Server thread/INFO]: <KangaReuben> now 41 i guess
-[00:02:05] [Server thread/INFO]: <KrispinKreme> ballinggg
-[00:02:06] [Server thread/INFO]: <Om3gaNut> i found another 8 block vein
-[00:02:12] [Server thread/INFO]: <Om3gaNut> cris get the fortune enchantment
-[00:02:18] [Server thread/INFO]: <Om3gaNut> then u can ball
-[00:05:18] [Server thread/WARN]: KangaReuben moved too quickly! -10.10097090542098,0.0,0.0716707337318212
-[00:05:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2262ms or 45 ticks behind
-[00:07:01] [Server thread/INFO]: <J9> are yall in the nether
-[00:07:09] [Server thread/INFO]: <KangaReuben> nope
-[00:08:46] [Server thread/INFO]: <KrispinKreme> so if we wna create a nether portal
-[00:08:54] [Server thread/INFO]: <KrispinKreme> do we just set the blocks and then cast it
-[00:09:03] [Server thread/INFO]: <KrispinKreme> and then find the corresponding portal in the nether
-[00:09:08] [Server thread/INFO]: <KangaReuben> what exactly are you tryna dp
-[00:09:29] [Server thread/INFO]: <KrispinKreme> hmm
-[00:09:31] [Server thread/INFO]: <KrispinKreme> nothing much
-[00:09:37] [Server thread/INFO]: <KrispinKreme> just tryna figure out how it wortks
-[00:09:41] [Server thread/INFO]: <KangaReuben> so
-[00:09:47] [Server thread/INFO]: <KangaReuben> you set a nether portal in the overworld
-[00:09:56] [Server thread/INFO]: <KangaReuben> it'll probably bring you through one of the established poortals we've alr made
-[00:10:03] [Server thread/INFO]: <KangaReuben> but you check the coords of your overworld portal
-[00:10:09] [Server thread/INFO]: <KangaReuben> divide the x and z by 8
-[00:10:15] [Server thread/INFO]: <KangaReuben> and create a portal in the corresponding nether coords
-[00:10:27] [Server thread/INFO]: <KrispinKreme> oh sick
-[00:11:01] [Server thread/INFO]: <KrispinKreme> wheres the cow farm
-[00:11:07] [Server thread/INFO]: <KrispinKreme> i need some leather
-[00:11:13] [Server thread/INFO]: <KangaReuben> island on the left of my house
-[00:11:21] [Server thread/INFO]: <KrispinKreme> oh is it the unethical one
-[00:12:11] [Server thread/INFO]: <KangaReuben> mike you went back alr ah
-[00:12:12] [Server thread/INFO]: <KangaReuben> yeah
-[00:12:17] [Server thread/INFO]: <KangaReuben> dont kill the cows
-[00:12:29] [Server thread/INFO]: <Om3gaNut> not yet
-[00:12:30] [Server thread/INFO]: <KangaReuben> check the chest underneath them
-[00:12:33] [Server thread/INFO]: <Om3gaNut> but im heading back now
-[00:12:36] [Server thread/INFO]: <KrispinKreme> ok
-[00:12:38] [Server thread/INFO]: J9 was shot by Skeleton
-[00:12:39] [Server thread/INFO]: <Om3gaNut> nothing much
-[00:13:34] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/42724, l='world', x=20.16, y=74.00, z=155.43]
-[00:13:53] [Server thread/INFO]: Om3gaNut tried to swim in lava
-[00:18:02] [Server thread/INFO]: KrispinKreme has made the advancement [Enchanter]
-[00:20:16] [Server thread/INFO]: <KrispinKreme> you know mu batcave
-[00:20:20] [Server thread/INFO]: <KrispinKreme> is more like
-[00:20:23] [Server thread/INFO]: <KrispinKreme> a foreman's office
-[00:20:31] [Server thread/INFO]: <KrispinKreme> it feels like a container office
-[00:23:26] [Server thread/INFO]: <KrispinKreme> j9
-[00:23:28] [Server thread/INFO]: <KrispinKreme> do what
-[00:24:39] [Server thread/INFO]: KrispinKreme lost connection: Disconnected
-[00:24:39] [Server thread/INFO]: KrispinKreme left the game
-[00:25:38] [Server thread/INFO]: <Om3gaNut> wth
-[00:25:40] [Server thread/INFO]: <Om3gaNut> reubs
-[00:25:43] [Server thread/INFO]: <Om3gaNut> my anvil broke
-[00:25:54] [Server thread/INFO]: <KangaReuben> first time?
-[00:26:04] [Server thread/INFO]: <Om3gaNut> i didnt know that could happen
-[00:26:08] [Server thread/INFO]: <KangaReuben> HHA
-[00:26:13] [Server thread/INFO]: <KangaReuben> yeah the first time it happened to me i was like wtf
-[00:26:26] [Server thread/INFO]: <KangaReuben> they're expensive too
-[00:26:30] [Server thread/INFO]: <Om3gaNut> ya lor
-[00:30:26] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/50812, l='world', x=-44.63, y=96.00, z=348.46]
-[00:30:47] [Server thread/INFO]: <Om3gaNut> sleep?
-[00:31:13] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/51117, l='world', x=32.24, y=70.00, z=343.34]
-[00:32:05] [Server thread/INFO]: <KangaReuben> im a bit far
-[00:32:08] [Server thread/INFO]: <Om3gaNut> nvm
-[00:34:25] [Server thread/INFO]: KangaReuben tried to swim in lava
-[00:35:07] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/52757, l='world', x=20.80, y=74.00, z=155.30]
-[00:35:07] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/52757, l='world', x=20.80, y=74.00, z=155.30]
-[00:35:59] [Server thread/INFO]: <KangaReuben> i have so. much. coal.
-[00:38:10] [Server thread/INFO]: <KangaReuben> mike
-[00:38:11] [Server thread/INFO]: <KangaReuben> im gonna
-[00:38:14] [Server thread/INFO]: <KangaReuben> fill in the end portal
-[00:38:17] [Server thread/INFO]: <KangaReuben> with all my eyes of ender
-[00:38:19] [Server thread/INFO]: <KangaReuben> i have all but 1
-[00:38:29] [Server thread/INFO]: <Om3gaNut> take from me
-[00:38:29] [Server thread/INFO]: <KangaReuben> so we can fill that last one and generate the portal tgt
-[00:38:32] [Server thread/INFO]: <Om3gaNut> oh
-[00:38:34] [Server thread/INFO]: <Om3gaNut> ok haha
-[00:38:40] [Server thread/INFO]: <Om3gaNut> see when everyone can come online?
-[00:38:46] [Server thread/INFO]: <KangaReuben> yeah
-[00:43:08] [Server thread/INFO]: <KangaReuben> also
-[00:43:13] [Server thread/INFO]: <KangaReuben> apparently a boat on ice
-[00:43:15] [Server thread/INFO]: <KangaReuben> moves fking fast
-[00:43:20] [Server thread/INFO]: <Om3gaNut> i heard about that
-[00:43:25] [Server thread/INFO]: <Om3gaNut> we even found the icebergs needed
-[00:43:39] [Server thread/INFO]: <KangaReuben> might have to augment our netherhub with some
-[00:44:05] [Server thread/INFO]: <KangaReuben> wah we've come such a long way
-[00:44:08] [Server thread/INFO]: <KangaReuben> with this base
-[00:44:13] [Server thread/INFO]: <KangaReuben> j looking at the previous load
-[00:44:16] [Server thread/INFO]: <KangaReuben> this is insane
-[00:44:18] [Server thread/INFO]: <KangaReuben> mike wyd
-[00:44:58] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/56954, l='world', x=19.20, y=74.00, z=154.20]
-[00:46:32] [Server thread/INFO]: <Om3gaNut> reubs
-[00:46:42] [Server thread/INFO]: <Om3gaNut> did u know theres a ocean literally right behind exodus
-[00:47:00] [Server thread/INFO]: <KangaReuben> what
-[00:47:05] [Server thread/INFO]: <KangaReuben> you're kidding
-[00:47:08] [Server thread/INFO]: <Om3gaNut> just go south lol
-[00:47:09] [Server thread/INFO]: <KangaReuben> pls say u're kidding...
-[00:47:11] [Server thread/INFO]: <KangaReuben> god damn
-[00:47:29] [Server thread/INFO]: <KangaReuben> ladies n gentlemen
-[00:47:30] [Server thread/INFO]: <KangaReuben> we lost
-[00:48:00] [Server thread/INFO]: <Om3gaNut> relocate?
-[00:48:01] [Server thread/INFO]: <Om3gaNut> haha
-[00:48:02] [Server thread/INFO]: <Om3gaNut> or
-[00:48:06] [Server thread/INFO]: <Om3gaNut> suez canal
-[00:48:06] [Server thread/INFO]: <KangaReuben> so much effort tho.....
-[00:48:09] [Server thread/INFO]: <Om3gaNut> and do both
-[00:48:14] [Server thread/INFO]: <KangaReuben> i'll take a look
-[00:48:18] [Server thread/INFO]: <KangaReuben> im enchanting a bow now
-[00:50:09] [Server thread/INFO]: J9 lost connection: Disconnected
-[00:50:09] [Server thread/INFO]: J9 left the game
-[00:58:14] [Server thread/INFO]: <KangaReuben> ah
-[00:58:15] [Server thread/INFO]: <KangaReuben> i see..
-[00:58:18] [Server thread/INFO]: <KangaReuben> the ocean...
-[01:01:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22419ms or 448 ticks behind
-[01:02:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
-[01:02:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16446ms or 328 ticks behind
-[01:03:09] [Server thread/WARN]: KangaReuben moved too quickly! 1.9575401369644965,0.017262555867610274,-10.431785923984535
-[01:03:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7139ms or 142 ticks behind
-[01:03:11] [Server thread/WARN]: KangaReuben moved too quickly! 5.6079278158138095,1.3321646813304184,-9.939358007794567
-[01:04:16] [Server thread/INFO]: <KangaReuben> mike idk if i have the heart to start over
-[01:04:26] [Server thread/INFO]: <KangaReuben> buti think if we make it like
-[01:04:28] [Server thread/INFO]: <KangaReuben> a group project
-[01:04:30] [Server thread/INFO]: <KangaReuben> idm
-[01:09:36] [Server thread/INFO]: DodgeyDoge[/25.120.13.182:59231] logged in with entity id 66310 at (-205.437273742085, 183.62215900693823, 716.7426824284827)
-[01:09:36] [Server thread/INFO]: DodgeyDoge joined the game
-[01:09:39] [Server thread/INFO]: <KangaReuben> yooo
-[01:10:25] [Server thread/INFO]: <DodgeyDoge> sup
-[01:10:59] [Server thread/INFO]: <DodgeyDoge> finally eating dinner and done with work for the day lol
-[01:10:59] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/66894, l='world', x=-277.19, y=58.00, z=595.30]
-[01:11:05] [Server thread/INFO]: <DodgeyDoge> what yall been up to
-[01:11:31] [Server thread/INFO]: <KangaReuben> not much
-[01:11:39] [Server thread/INFO]: <KangaReuben> i filled in all but 1 of the eyes of ender
-[01:11:43] [Server thread/INFO]: <KangaReuben> so when we make a move for the end
-[01:11:50] [Server thread/INFO]: <KangaReuben> we just gotta add 1 more to activate it
-[01:11:59] [Server thread/INFO]: <KangaReuben> also mike and i explored the cave next to the stronghold
-[01:12:04] [Server thread/INFO]: <KangaReuben> got a total of like 64 diamond
-[01:12:30] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/67187, l='world', x=-269.27, y=58.00, z=594.54]
-[01:12:32] [Server thread/INFO]: <KangaReuben> i've also finished a nether portal for hanyne
-[01:12:38] [Server thread/INFO]: <KangaReuben> and the base layer for exodus
-[01:13:09] [Server thread/INFO]: <DodgeyDoge> exodus is starting to get like really big
-[01:13:36] [Server thread/INFO]: <KangaReuben> tp to me
-[01:13:53] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to KangaReuben]
-[01:14:06] [Server thread/INFO]: <DodgeyDoge> insane
-[01:14:22] [Server thread/INFO]: <KangaReuben> its a bit shallow
-[01:14:26] [Server thread/INFO]: <KangaReuben> that's the only problem
-[01:15:04] [Server thread/INFO]: <DodgeyDoge> its ok when you build the dome the lights will be visible from surface
-[01:15:15] [Server thread/INFO]: <KangaReuben> but it wont be fully submerged :(
-[01:18:29] [Server thread/INFO]: [DodgeyDoge: Set own game mode to Spectator Mode]
-[01:18:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01:19:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[01:19:08] [Server thread/INFO]: <KangaReuben> what if we make it open top
-[01:19:22] [Server thread/INFO]: <KangaReuben> nike wyd
-[01:19:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[01:20:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[01:20:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3033ms or 60 ticks behind
-[01:20:59] [Server thread/INFO]: <DodgeyDoge> wait what about the revine
-[01:21:07] [Server thread/INFO]: <KangaReuben> what ravine
-[01:21:12] [Server thread/INFO]: <DodgeyDoge> why dont you build along the sides of the walls
-[01:21:14] [Server thread/INFO]: <KangaReuben> the one below the platform>
-[01:21:17] [Server thread/INFO]: <KangaReuben> yeah we might
-[01:21:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
-[01:21:25] [Server thread/INFO]: <KangaReuben> im just thinking about the main hub first
-[01:21:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01:22:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01:22:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[01:23:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01:23:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01:24:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[01:24:24] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to Om3gaNut]
-[01:24:44] [Server thread/INFO]: <DodgeyDoge> he's afk at the blaze farm
-[01:24:52] [Server thread/INFO]: <DodgeyDoge> jeez it does lag my com too
-[01:25:52] [Server thread/INFO]: <DodgeyDoge> rip frame rate
-[01:27:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[01:29:23] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/70289, l='world', x=-269.58, y=58.00, z=594.48]
-[01:30:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/70368, l='world', x=-271.21, y=58.00, z=590.60]
-[01:30:56] [Server thread/INFO]: <KangaReuben> lmao
-[01:31:10] [Server thread/INFO]: <KangaReuben> yeah it destroys frame rate
-[01:31:20] [Server thread/INFO]: <KangaReuben> how long has he been there wtf
-[01:31:49] [Server thread/INFO]: <KangaReuben> im keen to go to the end soon
-[01:31:53] [Server thread/INFO]: <KangaReuben> also we need mroe wood
-[01:32:17] [Server thread/INFO]: <KangaReuben> probably the material we undervalue the most
-[01:33:12] [Server thread/INFO]: <KangaReuben> geez
-[01:33:19] [Server thread/INFO]: <Om3gaNut> wait
-[01:33:21] [Server thread/INFO]: <Om3gaNut> mine
-[01:33:24] [Server thread/INFO]: <KangaReuben> i came in and my frame rate just died
-[01:33:33] [Server thread/INFO]: <KangaReuben> wasnt gonna steal it
-[01:33:41] [Server thread/INFO]: <KangaReuben> j wanted to see
-[01:33:56] [Server thread/INFO]: <Om3gaNut> haha soz i needed the levels
-[01:34:08] [Server thread/INFO]: <KangaReuben> nw i wasnt planning on levelling anytime soon
-[01:34:38] [Server thread/INFO]: <Om3gaNut> k
-[01:34:39] [Server thread/INFO]: <Om3gaNut> night
-[01:34:42] [Server thread/INFO]: <Om3gaNut> going to bed
-[01:35:00] [Server thread/INFO]: Om3gaNut lost connection: Disconnected
-[01:35:00] [Server thread/INFO]: Om3gaNut left the game
-[01:35:19] [Server thread/INFO]: <KangaReuben> night night
-[02:06:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[02:20:41] [Server thread/INFO]: <KangaReuben> scotty
-[02:20:47] [Server thread/INFO]: <KangaReuben> im afking but i'll log off before i sleep
-[02:20:54] [Server thread/INFO]: [Server] aight its ok
-[03:19:10] [Server thread/INFO]: DodgeyDoge lost connection: Disconnected
-[03:19:10] [Server thread/INFO]: DodgeyDoge left the game
-[04:10:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[04:12:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
-[04:15:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[04:15:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3096ms or 61 ticks behind
-[04:15:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
-[04:16:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[04:17:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[04:17:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[04:18:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[04:18:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
-[04:18:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3528ms or 70 ticks behind
-[04:19:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[04:19:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3808ms or 76 ticks behind
-[04:20:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2882ms or 57 ticks behind
-[04:20:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[04:20:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2855ms or 57 ticks behind
-[04:20:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2892ms or 57 ticks behind
-[04:21:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[04:21:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
-[04:21:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[04:22:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3484ms or 69 ticks behind
-[04:22:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3823ms or 76 ticks behind
-[04:22:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
-[04:23:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[04:23:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2687ms or 53 ticks behind
-[04:23:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2580ms or 51 ticks behind
-[04:24:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2699ms or 53 ticks behind
-[04:24:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2942ms or 58 ticks behind
-[04:24:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[04:24:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2881ms or 57 ticks behind
-[04:25:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2550ms or 51 ticks behind
-[04:25:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3116ms or 62 ticks behind
-[04:25:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2850ms or 57 ticks behind
-[04:26:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2798ms or 55 ticks behind
-[04:26:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3141ms or 62 ticks behind
-[04:26:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4475ms or 89 ticks behind
-[04:27:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4241ms or 84 ticks behind
-[04:27:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5466ms or 109 ticks behind
-[04:27:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5314ms or 106 ticks behind
-[04:28:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4641ms or 92 ticks behind
-[04:28:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5232ms or 104 ticks behind
-[04:28:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6132ms or 122 ticks behind
-[04:29:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2760ms or 55 ticks behind
-[04:29:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2648ms or 52 ticks behind
-[04:29:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4491ms or 89 ticks behind
-[04:30:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3648ms or 72 ticks behind
-[04:30:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3507ms or 70 ticks behind
-[04:30:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4858ms or 97 ticks behind
-[04:30:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3783ms or 75 ticks behind
-[04:31:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3751ms or 75 ticks behind
-[04:31:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3781ms or 75 ticks behind
-[04:31:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3741ms or 74 ticks behind
-[04:32:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4499ms or 89 ticks behind
-[04:32:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4468ms or 89 ticks behind
-[04:32:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5225ms or 104 ticks behind
-[04:33:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4427ms or 88 ticks behind
-[04:33:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3944ms or 78 ticks behind
-[04:33:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4572ms or 91 ticks behind
-[04:34:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4765ms or 95 ticks behind
-[04:34:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4087ms or 81 ticks behind
-[04:34:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4728ms or 94 ticks behind
-[04:35:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4777ms or 95 ticks behind
-[04:35:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5518ms or 110 ticks behind
-[04:35:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5181ms or 103 ticks behind
-[04:36:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4814ms or 96 ticks behind
-[04:36:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5305ms or 106 ticks behind
-[04:36:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5842ms or 116 ticks behind
-[04:37:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4844ms or 96 ticks behind
-[04:37:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5671ms or 113 ticks behind
-[04:37:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6174ms or 123 ticks behind
-[04:38:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5504ms or 110 ticks behind
-[04:38:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6314ms or 126 ticks behind
-[04:38:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6191ms or 123 ticks behind
-[04:39:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6298ms or 125 ticks behind
-[04:39:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6508ms or 130 ticks behind
-[04:40:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6050ms or 121 ticks behind
-[04:40:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6941ms or 138 ticks behind
-[04:40:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7592ms or 151 ticks behind
-[04:41:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7939ms or 158 ticks behind
-[04:41:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7586ms or 151 ticks behind
-[04:41:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7312ms or 146 ticks behind
-[04:42:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7591ms or 151 ticks behind
-[04:42:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7681ms or 153 ticks behind
-[04:43:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8607ms or 172 ticks behind
-[04:43:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7865ms or 157 ticks behind
-[04:43:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7748ms or 154 ticks behind
-[04:44:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7840ms or 156 ticks behind
-[04:44:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7781ms or 155 ticks behind
-[04:44:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8755ms or 175 ticks behind
-[04:45:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8157ms or 163 ticks behind
-[04:45:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8704ms or 174 ticks behind
-[04:46:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8904ms or 178 ticks behind
-[04:46:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8895ms or 177 ticks behind
-[04:46:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8568ms or 171 ticks behind
-[04:47:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8912ms or 178 ticks behind
-[04:47:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8810ms or 176 ticks behind
-[04:48:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9563ms or 191 ticks behind
-[04:48:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9502ms or 190 ticks behind
-[04:48:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10253ms or 205 ticks behind
-[04:49:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10252ms or 205 ticks behind
-[04:49:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9779ms or 195 ticks behind
-[04:50:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11468ms or 229 ticks behind
-[04:50:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10715ms or 214 ticks behind
-[04:51:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11097ms or 221 ticks behind
-[04:51:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9884ms or 197 ticks behind
-[04:51:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9920ms or 198 ticks behind
-[04:52:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9780ms or 195 ticks behind
-[04:52:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10298ms or 205 ticks behind
-[04:53:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9940ms or 198 ticks behind
-[04:53:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10770ms or 215 ticks behind
-[04:54:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11253ms or 225 ticks behind
-[04:54:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17787ms or 355 ticks behind
-[04:55:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29129ms or 582 ticks behind
-[04:55:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24307ms or 486 ticks behind
-[04:56:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13937ms or 278 ticks behind
-[04:57:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19985ms or 399 ticks behind
-[04:57:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6349ms or 126 ticks behind
-[04:58:20] [Server thread/INFO]: KangaReuben lost connection: Disconnected
-[04:58:20] [Server thread/INFO]: KangaReuben left the game
-[10:00:00] [Server thread/INFO]: Unknown command
-[10:00:00] [Server thread/INFO]:  /stop<--[HERE]
-[10:00:04] [Server thread/INFO]: Stopping the server
-[10:00:04] [Server thread/INFO]: Stopping server
-[10:00:04] [Server thread/INFO]: Saving players
-[10:00:04] [Server thread/INFO]: Saving worlds
-[10:00:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[10:00:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:00:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[10:00:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:00:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[10:00:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:00:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:00:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:00:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:00:01] [Server thread/INFO]: <KrispinKreme> my cave
+[00:00:05] [Server thread/INFO]: <KrispinKreme> u wna join?
+[00:01:06] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/92305, l='world', x=-383.32, y=29.51, z=589.61]
+[00:01:06] [Server thread/WARN]: Fetching packet for removed entity awb['Andesite'/92306, l='world', x=-377.40, y=32.45, z=593.73]
+[00:01:06] [Server thread/WARN]: Fetching packet for removed entity awb['Torch'/92307, l='world', x=-380.33, y=33.44, z=588.69]
+[00:01:06] [Server thread/WARN]: Fetching packet for removed entity awb['Flint'/92308, l='world', x=-379.55, y=30.67, z=588.48]
+[00:01:06] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/92309, l='world', x=-379.53, y=32.36, z=595.50]
+[00:01:06] [Server thread/WARN]: Fetching packet for removed entity awb['Gravel'/92310, l='world', x=-380.73, y=29.49, z=588.45]
+[00:01:06] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/92311, l='world', x=-379.26, y=31.66, z=594.62]
+[00:01:06] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/92312, l='world', x=-378.73, y=33.38, z=589.43]
+[00:01:06] [Server thread/WARN]: Fetching packet for removed entity awb['Andesite'/92313, l='world', x=-376.46, y=32.62, z=590.27]
+[00:01:06] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/92314, l='world', x=-381.46, y=29.45, z=591.47]
+[00:01:06] [Server thread/WARN]: Fetching packet for removed entity awb['Coal'/92315, l='world', x=-376.45, y=31.54, z=592.43]
+[00:01:06] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/92316, l='world', x=-377.73, y=30.48, z=590.32]
+[00:02:09] [Server thread/INFO]: <KangaReuben> nah
+[00:02:12] [Server thread/INFO]: <KangaReuben> imma afk fish
+[00:02:26] [Server thread/INFO]: <KrispinKreme> aight if u ever feel like blowing shit up, feel free to come here
+[00:04:52] [Server thread/WARN]: Fetching packet for removed entity awb['Granite'/93633, l='world', x=-387.46, y=42.40, z=569.67]
+[00:04:52] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/93634, l='world', x=-387.60, y=41.42, z=571.57]
+[00:04:52] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/93635, l='world', x=-387.49, y=43.47, z=568.45]
+[00:04:52] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/93636, l='world', x=-393.66, y=42.60, z=575.47]
+[00:04:52] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/93637, l='world', x=-389.61, y=41.70, z=573.25]
+[00:04:52] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/93638, l='world', x=-393.47, y=43.59, z=574.25]
+[00:11:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/95567, l='world', x=27.96, y=64.00, z=200.21]
+[00:11:40] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/95778, l='world', x=19.75, y=74.00, z=154.86]
+[00:31:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/102047, l='world', x=19.20, y=74.00, z=155.80]
+[00:35:30] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/103568, l='world', x=31.15, y=64.00, z=200.07]
+[00:36:00] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/103755, l='world', x=19.20, y=74.00, z=155.80]
+[00:37:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[00:39:03] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/104578, l='world', x=20.80, y=74.00, z=155.37]
+[00:43:00] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/105821, l='world', x=20.26, y=74.00, z=155.80]
+[00:46:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/106695, l='world', x=20.80, y=74.00, z=155.80]
+[00:46:56] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/106949, l='world', x=19.84, y=74.00, z=155.02]
+[00:50:33] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/108081, l='world', x=-269.59, y=58.00, z=595.80]
+[00:51:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[00:51:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3494ms or 69 ticks behind
+[00:51:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[00:53:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[00:53:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
+[00:54:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5039ms or 100 ticks behind
+[00:55:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[00:57:09] [Server thread/INFO]: KrispinKreme lost connection: Disconnected
+[00:57:09] [Server thread/INFO]: KrispinKreme left the game
+[00:58:21] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/110362, l='world', x=20.12, y=74.00, z=155.18]
+[01:01:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/110740, l='world', x=32.23, y=64.00, z=200.17]
+[01:07:09] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/111468, l='world', x=19.20, y=74.00, z=154.20]
+[01:13:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/112267, l='world', x=20.03, y=74.00, z=154.20]
+[01:22:51] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/113564, l='world', x=19.68, y=74.00, z=154.50]
+[01:30:07] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/114517, l='world', x=28.56, y=64.00, z=202.89]
+[01:30:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/114518, l='world', x=27.49, y=64.00, z=202.88]
+[01:36:15] [Server thread/INFO]: There are 1 of a max 20 players online: KangaReuben
+[01:43:07] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/116257, l='world', x=19.20, y=74.00, z=154.57]
+[01:47:21] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/116788, l='world', x=28.57, y=64.00, z=189.91]
+[01:55:33] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/117921, l='world', x=26.83, y=64.00, z=189.09]
+[01:59:49] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/118461, l='world', x=27.30, y=64.00, z=189.43]
+[02:01:15] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/118646, l='world', x=26.83, y=64.00, z=189.09]
+[02:04:07] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/119047, l='world', x=19.93, y=74.00, z=155.80]
+[02:09:43] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/119805, l='world', x=19.98, y=74.00, z=155.80]
+[02:10:29] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/119893, l='world', x=19.20, y=74.00, z=155.42]
+[02:15:41] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/120566, l='world', x=19.70, y=74.00, z=154.76]
+[02:19:28] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/121085, l='world', x=20.34, y=74.00, z=155.31]
+[02:27:36] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/122115, l='world', x=20.80, y=74.00, z=155.33]
+[02:28:18] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/122213, l='world', x=19.20, y=74.00, z=154.81]
+[02:35:29] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/123139, l='world', x=20.80, y=74.00, z=155.80]
+[02:35:34] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/123142, l='world', x=19.20, y=74.00, z=154.73]
+[02:38:45] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/123562, l='world', x=39.17, y=64.00, z=189.06]
+[02:44:30] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/124272, l='world', x=31.39, y=64.00, z=196.21]
+[02:47:18] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/124677, l='world', x=31.88, y=64.00, z=196.70]
+[02:47:47] [Server thread/INFO]: Unknown command
+[02:47:47] [Server thread/INFO]: stio<--[HERE]
+[02:47:49] [Server thread/INFO]: Stopping the server
+[02:47:49] [Server thread/INFO]: Stopping server
+[02:47:50] [Server thread/INFO]: Saving players
+[02:47:50] [Server thread/INFO]: KangaReuben lost connection: Internal Exception: java.lang.StackOverflowError
+[02:47:50] [Server thread/INFO]: KangaReuben left the game
+[02:47:50] [Server thread/INFO]: Saving worlds
+[02:47:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[02:47:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:47:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[02:47:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:47:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[02:47:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:47:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:47:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:47:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
