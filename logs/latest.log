@@ -1,41 +1,31 @@
-[00:14:43] [Server thread/INFO]: Om3gaNut drowned
-[00:14:45] [Server thread/INFO]: J9 drowned
-[00:19:59] [Server thread/INFO]: J9 lost connection: Disconnected
-[00:19:59] [Server thread/INFO]: J9 left the game
-[00:20:01] [Server thread/INFO]: Om3gaNut lost connection: Disconnected
-[00:20:01] [Server thread/INFO]: Om3gaNut left the game
-[00:23:28] [Server thread/INFO]: KrispinKreme[/25.68.72.200:59264] logged in with entity id 35144 at (-7.7920119045467615, 57.0, 22.402125547635457)
-[00:23:28] [Server thread/INFO]: KrispinKreme joined the game
-[00:24:38] [Server thread/WARN]: Boat moved wrongly!
-[00:24:38] [Server thread/WARN]: Boat moved wrongly!
-[00:24:39] [Server thread/WARN]: Boat moved wrongly!
-[00:24:39] [Server thread/WARN]: Boat moved wrongly!
-[00:26:07] [Server thread/INFO]: KangaReuben[/25.120.20.117:59061] logged in with entity id 36047 at (-290.5515620067351, 69.0, 588.9142599996138)
-[00:26:07] [Server thread/INFO]: KangaReuben joined the game
-[00:26:12] [Server thread/INFO]: <KrispinKreme> fucking hell
-[00:26:24] [Server thread/INFO]: <KangaReuben> she was very excited
-[00:27:22] [Server thread/WARN]: KrispinKreme moved wrongly!
-[00:27:30] [Server thread/WARN]: Boat moved wrongly!
-[00:27:31] [Server thread/WARN]: KrispinKreme moved wrongly!
-[00:31:08] [Server thread/INFO]: KangaReuben lost connection: Disconnected
-[00:31:08] [Server thread/INFO]: KangaReuben left the game
-[00:35:23] [Server thread/INFO]: Villager axw['Farmer'/38079, l='world', x=125.83, y=44.00, z=103.46] died, message: 'Farmer hit the ground too hard whilst trying to escape KrispinKreme'
-[00:37:59] [Server thread/INFO]: Villager axw['Farmer'/38439, l='world', x=742.82, y=66.23, z=551.32] died, message: 'Farmer was slain by Zombie'
-[00:42:32] [Server thread/INFO]: KrispinKreme tried to swim in lava
-[00:42:34] [Server thread/WARN]: KrispinKreme moved too quickly! -1099.4367934902198,59.0000002,-36.34357069712087
-[00:42:38] [Server thread/INFO]: KrispinKreme lost connection: Disconnected
-[00:42:38] [Server thread/INFO]: KrispinKreme left the game
-[01:09:20] [Server thread/INFO]: There are 0 of a max 20 players online: 
-[01:38:56] [Server thread/INFO]: Stopping the server
-[01:38:56] [Server thread/INFO]: Stopping server
-[01:38:57] [Server thread/INFO]: Saving players
-[01:38:57] [Server thread/INFO]: Saving worlds
-[01:38:57] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[01:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:38:57] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[01:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:38:57] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[01:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:06:52] [Server thread/INFO]: <KangaReuben> still doing it
+[01:02:33] [Server thread/WARN]: KangaReuben was kicked for floating too long!
+[01:02:33] [Server thread/WARN]: KangaReuben was kicked for floating too long!
+[01:02:33] [Server thread/WARN]: KangaReuben was kicked for floating too long!
+[01:02:33] [Server thread/INFO]: KangaReuben lost connection: Disconnected
+[01:02:33] [Server thread/INFO]: KangaReuben left the game
+[01:02:44] [Server thread/INFO]: KangaReuben[/25.120.20.117:61869] logged in with entity id 307019 at (-318.39251829679455, 64.24918707874468, 641.8549615836557)
+[01:02:44] [Server thread/INFO]: KangaReuben joined the game
+[02:04:05] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/315910, l='world', x=-269.46, y=58.00, z=589.41]
+[02:11:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/317137, l='world', x=-277.38, y=58.00, z=594.32]
+[02:15:35] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/317834, l='world', x=-277.20, y=58.00, z=595.80]
+[02:38:20] [Server thread/INFO]: KangaReuben lost connection: Disconnected
+[02:38:20] [Server thread/INFO]: KangaReuben left the game
+[12:06:19] [Server thread/INFO]: KrispinKreme[/25.68.72.200:57995] logged in with entity id 321184 at (-140.69999998807907, 76.5, -128.43075640721298)
+[12:06:20] [Server thread/INFO]: KrispinKreme joined the game
+[12:19:10] [Server thread/INFO]: [Server] uo
+[12:19:12] [Server thread/INFO]: [Server] yo
+[12:19:27] [Server thread/INFO]: [Server] gimme a sec chris im going to back up the server
+[12:19:54] [Server thread/INFO]: Stopping the server
+[12:19:54] [Server thread/INFO]: Stopping server
+[12:19:54] [Server thread/INFO]: Saving players
+[12:19:54] [Server thread/INFO]: Saving worlds
+[12:19:54] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[12:19:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:19:54] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[12:19:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:19:54] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[12:19:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:19:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:19:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:19:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
