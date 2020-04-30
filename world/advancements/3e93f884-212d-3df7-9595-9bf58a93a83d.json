@@ -2199,6 +2199,7 @@
       "cooked_cod": "2019-02-01 02:37:24 +0800",
       "bread": "2020-04-06 01:18:13 +0800",
       "rotten_flesh": "2019-02-26 18:49:11 +0800",
+      "dried_kelp": "2020-04-29 21:12:03 +0800",
       "cooked_chicken": "2020-04-05 01:14:46 +0800",
       "cod": "2020-04-13 20:49:34 +0800",
       "cooked_salmon": "2020-01-09 02:25:04 +0800",
@@ -3579,6 +3580,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2020-04-06 02:07:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2020-04-29 12:47:55 +0800"
     },
     "done": true
   },
