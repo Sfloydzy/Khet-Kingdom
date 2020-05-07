@@ -1,13 +1,28 @@
-[00:36:36] [Server thread/INFO]: Stopping the server
-[00:36:37] [Server thread/INFO]: Stopping server
-[00:36:37] [Server thread/INFO]: Saving players
-[00:36:37] [Server thread/INFO]: Saving worlds
-[00:36:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:36:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:36:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:36:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:36:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:36:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:36:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:36:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:36:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:50:09] [Server thread/INFO]: KangaReuben[/25.120.20.117:58640] logged in with entity id 680 at (-289.2330222278898, 69.875, 595.1374999880791)
+[00:50:09] [Server thread/INFO]: KangaReuben joined the game
+[01:10:11] [Server thread/WARN]: KangaReuben moved too quickly! -12.338866493836136,0.001651961306862404,13.523484035670435
+[01:10:11] [Server thread/WARN]: KangaReuben moved too quickly! -12.05926359970043,0.01242310705110583,13.228188632900128
+[01:24:26] [Server thread/WARN]: KangaReuben moved too quickly! 12.874541500452409,-1.2304472512020652,-13.32599064738622
+[02:01:26] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/18533, l='world', x=-269.86, y=58.00, z=594.47]
+[02:02:16] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/18735, l='world', x=-276.92, y=58.00, z=595.35]
+[02:02:17] [Server thread/INFO]: KangaReuben lost connection: Disconnected
+[02:02:17] [Server thread/INFO]: KangaReuben left the game
+[02:03:16] [Server thread/INFO]: KangaReuben[/25.120.20.117:59063] logged in with entity id 18743 at (-284.37354329977376, 90.0, 594.4613075125964)
+[02:03:16] [Server thread/INFO]: KangaReuben joined the game
+[02:04:03] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/19058, l='world', x=-269.66, y=58.00, z=590.17]
+[02:48:42] [Server thread/INFO]: The difficulty has been set to Hard
+[02:52:32] [Server thread/INFO]: KangaReuben lost connection: Disconnected
+[02:52:32] [Server thread/INFO]: KangaReuben left the game
+[05:28:04] [Server thread/INFO]: Stopping the server
+[05:28:04] [Server thread/INFO]: Stopping server
+[05:28:04] [Server thread/INFO]: Saving players
+[05:28:04] [Server thread/INFO]: Saving worlds
+[05:28:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[05:28:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:28:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[05:28:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:28:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[05:28:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:28:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:28:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:28:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
