@@ -865,6 +865,7 @@
       "minecraft:shulker": "2020-05-02 20:05:54 +0800",
       "minecraft:cave_spider": "2020-04-03 23:11:05 +0800",
       "minecraft:enderman": "2019-02-02 01:36:13 +0800",
+      "minecraft:silverfish": "2020-05-09 00:40:15 +0800",
       "minecraft:zombie": "2019-01-16 23:08:01 +0800",
       "minecraft:drowned": "2019-02-02 00:50:46 +0800",
       "minecraft:zombie_villager": "2019-01-20 02:21:37 +0800"
@@ -2387,6 +2388,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-04-21 00:04:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2020-05-08 15:50:21 +0800"
     },
     "done": true
   },
