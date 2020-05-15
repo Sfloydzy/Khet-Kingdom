@@ -1,221 +1,45 @@
-[00:13:25] [Server thread/INFO]: Om3gaNut[/25.26.101.255:60927] logged in with entity id 110235 at (-30.570979540260907, 76.0625, 320.92251441094015)
-[00:13:25] [Server thread/INFO]: Om3gaNut joined the game
-[00:14:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[00:15:52] [Server thread/INFO]: [Server] connection still aight
-[00:15:54] [Server thread/INFO]: [Server] ?
-[00:16:01] [Server thread/INFO]: <Om3gaNut> i jst came on
-[00:16:03] [Server thread/INFO]: <Om3gaNut> but seems fine
-[00:16:08] [Server thread/INFO]: [Server] aight
-[00:16:26] [Server thread/INFO]: [Server] i swear i need a better place to work
-[00:16:32] [Server thread/INFO]: [Server] with better wifi
-[00:16:33] [Server thread/INFO]: <Om3gaNut> rough
-[00:16:38] [Server thread/INFO]: <Om3gaNut> how come u had to move back
-[00:19:22] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=175, y=57, z=-212} fk{x=175, y=58, z=-215}
-[00:19:22] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=175, y=57, z=-212} fk{x=175, y=57, z=-216}
-[00:19:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=175, y=58, z=-216} fk{x=175, y=57, z=-216}
-[00:19:43] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=175, y=56, z=-225} fk{x=175, y=57, z=-226}
-[00:19:43] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=175, y=56, z=-225} fk{x=175, y=57, z=-226}
-[00:19:43] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=175, y=56, z=-225} fk{x=175, y=57, z=-226}
-[00:19:43] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=175, y=56, z=-225} fk{x=175, y=57, z=-226}
-[00:19:43] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=175, y=56, z=-225} fk{x=175, y=57, z=-226}
-[00:19:43] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=175, y=56, z=-225} fk{x=175, y=57, z=-226}
-[00:21:52] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=179, y=57, z=-29} fk{x=179, y=56, z=-29}
-[00:52:29] [Server thread/INFO]: KangaReuben[/25.120.20.117:56814] logged in with entity id 116965 at (110.63268130500427, 59.0, 235.97470335377832)
-[00:52:29] [Server thread/INFO]: KangaReuben joined the game
-[00:53:01] [Server thread/INFO]: <KangaReuben> hows da highway
-[00:53:16] [Server thread/INFO]: <Om3gaNut> im actly pretty efficent in making it now
-[00:53:22] [Server thread/INFO]: <Om3gaNut> hlafway done alr
-[00:53:26] [Server thread/INFO]: <Om3gaNut> gonna sleep in 5 tho
-[00:53:56] [Server thread/INFO]: <KangaReuben> nice
-[00:53:59] [Server thread/INFO]: <KangaReuben> kk
-[00:57:14] [Server thread/INFO]: <KangaReuben> exodus is starting to look rly good
-[00:57:44] [Server thread/INFO]: <Om3gaNut> yeah i was thinking about that the other day
-[00:57:49] [Server thread/INFO]: <Om3gaNut> its actly quite impressiv
-[01:03:04] [Server thread/INFO]: <KangaReuben> gonna add 4 more quadrants
-[01:03:08] [Server thread/INFO]: <KangaReuben> of grass
-[01:03:44] [Server thread/WARN]: KangaReuben moved too quickly! 3.400562333181938,-3.076451704824663,17.377306854941367
-[01:16:00] [Server thread/INFO]: KangaReuben burned to death
-[01:23:31] [Server thread/INFO]: Om3gaNut experienced kinetic energy
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.0,0.0,-10.268760098427794
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.0,0.0,-11.023813229268768
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.002770450431853533,0.0,-11.81046473136254
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.011720832281895355,0.0,-12.62797802852053
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.03013564738355967,0.0,-13.475338768098215
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.06116068201077951,0.0,-14.351270941123005
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.10777666105539652,0.0,-15.2542579920787
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.17217534717627814,0.0,-16.18288291288319
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.2558147016759449,0.0,-17.135963359383393
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.3594849516183558,0.0,-18.112634248819944
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.4833531412274965,0.0,-19.112394848225385
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.6275784776645423,0.0,-20.134747608102522
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.7923092414255279,0.0,-21.17920038865755
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.9776861773391943,0.0,-22.24526449667008
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.1838426035362204,0.0,-23.3324547779661
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.4109013937012662,0.0,-24.440291932871965
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-25.56830042525714
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-26.716008578971035
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-27.882948650867316
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-29.068659264859
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-30.272680797026766
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-31.494560201085193
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-32.73384870458005
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-33.99010187363494
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-35.2633322569162
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-36.55398215237969
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-37.86246472431001
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-39.18915995961265
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-40.53441988681771
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-41.898566950195665
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-33.736149445226914
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-35.13892725628252
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-36.561392891751154
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-38.00376107403924
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-39.46621862302123
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-40.94892869314814
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-42.45203130571285
-[01:26:28] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.625,0.0,-42.48907392723599
-[01:27:14] [Server thread/INFO]: Om3gaNut lost connection: Disconnected
-[01:27:14] [Server thread/INFO]: Om3gaNut left the game
-[01:27:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
-[01:28:21] [Server thread/INFO]: DodgeyDoge[/25.120.13.182:58042] logged in with entity id 132014 at (-71.1769628856091, 76.0, 230.56084500118797)
-[01:28:21] [Server thread/INFO]: DodgeyDoge joined the game
-[01:28:32] [Server thread/INFO]: <KangaReuben> sup
-[01:28:36] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to KangaReuben]
-[01:28:46] [Server thread/WARN]: KangaReuben moved too quickly! 17.596022003680105,-0.48323237332870406,-2.4419203610943896
-[01:28:47] [Server thread/INFO]: <DodgeyDoge> sup
-[01:28:49] [Server thread/INFO]: <DodgeyDoge> yo
-[01:28:50] [Server thread/INFO]: <DodgeyDoge> dope
-[01:28:58] [Server thread/INFO]: <KangaReuben> HAHA
-[01:28:59] [Server thread/INFO]: <KangaReuben> yeah
-[01:29:01] [Server thread/INFO]: <KangaReuben> working on it
-[01:29:13] [Server thread/INFO]: <DodgeyDoge> also dont know why but theres a bunch of skeleton horses here still
-[01:29:17] [Server thread/INFO]: <KangaReuben> yeah
-[01:29:21] [Server thread/INFO]: <KangaReuben> can we saddle them up
-[01:29:30] [Server thread/INFO]: [DodgeyDoge: Set own game mode to Creative Mode]
-[01:29:41] [Server thread/INFO]: <KangaReuben> can you pass me a saddle
-[01:29:45] [Server thread/INFO]: <DodgeyDoge> how dow we even get them out....
-[01:29:52] [Server thread/INFO]: [DodgeyDoge: Gave 1 [Saddle] to KangaReuben]
-[01:31:19] [Server thread/INFO]: [DodgeyDoge: Gave 1 [Saddle] to DodgeyDoge]
-[01:32:46] [Server thread/INFO]: <KangaReuben> theres a
-[01:32:48] [Server thread/INFO]: <KangaReuben> ring of
-[01:32:50] [Server thread/INFO]: <KangaReuben> darkness
-[01:33:24] [Server thread/INFO]: <KangaReuben> where mobs spawn
-[01:33:29] [Server thread/INFO]: <KangaReuben> i gotta fill it in with some
-[01:33:33] [Server thread/INFO]: <KangaReuben> sea lanterns
-[01:33:34] [Server thread/INFO]: <DodgeyDoge> lol seriouss
-[01:33:44] [Server thread/INFO]: <KangaReuben> anyway
-[01:33:46] [Server thread/INFO]: <KangaReuben> the plan is
-[01:33:50] [Server thread/INFO]: <DodgeyDoge> make it like a zig zag pattern
-[01:33:51] [Server thread/INFO]: <KangaReuben> the four quadrants have
-[01:33:57] [Server thread/INFO]: <KangaReuben> dirt
-[01:33:59] [Server thread/INFO]: <KangaReuben> and have gardens
-[01:34:06] [Server thread/INFO]: <KangaReuben> i wanna put j9 in charge of that
-[01:34:12] [Server thread/INFO]: <KangaReuben> think she'd do a rly good job
-[01:34:12] [Server thread/INFO]: <DodgeyDoge> with different flowers?
-[01:34:15] [Server thread/INFO]: <KangaReuben> yeah
-[01:34:18] [Server thread/INFO]: <KangaReuben> trees too
-[01:34:20] [Server thread/INFO]: <DodgeyDoge> that would be cool
-[01:34:37] [Server thread/INFO]: <KangaReuben> also
-[01:34:41] [Server thread/INFO]: <KangaReuben> we're one wither skeleton away
-[01:34:43] [Server thread/INFO]: <KangaReuben> from a wither
-[01:34:46] [Server thread/INFO]: <KangaReuben> skull
-[01:34:50] [Server thread/INFO]: <KangaReuben> for a beacon
-[01:35:18] [Server thread/INFO]: <KangaReuben> yo
-[01:35:20] [Server thread/INFO]: <KangaReuben> follow me
-[01:35:23] [Server thread/INFO]: <DodgeyDoge> aight
-[01:36:02] [Server thread/INFO]: <KangaReuben> so this is our fortress
-[01:36:08] [Server thread/INFO]: <KangaReuben> there are like
-[01:36:10] [Server thread/INFO]: <KangaReuben> 4 more
-[01:36:13] [Server thread/INFO]: <KangaReuben> just around the corner
-[01:36:39] [Server thread/INFO]: <KangaReuben> this is one
-[01:36:59] [Server thread/INFO]: <KangaReuben> this is two
-[01:37:02] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to KangaReuben]
-[01:37:02] [Server thread/WARN]: DodgeyDoge moved too quickly! -37.474402399413464,-7.897044258189922,-18.724635742391342
-[01:37:02] [Server thread/INFO]: <KangaReuben> and this one is massive
-[01:37:13] [Server thread/INFO]: <DodgeyDoge> wth
-[01:37:48] [Server thread/INFO]: <KangaReuben> i cant tell if this is 3
-[01:38:04] [Server thread/WARN]: KangaReuben moved wrongly!
-[01:38:08] [Server thread/INFO]: <KangaReuben> hers 4
-[01:38:25] [Server thread/INFO]: <KangaReuben> i just fly between the 4
-[01:38:33] [Server thread/INFO]: <KangaReuben> to spawn wither skeletons
-[01:39:05] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to KangaReuben]
-[01:39:05] [Server thread/WARN]: DodgeyDoge moved too quickly! -366.52722497171084,6.984382419458598,48.18976518274229
-[01:39:05] [Server thread/WARN]: DodgeyDoge moved too quickly! -366.52722497171084,6.984382419458598,48.18976518274229
-[01:40:26] [Server thread/INFO]: <DodgeyDoge> its insane what the
-[01:41:44] [Server thread/INFO]: KangaReuben was slain by Wither Skeleton
-[01:41:49] [Server thread/INFO]: <KangaReuben> gdi
-[01:42:03] [Server thread/INFO]: <KangaReuben> they honestly hit so hard
-[01:43:46] [Server thread/WARN]: KangaReuben moved too quickly! -7.614770268540781,3.7751928558955257,-15.994474981675069
-[01:49:59] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to KangaReuben]
-[01:49:59] [Server thread/WARN]: DodgeyDoge moved too quickly! 3.305666123971548,-17.896219353674752,-33.897972214753224
-[01:49:59] [Server thread/WARN]: DodgeyDoge moved too quickly! 3.305666123971548,-17.896219353674752,-33.897972214753224
-[01:50:47] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to DodgeyDoge]
-[01:51:46] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to DodgeyDoge]
-[01:54:14] [Server thread/INFO]: [DodgeyDoge: Set own game mode to Spectator Mode]
-[01:54:19] [Server thread/WARN]: DodgeyDoge moved too quickly! 33.79197784731309,0.0,-12.013222733602447
-[01:54:21] [Server thread/INFO]: <DodgeyDoge> yo
-[01:54:25] [Server thread/INFO]: <DodgeyDoge> i can see your pov
-[01:54:35] [Server thread/INFO]: <DodgeyDoge> run boi run
-[01:54:38] [Server thread/INFO]: <DodgeyDoge> eat the thing
-[01:55:00] [Server thread/INFO]: <DodgeyDoge> almost had it
-[01:55:05] [Server thread/INFO]: <DodgeyDoge> noice
-[01:55:43] [Server thread/INFO]: <DodgeyDoge> almost
-[01:55:56] [Server thread/INFO]: <DodgeyDoge> noiiiiccee
-[01:56:07] [Server thread/INFO]: [DodgeyDoge: Set own game mode to Creative Mode]
-[01:56:21] [Server thread/INFO]: KangaReuben was slain by Wither Skeleton
-[01:56:27] [Server thread/INFO]: <KangaReuben> bitch came outta nowhere
-[01:56:39] [Server thread/INFO]: <KangaReuben> the last skull is so hard to get wtf
-[01:56:44] [Server thread/INFO]: [DodgeyDoge: Set own game mode to Spectator Mode]
-[01:56:55] [Server thread/WARN]: DodgeyDoge moved too quickly! 37.472158810459746,6.249187078744683,1070.8759478108846
-[01:56:58] [Server thread/WARN]: DodgeyDoge moved too quickly! 2.763630534639219,1.2491870787446828,-10.172494057287395
-[01:57:03] [Server thread/WARN]: DodgeyDoge moved too quickly! -292.12267062368954,6.0,586.750758547622
-[01:57:12] [Server thread/WARN]: DodgeyDoge moved too quickly! -9.442211835245438,-2.296015962782107,9.291620735114947
-[01:57:13] [Server thread/WARN]: DodgeyDoge moved too quickly! -2.6318931834883337,-8.178930727147986,30.048742995090322
-[01:57:14] [Server thread/WARN]: DodgeyDoge moved too quickly! 20.00272515012478,-6.405637244844925,29.25364678099606
-[01:57:15] [Server thread/WARN]: DodgeyDoge moved too quickly! 13.703797642564219,-4.7126150829576545,29.51256515789176
-[01:57:16] [Server thread/WARN]: DodgeyDoge moved too quickly! 10.887920178559945,-7.213013043412616,30.301625982717653
-[01:57:17] [Server thread/WARN]: DodgeyDoge moved too quickly! 8.992190917735414,-3.783016778602388,29.585348710320375
-[01:57:18] [Server thread/WARN]: DodgeyDoge moved too quickly! 7.144635167439176,1.8233180026612814,24.998712879637452
-[01:57:19] [Server thread/WARN]: DodgeyDoge moved too quickly! 14.632074576372673,3.16712236067913,21.032689086926084
-[01:57:20] [Server thread/WARN]: DodgeyDoge moved too quickly! 21.192549784129028,3.437045865783645,18.273294474008097
-[01:57:21] [Server thread/WARN]: DodgeyDoge moved too quickly! 17.40970775248701,2.3255887078770883,11.720251825686802
-[01:57:21] [Server thread/WARN]: DodgeyDoge moved too quickly! 10.854949786321157,-0.1844259187267312,6.8050808339710045
-[01:57:22] [Server thread/WARN]: DodgeyDoge moved too quickly! 8.633891487706364,-0.4026011389162534,5.378031953917571
-[01:57:22] [Server thread/WARN]: DodgeyDoge moved too quickly! 8.906569234402468,-0.4031866268441746,5.513777807163194
-[01:57:22] [Server thread/WARN]: DodgeyDoge moved too quickly! 10.168099766358353,-0.413746753703478,5.591745250086433
-[01:57:23] [Server thread/WARN]: DodgeyDoge moved too quickly! 9.65968946190958,-0.08633956404314347,5.274794170891511
-[01:57:24] [Server thread/WARN]: DodgeyDoge moved too quickly! 21.03462027038512,1.0457735893505742,17.98755783609903
-[01:57:25] [Server thread/WARN]: DodgeyDoge moved too quickly! 14.700692188288002,1.6497070142830808,21.718354389680684
-[01:57:26] [Server thread/WARN]: DodgeyDoge moved too quickly! 7.228559268411942,1.4214828802488455,19.947551344145865
-[01:57:26] [Server thread/INFO]: [DodgeyDoge: Set own game mode to Creative Mode]
-[01:57:34] [Server thread/INFO]: [DodgeyDoge: Set own game mode to Spectator Mode]
-[01:57:38] [Server thread/WARN]: DodgeyDoge moved too quickly! -187.31019693128138,-4.870174108923379,-135.14839142758257
-[01:57:38] [Server thread/WARN]: DodgeyDoge moved too quickly! -187.31019693128138,-4.870174108923379,-135.14839142758257
-[01:57:39] [Server thread/WARN]: DodgeyDoge moved too quickly! -20.699916632430643,-0.5902060057004803,26.65717003737791
-[01:57:40] [Server thread/WARN]: DodgeyDoge moved too quickly! 2.7156002991483206,-0.09609047516622127,32.6202151258114
-[01:57:41] [Server thread/WARN]: DodgeyDoge moved too quickly! -6.041853871046499,2.4153491460229617,9.258068123425858
-[01:57:42] [Server thread/WARN]: DodgeyDoge moved too quickly! 4.973212219452705,-1.00010221576089,-28.07384991423794
-[01:57:43] [Server thread/WARN]: DodgeyDoge moved too quickly! 0.7816617808595083,-0.11357177490764059,-26.43963266529812
-[01:58:55] [Server thread/WARN]: DodgeyDoge moved too quickly! -8.2389467490529,-2.4945473113503738,8.61148955706733
-[01:59:16] [Server thread/INFO]: [DodgeyDoge: Set own game mode to Creative Mode]
-[01:59:22] [Server thread/INFO]: DodgeyDoge fell out of the world
-[01:59:22] [Server thread/INFO]: [DodgeyDoge: Killed DodgeyDoge]
-[01:59:48] [Server thread/INFO]: DodgeyDoge lost connection: Disconnected
-[01:59:48] [Server thread/INFO]: DodgeyDoge left the game
-[02:00:51] [Server thread/INFO]: KangaReuben experienced kinetic energy
-[02:05:37] [Server thread/INFO]: KangaReuben lost connection: Timed out
-[02:05:37] [Server thread/INFO]: KangaReuben left the game
-[02:05:37] [Server thread/WARN]: handleDisconnection() called twice
-[02:34:55] [Server thread/INFO]: Stopping the server
-[02:34:55] [Server thread/INFO]: Stopping server
-[02:34:55] [Server thread/INFO]: Saving players
-[02:34:55] [Server thread/INFO]: Saving worlds
-[02:34:55] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[02:34:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:34:55] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[02:34:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:34:55] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[02:34:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:34:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:34:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:34:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:33:03] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:33:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:33:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:33:03] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:33:03] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:33:03] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[10:33:03] [Server thread/INFO]: Loading properties
+[10:33:04] [Server thread/INFO]: Default game type: SURVIVAL
+[10:33:04] [Server thread/INFO]: Generating keypair
+[10:33:04] [Server thread/INFO]: Starting Minecraft server on 25.120.13.182:25565
+[10:33:04] [Server thread/INFO]: Using default channel type
+[10:33:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:33:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:33:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:33:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:33:08] [Server thread/INFO]: Preparing level "world"
+[10:33:08] [Server thread/INFO]: Reloading ResourceManager: Default
+[10:33:08] [Server thread/INFO]: Loaded 6 recipes
+[10:33:09] [Server thread/INFO]: Loaded 825 advancements
+[10:33:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:33:12] [Server thread/INFO]: Preparing spawn area: 0%
+[10:33:12] [Server thread/INFO]: Preparing spawn area: 0%
+[10:33:12] [Server thread/INFO]: Preparing spawn area: 0%
+[10:33:12] [Server thread/INFO]: Preparing spawn area: 0%
+[10:33:12] [Server thread/INFO]: Preparing spawn area: 0%
+[10:33:12] [Server thread/INFO]: Preparing spawn area: 0%
+[10:33:12] [Server thread/INFO]: Preparing spawn area: 0%
+[10:33:13] [Server thread/INFO]: Preparing spawn area: 0%
+[10:33:13] [Server thread/INFO]: Preparing spawn area: 0%
+[10:33:13] [Server thread/INFO]: Time elapsed: 4427 ms
+[10:33:13] [Server thread/INFO]: Done (5.852s)! For help, type "help"
+[10:33:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
+[10:33:47] [Server thread/INFO]: Stopping the server
+[10:33:47] [Server thread/INFO]: Stopping server
+[10:33:47] [Server thread/INFO]: Saving players
+[10:33:47] [Server thread/INFO]: Saving worlds
+[10:33:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[10:33:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:33:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[10:33:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:33:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[10:33:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:33:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:33:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:33:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
