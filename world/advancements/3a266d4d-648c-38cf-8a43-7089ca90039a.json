@@ -173,6 +173,13 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-05-31 16:40:45 +0800",
+      "diamond_helmet": "2020-05-31 16:40:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-01-16 22:50:40 +0800"
@@ -522,6 +529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2020-05-27 15:20:20 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2019-01-16 22:41:57 +0800"
@@ -663,12 +676,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2020-04-27 19:46:34 +0800",
+      "minecraft:pillager": "2020-05-31 23:06:16 +0800",
       "minecraft:skeleton": "2019-01-16 23:46:15 +0800",
       "minecraft:zombie_pigman": "2020-04-04 15:11:46 +0800",
+      "minecraft:ravager": "2020-05-31 23:19:14 +0800",
       "minecraft:guardian": "2020-04-08 00:34:49 +0800",
+      "minecraft:vindicator": "2020-05-31 23:08:47 +0800",
       "minecraft:spider": "2019-01-19 20:43:31 +0800",
       "minecraft:creeper": "2020-04-25 16:32:49 +0800",
       "minecraft:slime": "2020-04-19 17:19:00 +0800",
+      "minecraft:evoker": "2020-05-31 23:23:09 +0800",
       "minecraft:phantom": "2020-04-04 03:18:15 +0800",
       "minecraft:wither_skeleton": "2020-04-29 12:45:16 +0800",
       "minecraft:husk": "2020-04-17 12:43:58 +0800",
@@ -847,6 +864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2020-05-30 20:09:11 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2020-05-02 15:18:15 +0800"
@@ -1018,6 +1041,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2019-01-22 01:16:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-05-30 21:23:46 +0800"
     },
     "done": true
   },
@@ -1352,6 +1381,7 @@
       "minecraft:cold_ocean": "2020-04-04 22:16:59 +0800",
       "minecraft:forest": "2019-01-16 22:37:36 +0800",
       "minecraft:mountains": "2020-04-06 02:08:54 +0800",
+      "minecraft:badlands_plateau": "2020-05-27 15:02:18 +0800",
       "minecraft:taiga": "2020-04-07 19:38:25 +0800",
       "minecraft:desert_hills": "2020-05-18 19:12:49 +0800",
       "minecraft:giant_tree_taiga": "2020-04-25 16:57:00 +0800",
@@ -1455,6 +1485,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-04-02 16:31:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2020-05-29 16:17:35 +0800"
     },
     "done": true
   },
@@ -1735,6 +1771,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2020-05-31 23:31:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2019-01-20 01:38:22 +0800"
@@ -1798,6 +1840,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-01-19 21:08:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2020-05-28 15:30:47 +0800"
     },
     "done": true
   },
@@ -2601,6 +2649,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2020-05-28 22:14:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-04-04 21:47:41 +0800"
@@ -2748,6 +2802,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2020-04-19 21:27:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2020-05-30 20:09:11 +0800"
     },
     "done": true
   },
@@ -2919,6 +2979,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-06-01 00:34:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2019-01-16 22:41:57 +0800"
@@ -3018,6 +3084,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2020-04-06 02:05:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2020-05-28 18:51:10 +0800"
     },
     "done": true
   },
