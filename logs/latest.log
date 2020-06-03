@@ -1,42 +1,100 @@
-[13:15:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:15:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:15:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:15:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:15:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:15:50] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[13:15:50] [Server thread/INFO]: Loading properties
-[13:15:50] [Server thread/INFO]: Default game type: SURVIVAL
-[13:15:50] [Server thread/INFO]: Generating keypair
-[13:15:50] [Server thread/INFO]: Starting Minecraft server on 25.120.13.182:25565
-[13:15:50] [Server thread/INFO]: Using default channel type
-[13:15:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:15:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:15:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:15:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:15:52] [Server thread/INFO]: Preparing level "world"
-[13:15:52] [Server thread/INFO]: Reloading ResourceManager: Default
-[13:15:55] [Server thread/INFO]: Loaded 6 recipes
-[13:15:55] [Server thread/INFO]: Loaded 825 advancements
-[13:15:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:15:58] [Server thread/INFO]: Preparing spawn area: 0%
-[13:15:58] [Server thread/INFO]: Preparing spawn area: 0%
-[13:15:58] [Server thread/INFO]: Preparing spawn area: 0%
-[13:15:58] [Server thread/INFO]: Preparing spawn area: 0%
-[13:15:58] [Server thread/INFO]: Preparing spawn area: 0%
-[13:15:58] [Server thread/INFO]: Preparing spawn area: 0%
-[13:15:58] [Server thread/INFO]: Preparing spawn area: 0%
-[13:15:59] [Server thread/INFO]: Time elapsed: 3628 ms
-[13:15:59] [Server thread/INFO]: Done (6.978s)! For help, type "help"
-[13:16:13] [Server thread/INFO]: Stopping the server
-[13:16:13] [Server thread/INFO]: Stopping server
-[13:16:13] [Server thread/INFO]: Saving players
-[13:16:13] [Server thread/INFO]: Saving worlds
-[13:16:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[13:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:16:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[13:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:16:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[13:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:31:40] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:31:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:31:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:31:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:31:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:31:41] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[10:31:41] [Server thread/INFO]: Loading properties
+[10:31:41] [Server thread/INFO]: Default game type: SURVIVAL
+[10:31:41] [Server thread/INFO]: Generating keypair
+[10:31:41] [Server thread/INFO]: Starting Minecraft server on 25.120.13.182:25565
+[10:31:41] [Server thread/INFO]: Using default channel type
+[10:31:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:31:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:31:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:31:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:31:42] [Server thread/INFO]: Preparing level "world"
+[10:31:42] [Server thread/INFO]: Reloading ResourceManager: Default
+[10:31:46] [Server thread/INFO]: Loaded 6 recipes
+[10:31:46] [Server thread/INFO]: Loaded 825 advancements
+[10:31:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:31:49] [Server thread/INFO]: Preparing spawn area: 0%
+[10:31:49] [Server thread/INFO]: Preparing spawn area: 0%
+[10:31:49] [Server thread/INFO]: Preparing spawn area: 0%
+[10:31:49] [Server thread/INFO]: Preparing spawn area: 0%
+[10:31:49] [Server thread/INFO]: Preparing spawn area: 0%
+[10:31:49] [Server thread/INFO]: Preparing spawn area: 0%
+[10:31:50] [Server thread/INFO]: Preparing spawn area: 0%
+[10:31:50] [Server thread/INFO]: Time elapsed: 3537 ms
+[10:31:50] [Server thread/INFO]: Done (7.631s)! For help, type "help"
+[10:35:27] [Server thread/INFO]: DodgeyDoge[/25.120.13.182:56010] logged in with entity id 516 at (182.94817499208372, 80.0, 373.9775712063509)
+[10:35:27] [Server thread/INFO]: DodgeyDoge joined the game
+[10:36:19] [Server thread/INFO]: Summoned new Librarian
+[10:36:37] [Server thread/INFO]: Summoned new Librarian
+[10:37:45] [Server thread/INFO]: Summoned new Librarian
+[10:38:15] [Server thread/INFO]: Villager axw['Librarian'/1123, l='world', x=186.90, y=66.00, z=349.32] died, message: 'Librarian was slain by DodgeyDoge'
+[10:39:22] [Server thread/WARN]: DodgeyDoge moved too quickly! -9.593689534342843,0.0,5.134744392562084
+[10:42:34] [Server thread/INFO]: Summoned new Librarian
+[10:42:38] [Server thread/INFO]: Unknown command
+[10:42:38] [Server thread/INFO]: <--[HERE]
+[10:44:51] [Server thread/INFO]: Summoned new Librarian
+[10:45:07] [Server thread/INFO]: Villager axw['Librarian'/2900, l='world', x=-322.30, y=63.00, z=657.88] died, message: 'Librarian was slain by DodgeyDoge'
+[10:45:10] [Server thread/INFO]: Villager axw['Librarian'/3247, l='world', x=-322.41, y=63.00, z=657.92] died, message: 'Librarian was slain by DodgeyDoge'
+[10:48:36] [Server thread/INFO]: Summoned new Librarian
+[10:50:57] [Server thread/INFO]: Summoned new Librarian
+[10:52:06] [Server thread/INFO]: Villager axw['Librarian'/3928, l='world', x=-325.01, y=63.50, z=647.37] died, message: 'Librarian was slain by DodgeyDoge'
+[10:54:59] [Server thread/INFO]: Expected '}'
+[10:54:59] [Server thread/INFO]: ...s:[{buy:id:"minecraft:paper",Count:1b},sell:{id:"minecraft:emerald",Count:1b},{buy:{id:"minecraft:emerald",Count:1b},sell:{id:"minecraft:enchanted_book",Count:1b,tag:{StoredEnchantments:[{id:"minecraft:mending",lvl:1ss}]}}}]}}<--[HERE]
+[10:55:30] [Server thread/INFO]: Expected '}'
+[10:55:30] [Server thread/INFO]: ...s:[{buy:id:"minecraft:paper",Count:1b},sell:{id:"minecraft:emerald",Count:1b},{buy:{id:"minecraft:emerald",Count:1b},sell:{id:"minecraft:enchanted_book",Count:1b,tag:{StoredEnchantments:[{id:"minecraft:mending",lvl:1ss}]}}}]}}}<--[HERE]
+[10:56:14] [Server thread/INFO]: Expected key
+[10:56:14] [Server thread/INFO]: ...Count:1b},{buy:{id:"minecraft:emerald",Count:1b},sell:{id:"minecraft:enchanted_book",Count:1b,tag:{StoredEnchantments:[{id:"minecraft:mending",lvl:1ss}]}}}]}}<--[HERE]
+[10:59:13] [Server thread/INFO]: Expected '}'
+[10:59:13] [Server thread/INFO]: ...,Count:1b}]}}}]}}<--[HERE]
+[11:00:32] [Server thread/INFO]: Summoned new Librarian
+[11:01:06] [Server thread/INFO]: Villager axw['Librarian'/5714, l='world', x=-324.99, y=63.97, z=659.55] died, message: 'Librarian was slain by DodgeyDoge'
+[11:01:42] [Server thread/INFO]: Summoned new Librarian
+[11:02:17] [Server thread/INFO]: Villager axw['Librarian'/5842, l='world', x=-326.70, y=63.00, z=656.11] died, message: 'Librarian was slain by DodgeyDoge'
+[11:02:44] [Server thread/INFO]: Summoned new Librarian
+[11:03:33] [Server thread/INFO]: Summoned new Librarian
+[11:04:27] [Server thread/INFO]: DodgeyDoge lost connection: Disconnected
+[11:04:27] [Server thread/INFO]: DodgeyDoge left the game
+[12:04:56] [Server thread/INFO]: KangaReuben[/25.120.20.117:49759] logged in with entity id 6252 at (-285.44450868508284, 63.875, 648.9772687650513)
+[12:04:56] [Server thread/INFO]: KangaReuben joined the game
+[12:16:34] [Server thread/INFO]: KangaReuben lost connection: Disconnected
+[12:16:34] [Server thread/INFO]: KangaReuben left the game
+[12:16:57] [Server thread/INFO]: DodgeyDoge[/25.120.13.182:57147] logged in with entity id 8985 at (-324.6329774833023, 63.0, 655.0500000119209)
+[12:16:57] [Server thread/INFO]: DodgeyDoge joined the game
+[12:17:21] [Server thread/INFO]: Villager axw['Librarian'/8994, l='world', x=-323.36, y=63.00, z=655.64] died, message: 'Librarian was slain by DodgeyDoge'
+[12:17:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4508ms or 90 ticks behind
+[12:17:35] [Server thread/INFO]: Villager axw['Librarian'/8992, l='world', x=-322.32, y=63.00, z=651.11] died, message: 'Librarian was slain by DodgeyDoge'
+[12:18:00] [Server thread/INFO]: Summoned new TavisGay
+[12:21:02] [Server thread/INFO]: KangaReuben[/25.120.20.117:50059] logged in with entity id 9799 at (-330.3440977621707, 63.0, 652.0612407349497)
+[12:21:02] [Server thread/INFO]: KangaReuben joined the game
+[12:21:18] [Server thread/INFO]: <KangaReuben> tavis rly damn gay...
+[12:21:23] [Server thread/INFO]: <KangaReuben> sik
+[12:21:25] [Server thread/INFO]: <KangaReuben> thanks man
+[12:21:27] [Server thread/INFO]: <DodgeyDoge> i can make him immortal if you like
+[12:21:34] [Server thread/INFO]: <KangaReuben> lmao
+[12:21:37] [Server thread/INFO]: <DodgeyDoge> immortal tavis gay
+[12:21:49] [Server thread/INFO]: <KangaReuben> tavis always gay bro...
+[12:21:52] [Server thread/INFO]: <DodgeyDoge> lemme know if the 16 trades per day works
+[12:21:58] [Server thread/INFO]: <DodgeyDoge> or if it doesnt reset
+[12:21:58] [Server thread/INFO]: <KangaReuben> yeah i think it does
+[12:25:39] [Server thread/INFO]: KangaReuben lost connection: Disconnected
+[12:25:39] [Server thread/INFO]: KangaReuben left the game
+[12:25:44] [Server thread/INFO]: DodgeyDoge lost connection: Disconnected
+[12:25:44] [Server thread/INFO]: DodgeyDoge left the game
+[12:26:25] [Server thread/INFO]: Stopping the server
+[12:26:25] [Server thread/INFO]: Stopping server
+[12:26:25] [Server thread/INFO]: Saving players
+[12:26:25] [Server thread/INFO]: Saving worlds
+[12:26:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[12:26:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:26:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[12:26:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:26:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[12:26:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:26:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:26:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:26:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
