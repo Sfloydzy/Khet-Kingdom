@@ -1,43 +1,177 @@
-[11:27:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:27:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:27:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:27:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:27:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:27:50] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[11:27:50] [Server thread/INFO]: Loading properties
-[11:27:50] [Server thread/INFO]: Default game type: SURVIVAL
-[11:27:50] [Server thread/INFO]: Generating keypair
-[11:27:50] [Server thread/INFO]: Starting Minecraft server on 25.120.13.182:25565
-[11:27:50] [Server thread/INFO]: Using default channel type
-[11:27:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:27:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:27:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:27:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:27:55] [Server thread/INFO]: Preparing level "world"
-[11:27:55] [Server thread/INFO]: Reloading ResourceManager: Default
-[11:27:57] [Server thread/INFO]: Loaded 6 recipes
-[11:27:57] [Server thread/INFO]: Loaded 825 advancements
-[11:27:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:28:01] [Server thread/INFO]: Preparing spawn area: 0%
-[11:28:01] [Server thread/INFO]: Preparing spawn area: 0%
-[11:28:01] [Server thread/INFO]: Preparing spawn area: 0%
-[11:28:01] [Server thread/INFO]: Preparing spawn area: 0%
-[11:28:01] [Server thread/INFO]: Preparing spawn area: 0%
-[11:28:01] [Server thread/INFO]: Preparing spawn area: 0%
-[11:28:01] [Server thread/INFO]: Preparing spawn area: 0%
-[11:28:01] [Server thread/INFO]: Preparing spawn area: 0%
-[11:28:01] [Server thread/INFO]: Time elapsed: 4133 ms
-[11:28:01] [Server thread/INFO]: Done (6.869s)! For help, type "help"
-[11:28:42] [Server thread/INFO]: Stopping the server
-[11:28:42] [Server thread/INFO]: Stopping server
-[11:28:42] [Server thread/INFO]: Saving players
-[11:28:42] [Server thread/INFO]: Saving worlds
-[11:28:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[11:28:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:28:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[11:28:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:28:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[11:28:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:28:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:28:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:28:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:01:32] [Server thread/WARN]: KangaReuben moved wrongly!
+[00:06:26] [Server thread/INFO]: Om3gaNut lost connection: Disconnected
+[00:06:26] [Server thread/INFO]: Om3gaNut left the game
+[00:11:36] [Server thread/WARN]: KangaReuben moved too quickly! -1233.2228421208142,21.580000013113022,1108.1296167910805
+[00:11:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2606ms or 52 ticks behind
+[00:11:43] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[00:11:43] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[00:12:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10978ms or 219 ticks behind
+[00:13:17] [Server thread/INFO]: J9 lost connection: Timed out
+[00:13:17] [Server thread/INFO]: J9 left the game
+[00:13:53] [Server thread/INFO]: J9[/25.64.13.178:50045] logged in with entity id 404255 at (-63.6887887936282, 78.0, 131.39910481163017)
+[00:13:53] [Server thread/INFO]: J9 joined the game
+[00:14:10] [Server thread/INFO]: Om3gaNut[/25.121.167.183:50418] logged in with entity id 404318 at (-65.2107040931408, 78.0, 130.79239694120412)
+[00:14:10] [Server thread/INFO]: Om3gaNut joined the game
+[00:14:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3103ms or 62 ticks behind
+[00:14:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[00:14:55] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 12.033343706969035,0.0,0.0
+[00:15:29] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.0,0.0,-12.1309181108455
+[00:15:34] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.07579880685216267,0.0,-10.796169326966577
+[00:15:34] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.07480330431840798,0.0,-11.94925739296886
+[00:15:34] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.07224682693322393,0.0,-13.12963061763557
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.49048072381000907,0.0,-10.354895875535902
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.5902381236589065,0.0,-11.92456651465423
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.6952752361507066,0.0,-13.516459205734066
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.8047984590571673,0.0,-15.13044128031197
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.9180323857194423,0.0,-16.7663664157719
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.0342123047252016,0.0,-18.424076189974983
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.1525881668091245,0.0,-20.10340005789186
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.272428521621805,0.0,-21.80415560788876
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.3930129244944283,0.0,-23.52614968691239
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.465490188870831,0.0,-25.26917844041421
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.465490188870831,0.0,-27.03302815649826
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.0686754864328805,0.0,-20.009909323116176
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.0679967742069891,0.0,-21.814722156327434
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.0659835465691287,0.0,-23.639659568547728
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.0619914549743328,0.0,-25.48447262643606
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.0553952624208591,0.0,-27.348905035650603
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.0455811266473063,0.0,-29.23269315848961
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.0319504440874994,0.0,-31.135566664637622
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -1.0139159997957563,0.0,-33.05724855635532
+[00:15:35] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.9916024437817157,0.0,-34.99754059939761
+[00:15:36] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.965129259768247,0.0,-36.956246173847546
+[00:15:36] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.9346146315954229,0.0,-38.93317068849237
+[00:15:36] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.9001754579848864,0.0,-40.92812156223317
+[00:15:36] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.8619273652791435,0.0,-42.940908201973656
+[00:15:36] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.8199809072060873,0.0,-44.97134157842078
+[00:15:36] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.7744492496065334,0.0,-47.019235017271
+[00:15:36] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.7254405104438604,0.0,-47.444649174630115
+[00:15:36] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.6730616304934358,0.0,-47.444649174630115
+[00:15:36] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -0.6174145683348513,0.0,-47.444649174630115
+[00:16:00] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.08435376591793897,0.0,-10.558415579839249
+[00:16:00] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.11491397197539754,0.0,-11.766420426598756
+[00:16:00] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.15190468916293298,0.0,-13.00056074264802
+[00:16:00] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.195877956942212,0.0,-14.260437067360044
+[00:16:00] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.2473741353256571,0.0,-15.54564526680926
+[00:16:44] [Server thread/WARN]: Om3gaNut moved too quickly! 12.548655641542837,-12.116118772448502,-1.7197215616388348
+[00:17:13] [Server thread/WARN]: Om3gaNut moved too quickly! -11.105904131469742,-4.111428497956268,13.965191052891441
+[00:17:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[00:17:21] [Server thread/WARN]: Om3gaNut moved too quickly! 0.00460495456877652,-18.063405135905043,-1.42556059652793
+[00:17:24] [Server thread/INFO]: Om3gaNut fell from a high place
+[00:17:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16898ms or 337 ticks behind
+[00:17:59] [Server thread/INFO]: <Om3gaNut> still doesnt work ah reubs
+[00:18:08] [Server thread/INFO]: <KangaReuben> idk can you afk there for awhile
+[00:18:14] [Server thread/INFO]: <KangaReuben> cos if i afk for awhi;e
+[00:18:19] [Server thread/INFO]: <KangaReuben> they seem to just stop spawning
+[00:18:36] [Server thread/INFO]: <Om3gaNut> how u know
+[00:19:38] [Server thread/INFO]: <KangaReuben> when i go back down its empty
+[00:23:46] [Server thread/INFO]: <Om3gaNut> k i'll go afk a while and see
+[00:23:52] [Server thread/INFO]: <Om3gaNut> janyne wanna see
+[00:24:37] [Server thread/WARN]: J9 moved wrongly!
+[00:24:44] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.3277172035591889,0.0,-10.075276507879575
+[00:24:47] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.0,0.0,-11.673389032152429
+[00:24:47] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.0,0.0,-11.95453436218125
+[00:24:47] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.0,0.0,-14.38615727331674
+[00:24:47] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.0,0.0,-16.83100513925838
+[00:24:47] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.0,0.0,-19.288932485799677
+[00:24:47] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.0,0.0,-21.759795438947165
+[00:24:47] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.0,0.0,-14.707168209248621
+[00:24:47] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.0,0.0,-17.20347706666223
+[00:24:47] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.0,0.0,-19.71229933492262
+[00:24:47] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 0.0,0.0,-22.233497366790914
+[00:25:12] [Server thread/INFO]: <Om3gaNut> follow
+[00:25:42] [Server thread/INFO]: <KangaReuben> i cant belive
+[00:25:46] [Server thread/INFO]: <KangaReuben> we used to walk everywhere
+[00:25:47] [Server thread/INFO]: <KangaReuben> HAHA
+[00:25:56] [Server thread/INFO]: <Om3gaNut> esp to the ocean
+[00:26:07] [Server thread/INFO]: <J9> WOW
+[00:26:10] [Server thread/INFO]: <Om3gaNut> this is the collection area
+[00:26:17] [Server thread/INFO]: <Om3gaNut> the kill chamber is above us
+[00:26:36] [Server thread/INFO]: <KangaReuben> kk im afking to repair my elytra
+[00:27:06] [Server thread/INFO]: <J9> thats it im making everything turquoise
+[00:27:26] [Server thread/INFO]: <Om3gaNut> nice colour right hahah
+[00:28:11] [Server thread/INFO]: <Om3gaNut> follow
+[00:28:14] [Server thread/INFO]: <J9> ok
+[00:28:14] [Server thread/INFO]: <Om3gaNut> must fly
+[00:28:23] [Server thread/INFO]: <J9> ok
+[00:28:24] [Server thread/INFO]: <Om3gaNut> acaia here also
+[00:29:03] [Server thread/INFO]: <Om3gaNut> below us
+[00:29:07] [Server thread/INFO]: <Om3gaNut> that grey square
+[00:29:12] [Server thread/INFO]: <Om3gaNut> is the guardian farm
+[00:29:15] [Server thread/INFO]: <J9> OHHH
+[00:29:16] [Server thread/INFO]: <Om3gaNut> if u want more materials
+[00:29:21] [Server thread/INFO]: <Om3gaNut> u just stand here and afk
+[00:29:24] [Server thread/INFO]: <Om3gaNut> they spawn below us
+[00:29:26] [Server thread/INFO]: <J9> OHHH
+[00:29:29] [Server thread/INFO]: <Om3gaNut> and get sucked into that
+[00:29:30] [Server thread/INFO]: <J9> sunset
+[00:29:34] [Server thread/INFO]: <J9> sunrise
+[00:29:47] [Server thread/INFO]: <J9> HAHAHAA
+[00:30:31] [Server thread/INFO]: <Om3gaNut> im gonna stand here a while to test it
+[00:30:32] [Server thread/INFO]: <J9> smart
+[00:30:40] [Server thread/INFO]: <J9> i can test here
+[00:30:45] [Server thread/INFO]: <Om3gaNut> if u want
+[00:30:58] [Server thread/INFO]: <J9> u go check lor
+[00:30:59] [Server thread/INFO]: <Om3gaNut> about 20 mins is one chest worth of items
+[00:31:04] [Server thread/INFO]: <Om3gaNut> kk thanks
+[00:31:15] [Server thread/WARN]: Om3gaNut moved too quickly! -17.857124386553778,-4.801406737638672,-0.37442944127883493
+[00:32:17] [Server thread/INFO]: <Om3gaNut> reubs its definetely working
+[00:32:21] [Server thread/INFO]: <KangaReuben> o
+[00:32:22] [Server thread/INFO]: <KangaReuben> ok
+[00:32:25] [Server thread/INFO]: <KangaReuben> maybe its the lag
+[00:32:30] [Server thread/INFO]: <Om3gaNut> i can hear them screamng
+[00:33:34] [Server thread/INFO]: <J9> it sounds like its working
+[00:33:41] [Server thread/INFO]: <J9> i can hear
+[00:33:45] [Server thread/INFO]: <Om3gaNut> u can?
+[00:33:47] [Server thread/INFO]: <Om3gaNut> from there?
+[00:33:58] [Server thread/INFO]: <J9> yeah can
+[00:34:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/416384, l='world', x=218.57, y=31.95, z=-219.57]
+[00:34:39] [Server thread/INFO]: <J9> i can see it coming up from the water
+[00:34:44] [Server thread/INFO]: <Om3gaNut> k u can leave if u want !
+[00:35:13] [Server thread/WARN]: Om3gaNut moved wrongly!
+[00:35:18] [Server thread/INFO]: <J9> i see the acacia
+[00:35:36] [Server thread/INFO]: <Om3gaNut> get some saplings to plant
+[00:36:17] [Server thread/WARN]: KangaReuben moved too quickly! -1.970999126781578,1.0,-9.870463129747236
+[00:36:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3009ms or 60 ticks behind
+[00:36:30] [Server thread/INFO]: <Om3gaNut> wah
+[00:36:36] [Server thread/INFO]: <Om3gaNut> theres so many golems now
+[00:36:39] [Server thread/INFO]: <KangaReuben> ya dude
+[00:36:47] [Server thread/INFO]: <KangaReuben> can we look into making a farm
+[00:37:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[00:39:54] [Server thread/INFO]: <Om3gaNut> how many name tags do we have
+[00:40:07] [Server thread/INFO]: KangaReuben was slain by Wither Skeleton
+[00:40:17] [Server thread/INFO]: <KangaReuben> a lot
+[00:40:27] [Server thread/INFO]: <Om3gaNut> nice floor in the chest room
+[00:40:35] [Server thread/INFO]: <Om3gaNut> i wanna name them all tavis
+[00:40:44] [Server thread/INFO]: <KangaReuben> oh
+[00:40:47] [Server thread/INFO]: <KangaReuben> for ALL OF THEM ah
+[00:40:52] [Server thread/INFO]: <KangaReuben> need to afk fish more then
+[00:41:03] [Server thread/INFO]: <Om3gaNut> maybe just ask scott give us the tags haha
+[00:41:06] [Server thread/INFO]: <Om3gaNut> dont waste ur time
+[00:41:27] [Server thread/INFO]: <Om3gaNut> i like how the golems just patrol the one house
+[00:41:31] [Server thread/INFO]: <KangaReuben> ya
+[00:41:33] [Server thread/INFO]: <KangaReuben> cute huh
+[00:41:39] [Server thread/INFO]: <Om3gaNut> if the pillagers come
+[00:43:00] [Server thread/INFO]: J9 was slain by Zombie
+[00:45:44] [Server thread/INFO]: Om3gaNut lost connection: Disconnected
+[00:45:44] [Server thread/INFO]: Om3gaNut left the game
+[00:48:04] [Server thread/INFO]: J9 lost connection: Disconnected
+[00:48:04] [Server thread/INFO]: J9 left the game
+[00:57:39] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-275, y=49, z=639} fk{x=-272, y=48, z=639}
+[01:42:54] [Server thread/WARN]: KangaReuben moved wrongly!
+[02:51:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3260ms or 65 ticks behind
+[02:59:14] [Server thread/INFO]: KangaReuben lost connection: Disconnected
+[02:59:14] [Server thread/INFO]: KangaReuben left the game
+[12:33:45] [Server thread/INFO]: Stopping the server
+[12:33:45] [Server thread/INFO]: Stopping server
+[12:33:45] [Server thread/INFO]: Saving players
+[12:33:45] [Server thread/INFO]: Saving worlds
+[12:33:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[12:33:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:33:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[12:33:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:33:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[12:33:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:33:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:33:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:33:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
