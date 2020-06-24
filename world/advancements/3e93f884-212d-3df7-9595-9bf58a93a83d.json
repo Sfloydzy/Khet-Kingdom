@@ -2231,6 +2231,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2020-06-17 12:32:56 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2020-04-08 01:24:29 +0800"
@@ -4151,7 +4157,8 @@
     "criteria": {
       "textures/entity/cat/tabby.png": "2020-06-11 01:16:48 +0800",
       "textures/entity/cat/white.png": "2020-06-11 01:16:04 +0800",
-      "textures/entity/cat/ragdoll.png": "2020-06-11 01:21:04 +0800"
+      "textures/entity/cat/ragdoll.png": "2020-06-11 01:21:04 +0800",
+      "textures/entity/cat/red.png": "2020-06-18 02:43:54 +0800"
     },
     "done": false
   },
