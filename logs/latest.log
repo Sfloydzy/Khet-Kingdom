@@ -1,63 +1,239 @@
-[16:33:58] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[16:33:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:33:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:33:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:33:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:33:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:33:59] [main/INFO]: Reloading ResourceManager: Default
-[16:34:01] [Worker-Main-14/INFO]: Loaded 7 recipes
-[16:34:02] [Worker-Main-14/INFO]: Loaded 927 advancements
-[16:34:03] [Server thread/INFO]: Starting minecraft server version 1.16
-[16:34:03] [Server thread/INFO]: Loading properties
-[16:34:03] [Server thread/INFO]: Default game type: SURVIVAL
-[16:34:03] [Server thread/INFO]: Generating keypair
-[16:34:03] [Server thread/INFO]: Starting Minecraft server on 25.120.13.182:25565
-[16:34:03] [Server thread/INFO]: Using default channel type
-[16:34:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:34:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:34:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:34:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:34:05] [Server thread/INFO]: Preparing level "world"
-[16:34:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:18] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:18] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:18] [Server thread/INFO]: Preparing spawn area: 0%
-[16:34:18] [Server thread/INFO]: Time elapsed: 13406 ms
-[16:34:18] [Server thread/INFO]: Done (13.590s)! For help, type "help"
-[16:34:20] [Server thread/INFO]: Stopping the server
-[16:34:20] [Server thread/INFO]: Stopping server
-[16:34:20] [Server thread/INFO]: Saving players
-[16:34:21] [Server thread/INFO]: Saving worlds
-[16:34:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:34:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:34:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:34:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:34:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:34:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:34:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:34:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:34:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:51:29] [Server thread/INFO]: Om3gaNut[/25.121.167.183:51843] logged in with entity id 353 at (-855.4216749864007, 16.0, 40.99134989886933)
+[01:51:30] [Server thread/INFO]: Om3gaNut joined the game
+[01:51:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3759ms or 75 ticks behind
+[01:53:34] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-842, y=14, z=0} fu{x=-843, y=13, z=0}
+[01:53:34] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-842, y=14, z=0} fu{x=-843, y=13, z=0}
+[01:53:34] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-842, y=14, z=0} fu{x=-843, y=13, z=0}
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1041, l='ServerLevel[world]', x=-841.43, y=10.56, z=1.46]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1042, l='ServerLevel[world]', x=-843.38, y=11.42, z=1.61]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1045, l='ServerLevel[world]', x=-846.38, y=11.49, z=1.43]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1046, l='ServerLevel[world]', x=-845.55, y=12.37, z=-2.69]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1047, l='ServerLevel[world]', x=-842.46, y=10.69, z=-1.40]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1048, l='ServerLevel[world]', x=-846.66, y=18.61, z=1.53]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1049, l='ServerLevel[world]', x=-843.45, y=12.39, z=-2.39]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1051, l='ServerLevel[world]', x=-840.44, y=11.30, z=-0.44]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1052, l='ServerLevel[world]', x=-841.38, y=11.61, z=0.53]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1054, l='ServerLevel[world]', x=-845.45, y=18.65, z=-1.47]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1056, l='ServerLevel[world]', x=-846.26, y=11.36, z=0.74]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1058, l='ServerLevel[world]', x=-840.73, y=11.70, z=-2.42]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1077, l='ServerLevel[world]', x=-844.43, y=8.29, z=-2.53]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Gravel'/1078, l='ServerLevel[world]', x=-845.48, y=9.59, z=-3.50]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Soul Sand'/1082, l='ServerLevel[world]', x=-845.66, y=8.36, z=2.43]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Flint'/1083, l='ServerLevel[world]', x=-846.53, y=8.72, z=-2.32]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1084, l='ServerLevel[world]', x=-849.33, y=10.54, z=2.60]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1086, l='ServerLevel[world]', x=-846.59, y=7.55, z=0.32]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1087, l='ServerLevel[world]', x=-844.56, y=7.43, z=-0.39]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1088, l='ServerLevel[world]', x=-844.72, y=13.50, z=-5.38]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1111, l='ServerLevel[world]', x=-844.62, y=6.48, z=0.67]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Soul Sand'/1115, l='ServerLevel[world]', x=-844.51, y=6.52, z=-3.26]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1117, l='ServerLevel[world]', x=-840.37, y=7.63, z=-3.67]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Flint'/1118, l='ServerLevel[world]', x=-847.29, y=7.49, z=-2.31]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1119, l='ServerLevel[world]', x=-844.43, y=6.51, z=-0.36]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1120, l='ServerLevel[world]', x=-842.46, y=10.31, z=-6.59]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1123, l='ServerLevel[world]', x=-842.53, y=7.42, z=1.66]
+[01:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1124, l='ServerLevel[world]', x=-844.58, y=9.70, z=-7.30]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1499, l='ServerLevel[world]', x=-833.65, y=11.41, z=-15.69]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1502, l='ServerLevel[world]', x=-836.57, y=12.49, z=-17.47]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1503, l='ServerLevel[world]', x=-833.49, y=12.34, z=-15.38]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1505, l='ServerLevel[world]', x=-838.35, y=10.69, z=-8.72]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Soul Sand'/1506, l='ServerLevel[world]', x=-837.66, y=12.74, z=-8.37]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1507, l='ServerLevel[world]', x=-836.31, y=11.58, z=-9.67]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1508, l='ServerLevel[world]', x=-837.49, y=11.41, z=-8.69]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1510, l='ServerLevel[world]', x=-834.42, y=10.72, z=-14.69]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1511, l='ServerLevel[world]', x=-837.48, y=9.52, z=-10.37]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1527, l='ServerLevel[world]', x=-844.61, y=16.60, z=-17.59]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1528, l='ServerLevel[world]', x=-841.27, y=21.28, z=-13.26]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1530, l='ServerLevel[world]', x=-844.40, y=13.44, z=-16.41]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1531, l='ServerLevel[world]', x=-846.31, y=15.57, z=-14.71]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1532, l='ServerLevel[world]', x=-841.49, y=20.52, z=-13.52]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1533, l='ServerLevel[world]', x=-846.53, y=16.50, z=-15.27]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1534, l='ServerLevel[world]', x=-846.27, y=16.61, z=-14.47]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1535, l='ServerLevel[world]', x=-846.25, y=17.33, z=-14.72]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1536, l='ServerLevel[world]', x=-840.29, y=19.61, z=-17.71]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1537, l='ServerLevel[world]', x=-841.53, y=15.56, z=-18.28]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1538, l='ServerLevel[world]', x=-844.51, y=20.50, z=-10.59]
+[01:55:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/1539, l='ServerLevel[world]', x=-842.59, y=15.30, z=-17.61]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2204, l='ServerLevel[world]', x=-816.36, y=13.43, z=-9.72]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2205, l='ServerLevel[world]', x=-815.31, y=13.57, z=-10.61]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Soul Sand'/2206, l='ServerLevel[world]', x=-818.30, y=12.38, z=-12.51]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2207, l='ServerLevel[world]', x=-821.30, y=15.32, z=-15.46]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2208, l='ServerLevel[world]', x=-822.65, y=15.72, z=-15.28]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2209, l='ServerLevel[world]', x=-817.47, y=11.28, z=-11.40]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2212, l='ServerLevel[world]', x=-818.44, y=11.27, z=-9.68]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2213, l='ServerLevel[world]', x=-821.28, y=11.60, z=-13.74]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2214, l='ServerLevel[world]', x=-817.63, y=11.50, z=-8.51]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2216, l='ServerLevel[world]', x=-822.27, y=12.42, z=-13.45]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2217, l='ServerLevel[world]', x=-823.35, y=18.73, z=-12.39]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2219, l='ServerLevel[world]', x=-822.55, y=13.67, z=-12.43]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2220, l='ServerLevel[world]', x=-822.69, y=13.54, z=-15.52]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2240, l='ServerLevel[world]', x=-812.53, y=19.42, z=-8.45]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2246, l='ServerLevel[world]', x=-819.48, y=21.66, z=-11.31]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2247, l='ServerLevel[world]', x=-812.57, y=16.68, z=-8.51]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2248, l='ServerLevel[world]', x=-814.67, y=19.72, z=-7.69]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2251, l='ServerLevel[world]', x=-813.62, y=15.44, z=-8.40]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2252, l='ServerLevel[world]', x=-815.29, y=19.58, z=-9.44]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2254, l='ServerLevel[world]', x=-819.25, y=20.43, z=-9.64]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2255, l='ServerLevel[world]', x=-812.74, y=15.52, z=-10.54]
+[01:59:41] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2256, l='ServerLevel[world]', x=-817.63, y=20.47, z=-7.35]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2366, l='ServerLevel[world]', x=-823.36, y=8.53, z=-12.30]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2367, l='ServerLevel[world]', x=-822.74, y=10.40, z=-12.41]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2368, l='ServerLevel[world]', x=-822.46, y=7.28, z=-13.31]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2369, l='ServerLevel[world]', x=-825.71, y=8.30, z=-12.28]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2370, l='ServerLevel[world]', x=-823.58, y=7.62, z=-9.38]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Soul Sand'/2371, l='ServerLevel[world]', x=-819.32, y=9.72, z=-11.34]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2372, l='ServerLevel[world]', x=-820.28, y=8.34, z=-11.66]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2373, l='ServerLevel[world]', x=-823.66, y=7.37, z=-8.74]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2409, l='ServerLevel[world]', x=-810.30, y=7.50, z=-8.29]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2410, l='ServerLevel[world]', x=-808.35, y=11.44, z=-10.70]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2411, l='ServerLevel[world]', x=-814.52, y=8.50, z=-10.28]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2412, l='ServerLevel[world]', x=-812.60, y=11.54, z=-13.53]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2413, l='ServerLevel[world]', x=-810.50, y=11.66, z=-13.32]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Soul Sand'/2414, l='ServerLevel[world]', x=-817.61, y=9.53, z=-10.62]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2415, l='ServerLevel[world]', x=-809.63, y=9.65, z=-10.52]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2416, l='ServerLevel[world]', x=-813.68, y=6.60, z=-9.38]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2417, l='ServerLevel[world]', x=-812.72, y=7.56, z=-9.46]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2418, l='ServerLevel[world]', x=-815.55, y=8.35, z=-10.67]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2419, l='ServerLevel[world]', x=-814.72, y=8.74, z=-11.58]
+[01:59:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/2420, l='ServerLevel[world]', x=-811.30, y=9.56, z=-13.74]
+[02:02:50] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-772, y=15, z=-11} fu{x=-773, y=14, z=-11}
+[02:02:50] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-772, y=14, z=-11} fu{x=-773, y=13, z=-10}
+[02:03:00] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-774, y=13, z=-13} fu{x=-774, y=12, z=-12}
+[02:04:07] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-784, y=17, z=-7} fu{x=-783, y=18, z=-8}
+[02:04:07] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-785, y=18, z=-9} fu{x=-785, y=17, z=-9}
+[02:04:07] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-785, y=18, z=-9} fu{x=-785, y=17, z=-9}
+[02:04:07] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-785, y=18, z=-9} fu{x=-785, y=17, z=-9}
+[02:04:07] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-785, y=18, z=-9} fu{x=-785, y=17, z=-9}
+[02:04:38] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/3540, l='ServerLevel[world]', x=-785.54, y=13.33, z=-9.30]
+[02:04:38] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/3542, l='ServerLevel[world]', x=-787.27, y=13.39, z=-10.37]
+[02:04:38] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/3544, l='ServerLevel[world]', x=-783.61, y=17.62, z=-12.26]
+[02:04:38] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/3545, l='ServerLevel[world]', x=-786.31, y=14.71, z=-9.70]
+[02:04:38] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/3557, l='ServerLevel[world]', x=-780.25, y=12.47, z=-3.26]
+[02:06:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4058, l='ServerLevel[world]', x=-788.57, y=18.31, z=6.39]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4679, l='ServerLevel[world]', x=-720.34, y=17.33, z=-21.31]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4680, l='ServerLevel[world]', x=-716.71, y=15.59, z=-27.38]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4681, l='ServerLevel[world]', x=-717.39, y=15.67, z=-20.70]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Torch'/4682, l='ServerLevel[world]', x=-720.35, y=7.37, z=-23.73]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Soul Sand'/4683, l='ServerLevel[world]', x=-718.68, y=10.54, z=-21.41]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4684, l='ServerLevel[world]', x=-717.66, y=9.52, z=-27.54]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4685, l='ServerLevel[world]', x=-717.45, y=14.30, z=-19.61]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4686, l='ServerLevel[world]', x=-714.30, y=13.35, z=-26.68]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4688, l='ServerLevel[world]', x=-719.43, y=8.42, z=-25.26]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4690, l='ServerLevel[world]', x=-717.29, y=12.47, z=-19.74]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4691, l='ServerLevel[world]', x=-717.30, y=8.69, z=-21.58]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4692, l='ServerLevel[world]', x=-715.36, y=15.42, z=-21.26]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4693, l='ServerLevel[world]', x=-721.46, y=16.29, z=-21.54]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4694, l='ServerLevel[world]', x=-713.68, y=13.35, z=-24.52]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4695, l='ServerLevel[world]', x=-715.42, y=11.29, z=-23.35]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4696, l='ServerLevel[world]', x=-717.33, y=11.51, z=-28.48]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4697, l='ServerLevel[world]', x=-719.25, y=13.68, z=-19.75]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4698, l='ServerLevel[world]', x=-719.30, y=16.29, z=-27.50]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4730, l='ServerLevel[world]', x=-717.58, y=12.57, z=-31.30]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4731, l='ServerLevel[world]', x=-719.29, y=9.29, z=-30.58]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4732, l='ServerLevel[world]', x=-719.39, y=12.34, z=-31.66]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4733, l='ServerLevel[world]', x=-720.66, y=16.44, z=-28.28]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4734, l='ServerLevel[world]', x=-719.30, y=11.42, z=-32.29]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4735, l='ServerLevel[world]', x=-720.26, y=9.70, z=-31.74]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4736, l='ServerLevel[world]', x=-716.27, y=8.62, z=-30.39]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4737, l='ServerLevel[world]', x=-721.46, y=9.44, z=-31.71]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4738, l='ServerLevel[world]', x=-720.28, y=12.39, z=-30.74]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4739, l='ServerLevel[world]', x=-718.27, y=7.71, z=-28.35]
+[02:09:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/4740, l='ServerLevel[world]', x=-720.64, y=13.70, z=-29.49]
+[02:11:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5241, l='ServerLevel[world]', x=-705.41, y=10.58, z=-30.26]
+[02:11:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5250, l='ServerLevel[world]', x=-707.65, y=15.72, z=-31.67]
+[02:11:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5305, l='ServerLevel[world]', x=-701.72, y=11.60, z=-20.67]
+[02:11:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5306, l='ServerLevel[world]', x=-699.66, y=14.49, z=-20.49]
+[02:11:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5307, l='ServerLevel[world]', x=-702.67, y=19.53, z=-20.61]
+[02:11:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5308, l='ServerLevel[world]', x=-696.68, y=17.54, z=-21.64]
+[02:11:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5309, l='ServerLevel[world]', x=-701.45, y=17.42, z=-17.74]
+[02:11:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5310, l='ServerLevel[world]', x=-703.63, y=14.48, z=-17.43]
+[02:11:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5311, l='ServerLevel[world]', x=-697.70, y=18.75, z=-22.52]
+[02:11:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5312, l='ServerLevel[world]', x=-703.41, y=11.40, z=-20.46]
+[02:11:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5313, l='ServerLevel[world]', x=-698.28, y=16.41, z=-18.52]
+[02:11:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5314, l='ServerLevel[world]', x=-702.57, y=12.59, z=-19.64]
+[02:11:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5315, l='ServerLevel[world]', x=-699.25, y=12.51, z=-20.30]
+[02:11:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5316, l='ServerLevel[world]', x=-700.32, y=15.41, z=-19.65]
+[02:11:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5317, l='ServerLevel[world]', x=-701.25, y=14.54, z=-19.37]
+[02:11:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5322, l='ServerLevel[world]', x=-702.35, y=10.30, z=-20.47]
+[02:12:46] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-711, y=17, z=-34} fu{x=-711, y=18, z=-34}
+[02:12:46] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-711, y=17, z=-34} fu{x=-711, y=18, z=-34}
+[02:12:47] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-711, y=17, z=-34} fu{x=-711, y=18, z=-34}
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5786, l='ServerLevel[world]', x=-684.72, y=15.30, z=-21.27]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Gravel'/5787, l='ServerLevel[world]', x=-690.58, y=15.43, z=-20.60]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5788, l='ServerLevel[world]', x=-687.31, y=14.53, z=-29.47]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Soul Sand'/5789, l='ServerLevel[world]', x=-691.47, y=19.49, z=-23.30]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5790, l='ServerLevel[world]', x=-688.33, y=17.38, z=-29.39]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5791, l='ServerLevel[world]', x=-685.49, y=17.43, z=-25.32]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Flint'/5792, l='ServerLevel[world]', x=-686.53, y=11.25, z=-22.50]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5793, l='ServerLevel[world]', x=-684.72, y=14.31, z=-22.58]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Gravel'/5794, l='ServerLevel[world]', x=-687.53, y=16.54, z=-20.68]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5795, l='ServerLevel[world]', x=-690.60, y=10.26, z=-26.27]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5796, l='ServerLevel[world]', x=-686.51, y=13.64, z=-29.46]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5797, l='ServerLevel[world]', x=-685.56, y=16.40, z=-22.43]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5798, l='ServerLevel[world]', x=-686.40, y=10.38, z=-25.52]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Gravel'/5799, l='ServerLevel[world]', x=-686.39, y=17.69, z=-20.56]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5800, l='ServerLevel[world]', x=-685.72, y=18.25, z=-23.42]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5801, l='ServerLevel[world]', x=-691.44, y=10.65, z=-27.57]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5802, l='ServerLevel[world]', x=-685.56, y=18.67, z=-26.71]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Gravel'/5803, l='ServerLevel[world]', x=-687.44, y=11.26, z=-21.45]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5804, l='ServerLevel[world]', x=-687.35, y=19.36, z=-24.55]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5805, l='ServerLevel[world]', x=-684.54, y=11.71, z=-25.35]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5806, l='ServerLevel[world]', x=-683.75, y=16.30, z=-25.55]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Gravel'/5808, l='ServerLevel[world]', x=-686.71, y=10.51, z=-21.34]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5810, l='ServerLevel[world]', x=-685.62, y=19.36, z=-23.75]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5812, l='ServerLevel[world]', x=-689.48, y=9.55, z=-25.40]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5815, l='ServerLevel[world]', x=-688.73, y=9.58, z=-23.72]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5818, l='ServerLevel[world]', x=-687.28, y=11.31, z=-28.62]
+[02:14:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5819, l='ServerLevel[world]', x=-685.49, y=10.34, z=-25.33]
+[02:14:14] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5938, l='ServerLevel[world]', x=-684.34, y=14.60, z=-31.49]
+[02:14:14] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5941, l='ServerLevel[world]', x=-685.45, y=12.35, z=-32.67]
+[02:14:14] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5942, l='ServerLevel[world]', x=-684.55, y=13.30, z=-32.44]
+[02:14:14] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5944, l='ServerLevel[world]', x=-687.26, y=11.39, z=-34.59]
+[02:14:14] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5945, l='ServerLevel[world]', x=-683.26, y=10.56, z=-30.43]
+[02:14:14] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5946, l='ServerLevel[world]', x=-684.44, y=12.42, z=-31.37]
+[02:14:14] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5947, l='ServerLevel[world]', x=-683.26, y=12.51, z=-33.44]
+[02:14:14] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5948, l='ServerLevel[world]', x=-684.74, y=12.36, z=-32.65]
+[02:14:14] [Server thread/WARN]: Fetching packet for removed entity bbg['Soul Sand'/5949, l='ServerLevel[world]', x=-686.62, y=12.49, z=-33.41]
+[02:14:14] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/5950, l='ServerLevel[world]', x=-684.29, y=9.59, z=-30.53]
+[02:15:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/6244, l='ServerLevel[world]', x=-680.68, y=11.29, z=-20.60]
+[02:15:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Nether Quartz'/6245, l='ServerLevel[world]', x=-677.59, y=11.74, z=-21.41]
+[02:15:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/6246, l='ServerLevel[world]', x=-679.35, y=12.29, z=-21.65]
+[02:15:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/6247, l='ServerLevel[world]', x=-677.61, y=13.67, z=-20.36]
+[02:15:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/6248, l='ServerLevel[world]', x=-677.26, y=15.46, z=-20.49]
+[02:15:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Soul Sand'/6249, l='ServerLevel[world]', x=-679.48, y=8.31, z=-22.55]
+[02:15:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/6250, l='ServerLevel[world]', x=-677.42, y=14.54, z=-18.75]
+[02:15:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/6251, l='ServerLevel[world]', x=-678.51, y=16.31, z=-21.54]
+[02:15:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/6252, l='ServerLevel[world]', x=-678.34, y=8.60, z=-23.32]
+[02:15:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/6253, l='ServerLevel[world]', x=-679.43, y=13.46, z=-19.67]
+[02:18:12] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-674, y=17, z=-16} fu{x=-674, y=16, z=-16}
+[02:19:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/7011, l='ServerLevel[world]', x=-656.56, y=11.58, z=-30.34]
+[02:19:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/7012, l='ServerLevel[world]', x=-658.53, y=10.40, z=-32.66]
+[02:19:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/7013, l='ServerLevel[world]', x=-658.42, y=11.33, z=-33.61]
+[02:19:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/7014, l='ServerLevel[world]', x=-656.68, y=18.29, z=-29.70]
+[02:19:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/7015, l='ServerLevel[world]', x=-656.26, y=14.27, z=-33.52]
+[02:19:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/7016, l='ServerLevel[world]', x=-659.31, y=10.35, z=-30.49]
+[02:19:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/7017, l='ServerLevel[world]', x=-659.69, y=11.61, z=-31.28]
+[02:19:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Nether Quartz'/7018, l='ServerLevel[world]', x=-657.69, y=18.54, z=-29.32]
+[02:19:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/7020, l='ServerLevel[world]', x=-654.70, y=12.40, z=-27.40]
+[02:19:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/7021, l='ServerLevel[world]', x=-654.50, y=13.58, z=-30.34]
+[02:19:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/7022, l='ServerLevel[world]', x=-656.40, y=9.38, z=-27.60]
+[02:19:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/7023, l='ServerLevel[world]', x=-656.74, y=14.65, z=-32.72]
+[02:19:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/7025, l='ServerLevel[world]', x=-655.34, y=13.73, z=-28.44]
+[02:19:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Netherrack'/7026, l='ServerLevel[world]', x=-657.65, y=11.43, z=-31.65]
+[02:20:08] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-651, y=15, z=-19} fu{x=-651, y=13, z=-22}
+[02:21:27] [Server thread/INFO]: Om3gaNut tried to swim in lava
+[02:22:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2191ms or 43 ticks behind
+[02:38:42] [Server thread/INFO]: Om3gaNut lost connection: Disconnected
+[02:38:42] [Server thread/INFO]: Om3gaNut left the game
+[09:35:05] [Server thread/INFO]: Stopping the server
+[09:35:05] [Server thread/INFO]: Stopping server
+[09:35:05] [Server thread/INFO]: Saving players
+[09:35:05] [Server thread/INFO]: Saving worlds
+[09:35:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:35:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:35:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09:35:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:35:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09:35:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:35:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:35:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:35:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
