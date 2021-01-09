@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2021-01-07 03:48:49 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-01-09 01:26:24 +0800"
@@ -200,6 +206,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2019-02-01 03:35:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2021-01-07 19:32:01 +0800"
     },
     "done": true
   },
@@ -368,6 +380,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2019-01-16 22:38:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2021-01-07 19:56:38 +0800"
     },
     "done": true
   },
@@ -1410,6 +1428,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:turtle": "2021-01-06 19:55:27 +0800",
       "minecraft:sheep": "2019-02-01 02:46:48 +0800",
       "minecraft:cow": "2019-01-24 01:58:39 +0800",
       "minecraft:chicken": "2019-02-01 03:30:26 +0800",
@@ -2662,6 +2681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2021-01-07 00:55:21 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2019-01-16 22:38:31 +0800"
@@ -2761,6 +2786,7 @@
       "minecraft:husk": "2020-04-16 15:20:22 +0800",
       "minecraft:shulker": "2020-05-02 01:41:27 +0800",
       "minecraft:cave_spider": "2020-04-03 23:11:14 +0800",
+      "minecraft:piglin": "2021-01-06 00:28:20 +0800",
       "minecraft:enderman": "2020-04-01 21:52:55 +0800",
       "minecraft:silverfish": "2020-04-06 15:56:53 +0800",
       "minecraft:zombie": "2019-01-16 23:07:53 +0800",
@@ -2973,6 +2999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2021-01-07 20:08:56 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2020-04-20 12:30:56 +0800"
@@ -3072,6 +3104,12 @@
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2019-02-26 18:52:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2021-01-06 19:53:06 +0800"
     },
     "done": true
   },
@@ -3761,6 +3799,7 @@
       "rotten_flesh": "2019-02-26 18:49:11 +0800",
       "dried_kelp": "2020-04-29 21:12:03 +0800",
       "salmon": "2020-06-13 01:39:51 +0800",
+      "golden_carrot": "2020-11-23 23:53:30 +0800",
       "cooked_chicken": "2020-04-05 01:14:46 +0800",
       "enchanted_golden_apple": "2020-06-28 22:36:30 +0800",
       "cod": "2020-04-13 20:49:34 +0800",
@@ -4768,5 +4807,5 @@
     },
     "done": true
   },
-  "DataVersion": 2567
+  "DataVersion": 2584
 }

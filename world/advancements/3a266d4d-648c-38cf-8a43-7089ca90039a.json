@@ -505,6 +505,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-11-23 23:55:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-01-19 20:35:26 +0800"
@@ -673,6 +679,7 @@
       "minecraft:pillager": "2020-05-31 23:06:16 +0800",
       "minecraft:skeleton": "2019-01-16 23:46:15 +0800",
       "minecraft:ravager": "2020-05-31 23:19:14 +0800",
+      "minecraft:ghast": "2020-11-23 23:55:46 +0800",
       "minecraft:guardian": "2020-04-08 00:34:49 +0800",
       "minecraft:vindicator": "2020-05-31 23:08:47 +0800",
       "minecraft:spider": "2019-01-19 20:43:31 +0800",
@@ -1557,7 +1564,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2020-07-01 15:15:49 +0800"
+      "minecraft:nether_wastes": "2020-07-01 15:15:49 +0800",
+      "minecraft:warped_forest": "2020-11-23 23:56:14 +0800"
     },
     "done": false
   },
@@ -3292,5 +3300,5 @@
     },
     "done": true
   },
-  "DataVersion": 2567
+  "DataVersion": 2584
 }
