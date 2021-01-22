@@ -1,158 +1,83 @@
-[00:06:26] [Server thread/WARN]: KangaReuben moved too quickly! -0.2946151960724812,18.63395516114788,0.07538132448547685
-[00:06:28] [Server thread/WARN]: KangaReuben moved too quickly! 0.12116789621744317,13.939536696991837,11.467108832522541
-[00:06:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/49966, l='ServerLevel[]', x=31.34, y=64.00, z=199.23]
-[00:10:30] [Server thread/WARN]: KangaReuben moved too quickly! 12.894686917641042,-7.204385744970224,10.411854614927677
-[00:12:22] [Server thread/WARN]: KangaReuben moved too quickly! 0.4248121699189831,1.4909430245354258,17.768825411217932
-[00:12:23] [Server thread/WARN]: KangaReuben moved too quickly! -2.8263234636994543,3.568369357414369,17.53239530657254
-[00:13:45] [Server thread/WARN]: KangaReuben moved too quickly! -3.592394869449908,4.409405538815292,9.104448532700076
-[00:13:47] [Server thread/WARN]: KangaReuben moved too quickly! -6.017422598383401,8.025861310830052,15.250194827665155
-[00:13:51] [Server thread/WARN]: KangaReuben moved too quickly! -8.824232656248853,10.309449395183478,-12.341919478688737
-[00:13:54] [Server thread/WARN]: KangaReuben moved too quickly! -8.80396904040893,10.972413984541006,-10.66940650497753
-[00:13:59] [Server thread/WARN]: KangaReuben moved too quickly! 13.837794105639972,6.988473906022136,9.64278904441963
-[00:14:47] [Server thread/WARN]: KangaReuben moved too quickly! -2.833334207395371,15.6032827006306,9.261527077170399
-[00:14:53] [Server thread/WARN]: KangaReuben moved too quickly! 7.043793369928848,-16.090540459042643,5.236662237069993
-[00:15:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/51465, l='ServerLevel[]', x=20.80, y=74.00, z=154.20]
-[00:18:25] [Server thread/INFO]: KangaReuben fell from a high place
-[00:18:35] [Server thread/WARN]: KangaReuben moved too quickly! -9.688442183805094,-2.9275557866413138,1.5767039252187942
-[00:20:30] [Server thread/WARN]: KangaReuben moved too quickly! -12.28334847850283,-2.6563144129519287,12.486738359070046
-[00:20:43] [Server thread/WARN]: KangaReuben moved too quickly! -12.026722837955049,-3.2330796296184587,12.495724564868624
-[00:21:04] [Server thread/WARN]: KangaReuben moved too quickly! 4.993249255455453,8.342959964673312,-15.272588233751208
-[00:21:06] [Server thread/WARN]: KangaReuben moved too quickly! 7.963858965139536,9.894741230361149,-13.645384490782362
-[00:21:13] [Server thread/WARN]: KangaReuben moved too quickly! 10.768932603795406,3.215675013738675,-15.241505696188256
-[00:21:28] [Server thread/WARN]: KangaReuben moved too quickly! 14.139903226483838,-2.2980339190501695,-11.050480114042443
-[00:22:00] [Server thread/WARN]: KangaReuben moved too quickly! 0.01156804380963905,10.530099123378989,0.0
-[00:34:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/55461, l='ServerLevel[]', x=20.80, y=74.00, z=154.20]
-[00:35:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/55551, l='ServerLevel[]', x=28.06, y=64.00, z=188.95]
-[00:36:20] [Server thread/WARN]: KangaReuben moved too quickly! -0.27901411877208915,-10.373687041725674,15.500828273104048
-[00:36:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/55693, l='ServerLevel[]', x=38.97, y=64.00, z=188.83]
-[00:38:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/55860, l='ServerLevel[]', x=38.18, y=64.00, z=199.44]
-[00:43:08] [Server thread/WARN]: KangaReuben moved too quickly! -3.1128847285886643,17.044328058853424,3.6040734286044085
-[00:43:11] [Server thread/WARN]: KangaReuben moved too quickly! -3.6024352656067684,16.84983013446869,2.3854639994912077
-[00:43:15] [Server thread/INFO]: KangaReuben fell from a high place
-[00:43:32] [Server thread/WARN]: KangaReuben moved too quickly! -10.187674475611537,14.407151408567032,4.082654336329739
-[00:43:34] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/56631, l='ServerLevel[]', x=20.14, y=74.00, z=155.17]
-[00:43:36] [Server thread/WARN]: KangaReuben moved too quickly! -7.971336420726683,15.390937382835062,2.9704910149270063
-[00:44:03] [Server thread/WARN]: KangaReuben moved too quickly! -1.4141035475529584,-8.784928106050813,5.991760669082112
-[00:44:04] [Server thread/WARN]: KangaReuben moved too quickly! -5.070691458293798,-10.041428912266113,-14.917167310339039
-[00:47:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/57303, l='ServerLevel[]', x=37.75, y=64.00, z=188.83]
-[00:49:53] [Server thread/INFO]: DodgeyDoge[/25.102.0.208:53431] logged in with entity id 57514 at (-260.22422021912314, 134.7401960495853, 486.32759292569904)
-[00:49:53] [Server thread/INFO]: DodgeyDoge joined the game
-[00:49:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[00:50:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3016ms or 60 ticks behind
-[00:50:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4220ms or 84 ticks behind
-[00:50:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6590ms or 131 ticks behind
-[00:51:18] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to KangaReuben]
-[00:52:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/58326, l='ServerLevel[]', x=27.55, y=64.00, z=203.95]
-[00:52:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/58326, l='ServerLevel[]', x=27.55, y=64.00, z=203.95]
-[00:52:23] [Server thread/INFO]: DodgeyDoge lost connection: Disconnected
-[00:52:23] [Server thread/INFO]: DodgeyDoge left the game
-[00:53:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/58407, l='ServerLevel[]', x=35.08, y=64.00, z=199.18]
-[00:58:15] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/58860, l='ServerLevel[]', x=38.75, y=64.00, z=189.41]
-[01:00:30] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/59080, l='ServerLevel[]', x=19.20, y=74.00, z=155.80]
-[01:06:34] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/59768, l='ServerLevel[]', x=20.80, y=74.00, z=154.63]
-[01:12:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/60408, l='ServerLevel[]', x=20.80, y=74.00, z=154.20]
-[01:12:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/60456, l='ServerLevel[]', x=19.64, y=74.00, z=154.62]
-[01:16:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/60758, l='ServerLevel[]', x=39.17, y=64.00, z=189.29]
-[01:22:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/61269, l='ServerLevel[]', x=34.82, y=64.00, z=196.29]
-[01:24:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/61524, l='ServerLevel[]', x=19.65, y=74.00, z=155.80]
-[01:26:53] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/61835, l='ServerLevel[]', x=27.38, y=64.00, z=202.77]
-[01:29:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/62110, l='ServerLevel[]', x=29.26, y=64.00, z=189.83]
-[01:33:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/62470, l='ServerLevel[]', x=37.73, y=64.00, z=189.37]
-[01:38:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/62932, l='ServerLevel[]', x=39.17, y=64.00, z=190.37]
-[01:47:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/63920, l='ServerLevel[]', x=20.80, y=74.00, z=154.84]
-[01:53:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/64519, l='ServerLevel[]', x=20.26, y=74.00, z=155.80]
-[01:56:07] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/64739, l='ServerLevel[]', x=28.10, y=64.00, z=203.99]
-[01:57:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/64890, l='ServerLevel[]', x=19.20, y=74.00, z=155.80]
-[01:57:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/64891, l='ServerLevel[]', x=38.29, y=64.00, z=190.07]
-[01:58:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/65018, l='ServerLevel[]', x=20.80, y=74.00, z=154.64]
-[02:05:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/65971, l='ServerLevel[]', x=27.85, y=64.00, z=203.08]
-[02:05:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/66037, l='ServerLevel[]', x=20.24, y=74.00, z=154.81]
-[02:08:25] [Server thread/WARN]: KangaReuben moved too quickly! 18.241234939135722,-2.5707784627741574,1.3213334875743215
-[02:11:18] [Server thread/INFO]: Incorrect argument for command
-[02:11:18] [Server thread/INFO]: /gamemode KangaReuben spectator<--[HERE]
-[02:11:33] [Server thread/INFO]: Set KangaReuben's game mode to Spectator Mode
-[02:11:36] [Server thread/INFO]: <KangaReuben> cheers
-[02:13:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/67167, l='ServerLevel[]', x=20.19, y=74.00, z=155.36]
-[02:13:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/67172, l='ServerLevel[]', x=19.20, y=74.00, z=155.80]
-[02:16:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/67229, l='ServerLevel[]', x=27.46, y=64.00, z=190.27]
-[02:16:05] [Server thread/INFO]: <KangaReuben> -35, 200
-[02:21:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/67668, l='ServerLevel[]', x=20.80, y=74.00, z=155.20]
-[02:21:22] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[02:21:22] [Server thread/INFO]: ...angaReuben[D[D[D[D[D[D[D[D[D<--[HERE]
-[02:21:31] [Server thread/INFO]: Set KangaReuben's game mode to Survival Mode
-[02:21:34] [Server thread/INFO]: KangaReuben fell from a high place
-[02:21:44] [Server thread/INFO]: [Server] lel
-[02:21:51] [Server thread/INFO]: <KangaReuben> lmao whoops
-[02:24:33] [Server thread/WARN]: KangaReuben moved too quickly! 3.0784314470492333,8.886257388496432,16.25689791825016
-[02:24:36] [Server thread/WARN]: KangaReuben moved too quickly! -9.753650741477927,4.427630167011131,14.582373904020017
-[02:26:10] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/69881, l='ServerLevel[]', x=27.44, y=64.00, z=189.41]
-[02:28:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/70193, l='ServerLevel[]', x=20.80, y=74.00, z=155.80]
-[02:28:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/70290, l='ServerLevel[]', x=29.01, y=64.00, z=195.91]
-[02:30:42] [Server thread/INFO]: KangaReuben burned to death
-[02:45:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/72888, l='ServerLevel[]', x=19.20, y=74.00, z=154.58]
-[02:50:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/73485, l='ServerLevel[]', x=19.20, y=74.00, z=155.35]
-[02:51:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/73513, l='ServerLevel[]', x=19.20, y=74.00, z=155.35]
-[02:53:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/73759, l='ServerLevel[]', x=28.98, y=64.00, z=195.14]
-[02:53:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/73762, l='ServerLevel[]', x=19.20, y=74.00, z=154.20]
-[03:00:32] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/74663, l='ServerLevel[]', x=28.20, y=64.00, z=190.86]
-[03:02:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/74880, l='ServerLevel[]', x=38.25, y=64.00, z=189.78]
-[03:06:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/75394, l='ServerLevel[]', x=20.33, y=74.00, z=155.05]
-[03:09:32] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/75698, l='ServerLevel[]', x=20.80, y=74.00, z=154.86]
-[03:18:56] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/76782, l='ServerLevel[]', x=19.20, y=74.00, z=154.53]
-[03:19:05] [Server thread/INFO]: KangaReuben was slain by Zombie
-[07:22:50] [Server thread/INFO]: KangaReuben lost connection: You logged in from another location
-[07:22:50] [Server thread/INFO]: KangaReuben left the game
-[07:22:50] [Server thread/WARN]: handleDisconnection() called twice
-[07:22:50] [Server thread/INFO]: KangaReuben[/25.57.91.27:60321] logged in with entity id 76809 at (12.30044869147925, 63.0, 242.3444680776853)
-[07:22:50] [Server thread/INFO]: KangaReuben joined the game
-[07:34:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/78390, l='ServerLevel[]', x=19.20, y=74.00, z=154.20]
-[07:36:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/78565, l='ServerLevel[]', x=19.89, y=74.00, z=154.20]
-[07:36:32] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/78580, l='ServerLevel[]', x=33.38, y=64.00, z=191.47]
-[07:37:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/78710, l='ServerLevel[]', x=28.00, y=64.00, z=203.04]
-[07:39:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/78865, l='ServerLevel[]', x=29.48, y=64.00, z=188.83]
-[07:48:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/79771, l='ServerLevel[]', x=29.48, y=64.00, z=188.83]
-[07:48:10] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/79773, l='ServerLevel[]', x=19.20, y=74.00, z=155.80]
-[07:53:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/80336, l='ServerLevel[]', x=19.80, y=74.00, z=155.80]
-[07:54:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/80448, l='ServerLevel[]', x=28.55, y=64.00, z=190.84]
-[07:57:55] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/80729, l='ServerLevel[]', x=27.93, y=64.00, z=189.76]
-[07:58:03] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/80741, l='ServerLevel[]', x=35.07, y=64.00, z=188.83]
-[08:00:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/80961, l='ServerLevel[]', x=36.12, y=64.00, z=190.82]
-[08:07:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/81678, l='ServerLevel[]', x=29.29, y=64.00, z=189.83]
-[08:14:11] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/82406, l='ServerLevel[]', x=20.41, y=74.00, z=154.20]
-[08:31:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/84813, l='ServerLevel[]', x=19.20, y=74.00, z=154.62]
-[08:38:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/85803, l='ServerLevel[]', x=19.61, y=74.00, z=155.34]
-[08:39:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/85911, l='ServerLevel[]', x=20.22, y=74.00, z=154.73]
-[08:44:10] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/86554, l='ServerLevel[]', x=28.31, y=64.00, z=188.83]
-[08:46:43] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/86867, l='ServerLevel[]', x=19.20, y=74.00, z=154.59]
-[08:48:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/87076, l='ServerLevel[]', x=19.93, y=74.00, z=154.20]
-[08:51:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/87475, l='ServerLevel[]', x=19.20, y=74.00, z=154.20]
-[08:52:03] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/87555, l='ServerLevel[]', x=38.99, y=64.00, z=203.54]
-[08:56:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/88137, l='ServerLevel[]', x=36.10, y=64.00, z=202.20]
-[09:01:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/88721, l='ServerLevel[]', x=34.14, y=64.00, z=195.80]
-[09:07:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/89463, l='ServerLevel[]', x=20.80, y=74.00, z=154.20]
-[09:09:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/89636, l='ServerLevel[]', x=26.83, y=64.00, z=190.65]
-[09:11:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/89983, l='ServerLevel[]', x=38.89, y=64.00, z=202.87]
-[09:13:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/90084, l='ServerLevel[]', x=28.77, y=64.00, z=194.11]
-[09:14:23] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/90186, l='ServerLevel[]', x=20.80, y=74.00, z=154.56]
-[09:16:21] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/90396, l='ServerLevel[]', x=38.06, y=64.00, z=204.13]
-[09:20:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/90848, l='ServerLevel[]', x=20.80, y=74.00, z=154.20]
-[09:22:30] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/90997, l='ServerLevel[]', x=37.88, y=64.00, z=202.99]
-[09:25:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/91349, l='ServerLevel[]', x=38.06, y=64.00, z=204.13]
-[09:27:36] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/91538, l='ServerLevel[]', x=19.20, y=74.00, z=154.96]
-[09:31:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/91929, l='ServerLevel[]', x=19.20, y=74.00, z=154.20]
-[09:34:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/92332, l='ServerLevel[]', x=27.24, y=64.00, z=190.24]
-[09:42:36] [Server thread/INFO]: KangaReuben lost connection: Disconnected
-[09:42:36] [Server thread/INFO]: KangaReuben left the game
-[14:30:42] [Server thread/INFO]: Stopping the server
-[14:30:42] [Server thread/INFO]: Stopping server
-[14:30:42] [Server thread/INFO]: Saving players
-[14:30:42] [Server thread/INFO]: Saving worlds
-[14:30:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[]'/minecraft:overworld
-[14:30:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:30:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[]'/minecraft:the_nether
-[14:30:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:30:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[]'/minecraft:the_end
-[14:30:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:30:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:30:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:30:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:51:39] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:51:40] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:51:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:51:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:51:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:51:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:51:40] [main/INFO]: Reloading ResourceManager: Default
+[01:51:42] [Worker-Main-14/INFO]: Loaded 7 recipes
+[01:51:42] [Worker-Main-14/INFO]: Loaded 927 advancements
+[01:51:44] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[01:51:44] [Server thread/INFO]: Loading properties
+[01:51:44] [Server thread/INFO]: Default game type: SURVIVAL
+[01:51:44] [Server thread/INFO]: Generating keypair
+[01:51:44] [Server thread/INFO]: Starting Minecraft server on 25.102.0.208:25565
+[01:51:45] [Server thread/INFO]: Using default channel type
+[01:51:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:51:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:51:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:51:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:51:46] [Server thread/INFO]: Preparing level "world"
+[01:51:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:51:48] [Server thread/INFO]: Preparing spawn area: 0%
+[01:51:48] [Server thread/INFO]: Preparing spawn area: 0%
+[01:51:48] [Server thread/INFO]: Preparing spawn area: 0%
+[01:51:48] [Server thread/INFO]: Preparing spawn area: 0%
+[01:51:48] [Server thread/INFO]: Preparing spawn area: 0%
+[01:51:49] [Server thread/INFO]: Preparing spawn area: 83%
+[01:51:50] [Server thread/INFO]: Time elapsed: 4185 ms
+[01:51:50] [Server thread/INFO]: Done (4.354s)! For help, type "help"
+[01:51:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[08:43:53] [Server thread/INFO]: KangaReuben[/25.57.91.27:51938] logged in with entity id 659 at (-367.75605750118814, 88.06040959694626, 589.133902644247)
+[08:43:53] [Server thread/INFO]: KangaReuben joined the game
+[08:58:44] [Server thread/WARN]: KangaReuben moved too quickly! 2.611262896143728,1.4640937445638258,-17.440897082066954
+[09:00:59] [Server thread/WARN]: KangaReuben moved too quickly! 4.448900416379217,-2.3937796879152273,-8.815746785773854
+[09:07:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
+[09:07:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
+[09:07:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
+[09:07:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
+[09:07:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
+[09:07:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
+[09:07:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
+[09:07:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
+[09:07:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
+[09:07:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
+[09:11:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-351, y=64, z=595} fx{x=-355, y=62, z=595}
+[09:17:36] [Server thread/WARN]: KangaReuben moved too quickly! -9.944390883439326,-0.5245676543061677,-1.1595532854775001
+[09:18:37] [Server thread/INFO]: KangaReuben lost connection: Disconnected
+[09:18:37] [Server thread/INFO]: KangaReuben left the game
+[13:23:09] [Server thread/INFO]: J9[/25.64.13.178:51836] logged in with entity id 10391 at (-28.18462934950893, 77.0, 128.07593938828052)
+[13:23:09] [Server thread/INFO]: J9 joined the game
+[13:24:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10638, l='ServerLevel[]', x=19.61, y=74.00, z=155.80]
+[13:26:10] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10812, l='ServerLevel[]', x=19.20, y=74.00, z=154.65]
+[13:29:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11232, l='ServerLevel[]', x=37.19, y=64.00, z=191.52]
+[13:32:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11652, l='ServerLevel[]', x=35.96, y=64.00, z=201.80]
+[13:37:51] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-7, y=67, z=163} fx{x=62, y=65, z=220}
+[13:37:57] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-7, y=67, z=163} fx{x=62, y=65, z=220}
+[13:38:07] [Server thread/INFO]: J9 lost connection: Disconnected
+[13:38:07] [Server thread/INFO]: J9 left the game
+[13:38:10] [Server thread/INFO]: J9[/25.64.13.178:51848] logged in with entity id 12479 at (59.832406524327304, 64.0, 218.75480438093084)
+[13:38:10] [Server thread/INFO]: J9 joined the game
+[13:38:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=59, y=64, z=221}
+[13:38:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=57, y=63, z=219}
+[13:49:00] [Server thread/INFO]: J9 was shot by Skeleton
+[13:50:16] [Server thread/WARN]: J9 moved wrongly!
+[13:51:36] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/16350, l='ServerLevel[]', x=38.29, y=64.00, z=202.98]
+[14:31:01] [Server thread/INFO]: J9 lost connection: Disconnected
+[14:31:01] [Server thread/INFO]: J9 left the game
+[17:11:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:11:53] [Server thread/INFO]:  /list<--[HERE]
+[17:11:55] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[17:11:57] [Server thread/INFO]: Stopping the server
+[17:11:57] [Server thread/INFO]: Stopping server
+[17:11:57] [Server thread/INFO]: Saving players
+[17:11:57] [Server thread/INFO]: Saving worlds
+[17:11:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[]'/minecraft:overworld
+[17:11:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:11:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[]'/minecraft:the_nether
+[17:11:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:11:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[]'/minecraft:the_end
+[17:11:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:11:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:11:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:11:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
