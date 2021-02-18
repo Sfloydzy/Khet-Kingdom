@@ -3,13 +3,16 @@
 ## Created in 2019
 
 ### Founding members:
--  Reuben Goh
--  Michael Eng
--  Crispin Tan
--  Scott Smahon
+-  Reuben
+-  Michael
+-  Crispin
+-  Scott
 
 ### Honourary Members
-- Janyne Chan
-- Estee Toh
-- Joshua Moses
+- Janyne
+- Estee
+- Joshua
 - Zoey
+- Johannes
+- Justin
+- Jun-E
