@@ -1,83 +1,121 @@
-[01:51:39] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:51:40] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:51:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:51:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:51:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:51:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:51:40] [main/INFO]: Reloading ResourceManager: Default
-[01:51:42] [Worker-Main-14/INFO]: Loaded 7 recipes
-[01:51:42] [Worker-Main-14/INFO]: Loaded 927 advancements
-[01:51:44] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[01:51:44] [Server thread/INFO]: Loading properties
-[01:51:44] [Server thread/INFO]: Default game type: SURVIVAL
-[01:51:44] [Server thread/INFO]: Generating keypair
-[01:51:44] [Server thread/INFO]: Starting Minecraft server on 25.102.0.208:25565
-[01:51:45] [Server thread/INFO]: Using default channel type
-[01:51:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:51:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:51:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:51:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:51:46] [Server thread/INFO]: Preparing level "world"
-[01:51:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:51:48] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:48] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:48] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:48] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:48] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:49] [Server thread/INFO]: Preparing spawn area: 83%
-[01:51:50] [Server thread/INFO]: Time elapsed: 4185 ms
-[01:51:50] [Server thread/INFO]: Done (4.354s)! For help, type "help"
-[01:51:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[08:43:53] [Server thread/INFO]: KangaReuben[/25.57.91.27:51938] logged in with entity id 659 at (-367.75605750118814, 88.06040959694626, 589.133902644247)
-[08:43:53] [Server thread/INFO]: KangaReuben joined the game
-[08:58:44] [Server thread/WARN]: KangaReuben moved too quickly! 2.611262896143728,1.4640937445638258,-17.440897082066954
-[09:00:59] [Server thread/WARN]: KangaReuben moved too quickly! 4.448900416379217,-2.3937796879152273,-8.815746785773854
-[09:07:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
-[09:07:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
-[09:07:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
-[09:07:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
-[09:07:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
-[09:07:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
-[09:07:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
-[09:07:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
-[09:07:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
-[09:07:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=12, y=31, z=188} fx{x=12, y=30, z=188}
-[09:11:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-351, y=64, z=595} fx{x=-355, y=62, z=595}
-[09:17:36] [Server thread/WARN]: KangaReuben moved too quickly! -9.944390883439326,-0.5245676543061677,-1.1595532854775001
-[09:18:37] [Server thread/INFO]: KangaReuben lost connection: Disconnected
-[09:18:37] [Server thread/INFO]: KangaReuben left the game
-[13:23:09] [Server thread/INFO]: J9[/25.64.13.178:51836] logged in with entity id 10391 at (-28.18462934950893, 77.0, 128.07593938828052)
-[13:23:09] [Server thread/INFO]: J9 joined the game
-[13:24:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10638, l='ServerLevel[]', x=19.61, y=74.00, z=155.80]
-[13:26:10] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10812, l='ServerLevel[]', x=19.20, y=74.00, z=154.65]
-[13:29:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11232, l='ServerLevel[]', x=37.19, y=64.00, z=191.52]
-[13:32:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11652, l='ServerLevel[]', x=35.96, y=64.00, z=201.80]
-[13:37:51] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-7, y=67, z=163} fx{x=62, y=65, z=220}
-[13:37:57] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-7, y=67, z=163} fx{x=62, y=65, z=220}
-[13:38:07] [Server thread/INFO]: J9 lost connection: Disconnected
-[13:38:07] [Server thread/INFO]: J9 left the game
-[13:38:10] [Server thread/INFO]: J9[/25.64.13.178:51848] logged in with entity id 12479 at (59.832406524327304, 64.0, 218.75480438093084)
-[13:38:10] [Server thread/INFO]: J9 joined the game
-[13:38:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=59, y=64, z=221}
-[13:38:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=57, y=63, z=219}
-[13:49:00] [Server thread/INFO]: J9 was shot by Skeleton
-[13:50:16] [Server thread/WARN]: J9 moved wrongly!
-[13:51:36] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/16350, l='ServerLevel[]', x=38.29, y=64.00, z=202.98]
-[14:31:01] [Server thread/INFO]: J9 lost connection: Disconnected
-[14:31:01] [Server thread/INFO]: J9 left the game
-[17:11:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[17:11:53] [Server thread/INFO]:  /list<--[HERE]
-[17:11:55] [Server thread/INFO]: There are 0 of a max of 20 players online: 
-[17:11:57] [Server thread/INFO]: Stopping the server
-[17:11:57] [Server thread/INFO]: Stopping server
-[17:11:57] [Server thread/INFO]: Saving players
-[17:11:57] [Server thread/INFO]: Saving worlds
-[17:11:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[]'/minecraft:overworld
-[17:11:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:11:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[]'/minecraft:the_nether
-[17:11:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:11:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[]'/minecraft:the_end
-[17:11:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:11:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:11:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:11:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:00:06] [Server thread/INFO]: mohpiko was slain by zozee
+[00:00:31] [Server thread/INFO]: [DodgeyDoge: Summoned new Lightning Bolt]
+[00:00:31] [Server thread/INFO]: zozee was struck by lightning
+[00:00:35] [Server thread/INFO]: zozee lost connection: Disconnected
+[00:00:35] [Server thread/INFO]: zozee left the game
+[00:00:54] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to mohpiko]
+[00:00:54] [Server thread/WARN]: DodgeyDoge moved too quickly! -9.798719487151416,-5.621609604357204,-36.64682748339601
+[00:01:13] [Server thread/INFO]: zozee[/25.75.48.219:61096] logged in with entity id 1721 at (-28.93924968028891, 72.0, 159.25068640827521)
+[00:01:13] [Server thread/INFO]: zozee joined the game
+[00:01:44] [Server thread/INFO]: zozee lost connection: Disconnected
+[00:01:44] [Server thread/INFO]: zozee left the game
+[00:01:47] [Server thread/INFO]: DodgeyDoge lost connection: Disconnected
+[00:01:47] [Server thread/INFO]: DodgeyDoge left the game
+[00:02:22] [Server thread/INFO]: mohpiko has made the advancement [The Parrots and the Bats]
+[00:02:36] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2050, l='ServerLevel[]', x=20.80, y=74.00, z=155.80]
+[00:03:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:03:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7097ms or 141 ticks behind
+[00:04:08] [Server thread/INFO]: DodgeyDoge[/25.102.0.208:54583] logged in with entity id 2390 at (15.643014693458245, 64.0, 217.9170962132752)
+[00:04:08] [Server thread/INFO]: DodgeyDoge joined the game
+[00:04:11] [Server thread/INFO]: mohpiko has made the advancement [Diamonds!]
+[00:04:18] [Server thread/INFO]: DodgeyDoge lost connection: Disconnected
+[00:04:18] [Server thread/INFO]: DodgeyDoge left the game
+[00:04:23] [Server thread/INFO]: mohpiko has made the advancement [Cover Me With Diamonds]
+[00:04:54] [Server thread/INFO]: zozee[/25.75.48.219:61174] logged in with entity id 2533 at (49.80535114136772, 64.0, 211.53176079903622)
+[00:04:54] [Server thread/INFO]: zozee joined the game
+[00:04:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[00:05:06] [Server thread/INFO]: DodgeyDoge[/25.102.0.208:54628] logged in with entity id 2568 at (15.643014693458245, 64.0, 217.9170962132752)
+[00:05:06] [Server thread/INFO]: DodgeyDoge joined the game
+[00:05:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=60, y=64, z=221}
+[00:05:21] [Server thread/INFO]: zozee was slain by mohpiko
+[00:05:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8494ms or 169 ticks behind
+[00:05:56] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to mohpiko]
+[00:05:56] [Server thread/WARN]: DodgeyDoge moved too quickly! 18.017661574344253,0.0,4.728133226706348
+[00:06:00] [Server thread/INFO]: mohpiko has made the advancement [Monster Hunter]
+[00:06:46] [Server thread/INFO]: zozee has made the advancement [Getting an Upgrade]
+[00:07:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3760ms or 75 ticks behind
+[00:07:03] [Server thread/WARN]: mohpiko moved too quickly! -9.070544106939973,0.0,-4.593583684776831
+[00:07:10] [Server thread/INFO]: mohpiko has made the advancement [We Need to Go Deeper]
+[00:07:12] [Server thread/INFO]: zozee has made the advancement [We Need to Go Deeper]
+[00:07:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[00:08:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:11:39] [Server thread/WARN]: DodgeyDoge moved too quickly! -1.455507159320348,-10.792323450760591,0.49087366811045285
+[00:12:51] [Server thread/INFO]: [DodgeyDoge: Set own game mode to Survival Mode]
+[00:12:58] [Server thread/INFO]: mohpiko has made the advancement [Stone Age]
+[00:14:40] [Server thread/INFO]: [DodgeyDoge: Set the weather to clear]
+[00:15:27] [Server thread/INFO]: mohpiko was blown up by Creeper
+[00:15:27] [Server thread/INFO]: DodgeyDoge was blown up by Creeper
+[00:15:40] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to zozee]
+[00:15:40] [Server thread/WARN]: DodgeyDoge moved too quickly! -486.67236040977383,-6.0625,605.6537875268298
+[00:15:53] [Server thread/INFO]: [DodgeyDoge: Teleported mohpiko to DodgeyDoge]
+[00:16:58] [Server thread/INFO]: DodgeyDoge was slain by mohpiko
+[00:17:21] [Server thread/INFO]: mohpiko fell out of the world
+[00:17:21] [Server thread/INFO]: [DodgeyDoge: Killed mohpiko]
+[00:17:27] [Server thread/INFO]: mohpiko fell out of the world
+[00:17:27] [Server thread/INFO]: [DodgeyDoge: Killed mohpiko]
+[00:17:30] [Server thread/INFO]: mohpiko fell out of the world
+[00:17:30] [Server thread/INFO]: [DodgeyDoge: Killed mohpiko]
+[00:17:32] [Server thread/INFO]: mohpiko fell out of the world
+[00:17:32] [Server thread/INFO]: [DodgeyDoge: Killed mohpiko]
+[00:17:36] [Server thread/INFO]: mohpiko fell out of the world
+[00:17:36] [Server thread/INFO]: [DodgeyDoge: Killed mohpiko]
+[00:18:41] [Server thread/INFO]: [DodgeyDoge: Summoned new Lightning Bolt]
+[00:18:45] [Server thread/INFO]: [DodgeyDoge: Summoned new Lightning Bolt]
+[00:18:50] [Server thread/INFO]: [DodgeyDoge: Summoned new Lightning Bolt]
+[00:18:52] [Server thread/INFO]: mohpiko burned to death
+[00:19:44] [Server thread/INFO]: [DodgeyDoge: Set the weather to clear]
+[00:20:32] [Server thread/INFO]: zozee has made the advancement [Stone Age]
+[00:22:21] [Server thread/INFO]: [DodgeyDoge: Summoned new Lightning Bolt]
+[00:22:23] [Server thread/INFO]: zozee was slain by mohpiko
+[00:22:23] [Server thread/INFO]: [DodgeyDoge: Summoned new Lightning Bolt]
+[00:22:25] [Server thread/INFO]: [DodgeyDoge: Summoned new Lightning Bolt]
+[00:22:26] [Server thread/INFO]: [DodgeyDoge: Summoned new Lightning Bolt]
+[00:22:27] [Server thread/INFO]: mohpiko burned to death
+[00:22:41] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to zozee]
+[00:22:41] [Server thread/WARN]: DodgeyDoge moved too quickly! 545.8876125699953,-15.0,-544.4243710602096
+[00:22:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7107, l='ServerLevel[]', x=19.77, y=74.00, z=155.37]
+[00:22:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7107, l='ServerLevel[]', x=19.77, y=74.00, z=155.37]
+[00:22:54] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to mohpiko]
+[00:23:02] [Server thread/INFO]: [DodgeyDoge: Teleported zozee to DodgeyDoge]
+[00:23:48] [Server thread/INFO]: zozee has made the advancement [Sweet Dreams]
+[00:24:01] [Server thread/INFO]: mohpiko has made the advancement [Sweet Dreams]
+[00:24:50] [Server thread/INFO]: [DodgeyDoge: Set the weather to clear]
+[00:26:11] [Server thread/INFO]: [DodgeyDoge: Set own game mode to Creative Mode]
+[00:26:51] [Server thread/INFO]: mohpiko was shot by Skeleton
+[00:26:56] [Server thread/INFO]: zozee was shot by Skeleton
+[00:27:45] [Server thread/INFO]: [DodgeyDoge: Set the time to 1000]
+[00:28:36] [Server thread/INFO]: [DodgeyDoge: Successfully filled 77 blocks]
+[00:31:06] [Server thread/INFO]: [DodgeyDoge: Set own game mode to Survival Mode]
+[00:32:21] [Server thread/INFO]: mohpiko was slain by Zombie
+[00:33:12] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to mohpiko]
+[00:33:28] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to zozee]
+[00:34:25] [Server thread/INFO]: [DodgeyDoge: Successfully filled 14 blocks]
+[00:34:36] [Server thread/INFO]: [DodgeyDoge: Successfully filled 7 blocks]
+[00:36:37] [Server thread/INFO]: [DodgeyDoge: Set own game mode to Creative Mode]
+[00:39:52] [Server thread/INFO]: zozee was slain by mohpiko
+[00:41:11] [Server thread/INFO]: [DodgeyDoge: Successfully filled 714 blocks]
+[00:41:40] [Server thread/INFO]: [DodgeyDoge: Successfully filled 66 blocks]
+[00:43:02] [Server thread/INFO]: mohpiko fell from a high place
+[00:43:06] [Server thread/INFO]: [DodgeyDoge: Successfully filled 324 blocks]
+[00:44:55] [Server thread/INFO]: zozee has made the advancement [Acquire Hardware]
+[00:45:04] [Server thread/INFO]: [DodgeyDoge: Successfully filled 345 blocks]
+[00:47:28] [Server thread/INFO]: mohpiko drowned
+[00:48:05] [Server thread/INFO]: zozee lost connection: Disconnected
+[00:48:05] [Server thread/INFO]: zozee left the game
+[00:48:11] [Server thread/INFO]: mohpiko lost connection: Disconnected
+[00:48:11] [Server thread/INFO]: mohpiko left the game
+[00:48:20] [Server thread/INFO]: [DodgeyDoge: Stopping the server]
+[00:48:20] [Server thread/INFO]: Stopping server
+[00:48:20] [Server thread/INFO]: Saving players
+[00:48:20] [Server thread/INFO]: DodgeyDoge lost connection: Disconnected
+[00:48:20] [Server thread/INFO]: DodgeyDoge left the game
+[00:48:20] [Server thread/INFO]: Saving worlds
+[00:48:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[]'/minecraft:overworld
+[00:48:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:48:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[]'/minecraft:the_nether
+[00:48:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:48:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[]'/minecraft:the_end
+[00:48:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:48:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:48:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:48:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

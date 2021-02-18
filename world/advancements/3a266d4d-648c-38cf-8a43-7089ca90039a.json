@@ -234,6 +234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2021-02-14 01:52:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2019-01-16 23:03:25 +0800"
@@ -423,6 +429,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2020-04-18 02:37:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2021-02-14 01:52:40 +0800"
     },
     "done": true
   },
@@ -692,6 +704,7 @@
       "minecraft:wither_skeleton": "2020-04-29 12:45:16 +0800",
       "minecraft:husk": "2020-04-17 12:43:58 +0800",
       "minecraft:cave_spider": "2020-05-14 20:43:56 +0800",
+      "minecraft:piglin": "2021-01-27 00:28:04 +0800",
       "minecraft:zombie": "2019-01-16 23:07:35 +0800",
       "minecraft:drowned": "2020-04-06 00:16:50 +0800",
       "minecraft:zombie_villager": "2019-02-02 00:33:34 +0800"
@@ -1037,6 +1050,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-04-04 00:28:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2021-02-14 01:52:40 +0800"
     },
     "done": true
   },
@@ -3261,6 +3280,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2020-04-06 00:06:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2021-02-14 01:52:40 +0800"
     },
     "done": true
   },
