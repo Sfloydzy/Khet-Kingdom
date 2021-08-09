@@ -1,121 +1,470 @@
-[00:00:06] [Server thread/INFO]: mohpiko was slain by zozee
-[00:00:31] [Server thread/INFO]: [DodgeyDoge: Summoned new Lightning Bolt]
-[00:00:31] [Server thread/INFO]: zozee was struck by lightning
-[00:00:35] [Server thread/INFO]: zozee lost connection: Disconnected
-[00:00:35] [Server thread/INFO]: zozee left the game
-[00:00:54] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to mohpiko]
-[00:00:54] [Server thread/WARN]: DodgeyDoge moved too quickly! -9.798719487151416,-5.621609604357204,-36.64682748339601
-[00:01:13] [Server thread/INFO]: zozee[/25.75.48.219:61096] logged in with entity id 1721 at (-28.93924968028891, 72.0, 159.25068640827521)
-[00:01:13] [Server thread/INFO]: zozee joined the game
-[00:01:44] [Server thread/INFO]: zozee lost connection: Disconnected
-[00:01:44] [Server thread/INFO]: zozee left the game
-[00:01:47] [Server thread/INFO]: DodgeyDoge lost connection: Disconnected
-[00:01:47] [Server thread/INFO]: DodgeyDoge left the game
-[00:02:22] [Server thread/INFO]: mohpiko has made the advancement [The Parrots and the Bats]
-[00:02:36] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2050, l='ServerLevel[]', x=20.80, y=74.00, z=155.80]
-[00:03:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[00:03:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7097ms or 141 ticks behind
-[00:04:08] [Server thread/INFO]: DodgeyDoge[/25.102.0.208:54583] logged in with entity id 2390 at (15.643014693458245, 64.0, 217.9170962132752)
-[00:04:08] [Server thread/INFO]: DodgeyDoge joined the game
-[00:04:11] [Server thread/INFO]: mohpiko has made the advancement [Diamonds!]
-[00:04:18] [Server thread/INFO]: DodgeyDoge lost connection: Disconnected
-[00:04:18] [Server thread/INFO]: DodgeyDoge left the game
-[00:04:23] [Server thread/INFO]: mohpiko has made the advancement [Cover Me With Diamonds]
-[00:04:54] [Server thread/INFO]: zozee[/25.75.48.219:61174] logged in with entity id 2533 at (49.80535114136772, 64.0, 211.53176079903622)
-[00:04:54] [Server thread/INFO]: zozee joined the game
-[00:04:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[00:05:06] [Server thread/INFO]: DodgeyDoge[/25.102.0.208:54628] logged in with entity id 2568 at (15.643014693458245, 64.0, 217.9170962132752)
-[00:05:06] [Server thread/INFO]: DodgeyDoge joined the game
-[00:05:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=60, y=64, z=221}
-[00:05:21] [Server thread/INFO]: zozee was slain by mohpiko
-[00:05:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8494ms or 169 ticks behind
-[00:05:56] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to mohpiko]
-[00:05:56] [Server thread/WARN]: DodgeyDoge moved too quickly! 18.017661574344253,0.0,4.728133226706348
-[00:06:00] [Server thread/INFO]: mohpiko has made the advancement [Monster Hunter]
-[00:06:46] [Server thread/INFO]: zozee has made the advancement [Getting an Upgrade]
-[00:07:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3760ms or 75 ticks behind
-[00:07:03] [Server thread/WARN]: mohpiko moved too quickly! -9.070544106939973,0.0,-4.593583684776831
-[00:07:10] [Server thread/INFO]: mohpiko has made the advancement [We Need to Go Deeper]
-[00:07:12] [Server thread/INFO]: zozee has made the advancement [We Need to Go Deeper]
-[00:07:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[00:08:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[00:11:39] [Server thread/WARN]: DodgeyDoge moved too quickly! -1.455507159320348,-10.792323450760591,0.49087366811045285
-[00:12:51] [Server thread/INFO]: [DodgeyDoge: Set own game mode to Survival Mode]
-[00:12:58] [Server thread/INFO]: mohpiko has made the advancement [Stone Age]
-[00:14:40] [Server thread/INFO]: [DodgeyDoge: Set the weather to clear]
-[00:15:27] [Server thread/INFO]: mohpiko was blown up by Creeper
-[00:15:27] [Server thread/INFO]: DodgeyDoge was blown up by Creeper
-[00:15:40] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to zozee]
-[00:15:40] [Server thread/WARN]: DodgeyDoge moved too quickly! -486.67236040977383,-6.0625,605.6537875268298
-[00:15:53] [Server thread/INFO]: [DodgeyDoge: Teleported mohpiko to DodgeyDoge]
-[00:16:58] [Server thread/INFO]: DodgeyDoge was slain by mohpiko
-[00:17:21] [Server thread/INFO]: mohpiko fell out of the world
-[00:17:21] [Server thread/INFO]: [DodgeyDoge: Killed mohpiko]
-[00:17:27] [Server thread/INFO]: mohpiko fell out of the world
-[00:17:27] [Server thread/INFO]: [DodgeyDoge: Killed mohpiko]
-[00:17:30] [Server thread/INFO]: mohpiko fell out of the world
-[00:17:30] [Server thread/INFO]: [DodgeyDoge: Killed mohpiko]
-[00:17:32] [Server thread/INFO]: mohpiko fell out of the world
-[00:17:32] [Server thread/INFO]: [DodgeyDoge: Killed mohpiko]
-[00:17:36] [Server thread/INFO]: mohpiko fell out of the world
-[00:17:36] [Server thread/INFO]: [DodgeyDoge: Killed mohpiko]
-[00:18:41] [Server thread/INFO]: [DodgeyDoge: Summoned new Lightning Bolt]
-[00:18:45] [Server thread/INFO]: [DodgeyDoge: Summoned new Lightning Bolt]
-[00:18:50] [Server thread/INFO]: [DodgeyDoge: Summoned new Lightning Bolt]
-[00:18:52] [Server thread/INFO]: mohpiko burned to death
-[00:19:44] [Server thread/INFO]: [DodgeyDoge: Set the weather to clear]
-[00:20:32] [Server thread/INFO]: zozee has made the advancement [Stone Age]
-[00:22:21] [Server thread/INFO]: [DodgeyDoge: Summoned new Lightning Bolt]
-[00:22:23] [Server thread/INFO]: zozee was slain by mohpiko
-[00:22:23] [Server thread/INFO]: [DodgeyDoge: Summoned new Lightning Bolt]
-[00:22:25] [Server thread/INFO]: [DodgeyDoge: Summoned new Lightning Bolt]
-[00:22:26] [Server thread/INFO]: [DodgeyDoge: Summoned new Lightning Bolt]
-[00:22:27] [Server thread/INFO]: mohpiko burned to death
-[00:22:41] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to zozee]
-[00:22:41] [Server thread/WARN]: DodgeyDoge moved too quickly! 545.8876125699953,-15.0,-544.4243710602096
-[00:22:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7107, l='ServerLevel[]', x=19.77, y=74.00, z=155.37]
-[00:22:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7107, l='ServerLevel[]', x=19.77, y=74.00, z=155.37]
-[00:22:54] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to mohpiko]
-[00:23:02] [Server thread/INFO]: [DodgeyDoge: Teleported zozee to DodgeyDoge]
-[00:23:48] [Server thread/INFO]: zozee has made the advancement [Sweet Dreams]
-[00:24:01] [Server thread/INFO]: mohpiko has made the advancement [Sweet Dreams]
-[00:24:50] [Server thread/INFO]: [DodgeyDoge: Set the weather to clear]
-[00:26:11] [Server thread/INFO]: [DodgeyDoge: Set own game mode to Creative Mode]
-[00:26:51] [Server thread/INFO]: mohpiko was shot by Skeleton
-[00:26:56] [Server thread/INFO]: zozee was shot by Skeleton
-[00:27:45] [Server thread/INFO]: [DodgeyDoge: Set the time to 1000]
-[00:28:36] [Server thread/INFO]: [DodgeyDoge: Successfully filled 77 blocks]
-[00:31:06] [Server thread/INFO]: [DodgeyDoge: Set own game mode to Survival Mode]
-[00:32:21] [Server thread/INFO]: mohpiko was slain by Zombie
-[00:33:12] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to mohpiko]
-[00:33:28] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to zozee]
-[00:34:25] [Server thread/INFO]: [DodgeyDoge: Successfully filled 14 blocks]
-[00:34:36] [Server thread/INFO]: [DodgeyDoge: Successfully filled 7 blocks]
-[00:36:37] [Server thread/INFO]: [DodgeyDoge: Set own game mode to Creative Mode]
-[00:39:52] [Server thread/INFO]: zozee was slain by mohpiko
-[00:41:11] [Server thread/INFO]: [DodgeyDoge: Successfully filled 714 blocks]
-[00:41:40] [Server thread/INFO]: [DodgeyDoge: Successfully filled 66 blocks]
-[00:43:02] [Server thread/INFO]: mohpiko fell from a high place
-[00:43:06] [Server thread/INFO]: [DodgeyDoge: Successfully filled 324 blocks]
-[00:44:55] [Server thread/INFO]: zozee has made the advancement [Acquire Hardware]
-[00:45:04] [Server thread/INFO]: [DodgeyDoge: Successfully filled 345 blocks]
-[00:47:28] [Server thread/INFO]: mohpiko drowned
-[00:48:05] [Server thread/INFO]: zozee lost connection: Disconnected
-[00:48:05] [Server thread/INFO]: zozee left the game
-[00:48:11] [Server thread/INFO]: mohpiko lost connection: Disconnected
-[00:48:11] [Server thread/INFO]: mohpiko left the game
-[00:48:20] [Server thread/INFO]: [DodgeyDoge: Stopping the server]
-[00:48:20] [Server thread/INFO]: Stopping server
-[00:48:20] [Server thread/INFO]: Saving players
-[00:48:20] [Server thread/INFO]: DodgeyDoge lost connection: Disconnected
-[00:48:20] [Server thread/INFO]: DodgeyDoge left the game
-[00:48:20] [Server thread/INFO]: Saving worlds
-[00:48:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[]'/minecraft:overworld
-[00:48:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:48:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[]'/minecraft:the_nether
-[00:48:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:48:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[]'/minecraft:the_end
-[00:48:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:48:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:48:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:48:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:35:34] [Server thread/INFO]: <KangaReuben> howre the bees
+[00:35:43] [Server thread/INFO]: <Om3gaNut> doing gd
+[00:35:46] [Server thread/INFO]: <KangaReuben> daqmn
+[00:35:49] [Server thread/INFO]: <KangaReuben> we love the bees
+[00:36:09] [Server thread/INFO]: <KangaReuben> im gonna check if we can set up beacons here
+[00:37:24] [Server thread/INFO]: <KangaReuben> brb i go kill a wither
+[00:37:31] [Server thread/INFO]: <Om3gaNut> hahah
+[00:37:35] [Server thread/INFO]: <Om3gaNut> u got the skulls?
+[00:37:40] [Server thread/INFO]: <KangaReuben> yeah
+[00:37:47] [Server thread/INFO]: <Om3gaNut> insane
+[00:37:59] [Server thread/INFO]: <KangaReuben> had some leftover
+[00:38:20] [Server thread/INFO]: <KangaReuben> tbh i wanna make a wither skeleton farm
+[00:38:32] [Server thread/INFO]: <Om3gaNut> i looked into it but
+[00:38:37] [Server thread/INFO]: <Om3gaNut> it looks so mafan
+[00:38:45] [Server thread/INFO]: <KangaReuben> yeah i think gotta find the perfect location
+[00:38:53] [Server thread/INFO]: <KangaReuben> i will find a new fortress
+[00:38:55] [Server thread/INFO]: <KangaReuben> over lava
+[00:39:00] [Server thread/INFO]: <KangaReuben> and blow that shit to high heavens
+[00:39:39] [Server thread/INFO]: <Om3gaNut> that scared the shit outta me
+[00:39:51] [Server thread/INFO]: <KangaReuben> huh?
+[00:39:55] [Server thread/INFO]: <Om3gaNut> the wither sound
+[00:39:56] [Server thread/INFO]: <KangaReuben> wait does it make a sound
+[00:39:58] [Server thread/INFO]: <Om3gaNut> when it spawns
+[00:39:59] [Server thread/INFO]: <KangaReuben> oh i forgot about that
+[00:42:01] [Server thread/INFO]: <KangaReuben> oh shit it actually works
+[00:42:02] [Server thread/INFO]: <KangaReuben> HAHAHA
+[00:42:05] [Server thread/INFO]: <Om3gaNut> sicckk
+[00:43:56] [Server thread/INFO]: <KangaReuben> are you at bee farm
+[00:44:05] [Server thread/INFO]: <Om3gaNut> nah im at eden
+[00:46:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[00:46:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5242ms or 104 ticks behind
+[00:49:00] [Server thread/INFO]: <Om3gaNut> cool i found a mushroo island intersecting with a village
+[00:49:06] [Server thread/INFO]: <KangaReuben> damn
+[00:49:09] [Server thread/INFO]: <KangaReuben> seed 0 tings
+[00:49:11] [Server thread/INFO]: <KangaReuben> what ur coords
+[00:49:28] [Server thread/INFO]: <Om3gaNut> -2347, 546
+[00:49:42] [Server thread/INFO]: <KangaReuben> wyd so far out
+[00:49:52] [Server thread/INFO]: DodgeyDoge[/25.37.10.0:60273] logged in with entity id 161510 at (-1478.5265751880124, 77.01223247821966, 240.7028149707774)
+[00:49:52] [Server thread/INFO]: DodgeyDoge joined the game
+[00:49:53] [Server thread/INFO]: <Om3gaNut> im looking for natural bee hives
+[00:49:59] [Server thread/INFO]: <KangaReuben> wassup scott
+[00:50:14] [Server thread/WARN]: Om3gaNut moved too quickly! -0.33887800903630705,-2.030686204421528,17.32695952650738
+[00:50:16] [Server thread/INFO]: DodgeyDoge lost connection: Disconnected
+[00:50:16] [Server thread/INFO]: DodgeyDoge left the game
+[00:50:21] [Server thread/INFO]: <KangaReuben> da,m
+[00:50:22] [Server thread/INFO]: <Om3gaNut> rude
+[00:51:20] [Server thread/INFO]: <Om3gaNut> im pretty sure our world generation bugged out
+[00:51:27] [Server thread/INFO]: <Om3gaNut> im seeing missing chunks all over
+[00:51:42] [Server thread/INFO]: <KangaReuben> yeah im p sure youre right
+[00:52:01] [Server thread/INFO]: DodgeyDoge[/25.37.10.0:64868] logged in with entity id 166105 at (-1478.5265751880124, 77.01223247821966, 240.7028149707774)
+[00:52:01] [Server thread/INFO]: DodgeyDoge joined the game
+[00:52:09] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to KangaReuben]
+[00:52:19] [Server thread/INFO]: <DodgeyDoge> sup
+[00:52:21] [Server thread/INFO]: <KangaReuben> sup
+[00:52:21] [Server thread/INFO]: <Om3gaNut> yo
+[00:52:24] [Server thread/INFO]: <KangaReuben> been some time scotty
+[00:52:27] [Server thread/INFO]: <DodgeyDoge> what on earth
+[00:52:31] [Server thread/INFO]: <DodgeyDoge> is happening here
+[00:52:32] [Server thread/INFO]: <DodgeyDoge> hahhaa
+[00:52:34] [Server thread/INFO]: <KangaReuben> gold farm
+[00:52:51] [Server thread/INFO]: <KangaReuben> im trying to see if the piglins are despawning before they hit the ground
+[00:53:21] [Server thread/INFO]: <DodgeyDoge> this some
+[00:53:28] [Server thread/INFO]: <DodgeyDoge> next level stuff haha
+[00:53:37] [Server thread/INFO]: <DodgeyDoge> its like every year
+[00:53:38] [Server thread/INFO]: <KangaReuben> how about completely vanilla removal of bedrock
+[00:53:44] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: dar{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[00:53:44] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at cxt.a(SourceFile:39) ~[minecraft_server.1.17.1.jar:?]
+	at dbg.<init>(SourceFile:57) ~[minecraft_server.1.17.1.jar:?]
+	at cud.a(SourceFile:151) ~[minecraft_server.1.17.1.jar:?]
+	at cnj.a(SourceFile:415) ~[minecraft_server.1.17.1.jar:?]
+	at cnj.a(SourceFile:175) ~[minecraft_server.1.17.1.jar:?]
+	at abe.l(SourceFile:512) ~[minecraft_server.1.17.1.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at aqv.c(SourceFile:151) ~[minecraft_server.1.17.1.jar:?]
+	at abp$a.c(SourceFile:528) ~[minecraft_server.1.17.1.jar:?]
+	at aqv.z(SourceFile:125) ~[minecraft_server.1.17.1.jar:?]
+	at abp$a.z(SourceFile:537) ~[minecraft_server.1.17.1.jar:?]
+	at abp.d(SourceFile:280) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.bf(SourceFile:776) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.z(SourceFile:764) ~[minecraft_server.1.17.1.jar:?]
+	at aqv.bp(SourceFile:110) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:748) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:701) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[minecraft_server.1.17.1.jar:?]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[00:53:44] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: dar{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[00:53:44] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at cxt.a(SourceFile:39) ~[minecraft_server.1.17.1.jar:?]
+	at dbg.<init>(SourceFile:57) ~[minecraft_server.1.17.1.jar:?]
+	at cud.a(SourceFile:151) ~[minecraft_server.1.17.1.jar:?]
+	at cnj.a(SourceFile:415) ~[minecraft_server.1.17.1.jar:?]
+	at cnj.a(SourceFile:175) ~[minecraft_server.1.17.1.jar:?]
+	at abe.l(SourceFile:512) ~[minecraft_server.1.17.1.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at aqv.c(SourceFile:151) ~[minecraft_server.1.17.1.jar:?]
+	at abp$a.c(SourceFile:528) ~[minecraft_server.1.17.1.jar:?]
+	at aqv.z(SourceFile:125) ~[minecraft_server.1.17.1.jar:?]
+	at abp$a.z(SourceFile:537) ~[minecraft_server.1.17.1.jar:?]
+	at abp.d(SourceFile:280) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.bf(SourceFile:776) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.z(SourceFile:764) ~[minecraft_server.1.17.1.jar:?]
+	at aqv.bp(SourceFile:110) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:748) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:701) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[minecraft_server.1.17.1.jar:?]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[00:53:44] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: dar{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[00:53:44] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at cxt.a(SourceFile:39) ~[minecraft_server.1.17.1.jar:?]
+	at dbg.<init>(SourceFile:57) ~[minecraft_server.1.17.1.jar:?]
+	at cud.a(SourceFile:151) ~[minecraft_server.1.17.1.jar:?]
+	at cnj.a(SourceFile:415) ~[minecraft_server.1.17.1.jar:?]
+	at cnj.a(SourceFile:175) ~[minecraft_server.1.17.1.jar:?]
+	at abe.l(SourceFile:512) ~[minecraft_server.1.17.1.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at aqv.c(SourceFile:151) ~[minecraft_server.1.17.1.jar:?]
+	at abp$a.c(SourceFile:528) ~[minecraft_server.1.17.1.jar:?]
+	at aqv.z(SourceFile:125) ~[minecraft_server.1.17.1.jar:?]
+	at abp$a.z(SourceFile:537) ~[minecraft_server.1.17.1.jar:?]
+	at abp.d(SourceFile:280) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.bf(SourceFile:776) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.z(SourceFile:764) ~[minecraft_server.1.17.1.jar:?]
+	at aqv.bp(SourceFile:110) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:748) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:701) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[minecraft_server.1.17.1.jar:?]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[00:53:44] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: dar{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[00:53:44] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at cxt.a(SourceFile:39) ~[minecraft_server.1.17.1.jar:?]
+	at dbg.<init>(SourceFile:57) ~[minecraft_server.1.17.1.jar:?]
+	at cud.a(SourceFile:151) ~[minecraft_server.1.17.1.jar:?]
+	at cnj.a(SourceFile:415) ~[minecraft_server.1.17.1.jar:?]
+	at cnj.a(SourceFile:175) ~[minecraft_server.1.17.1.jar:?]
+	at abe.l(SourceFile:512) ~[minecraft_server.1.17.1.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at aqv.c(SourceFile:151) ~[minecraft_server.1.17.1.jar:?]
+	at abp$a.c(SourceFile:528) ~[minecraft_server.1.17.1.jar:?]
+	at aqv.z(SourceFile:125) ~[minecraft_server.1.17.1.jar:?]
+	at abp$a.z(SourceFile:537) ~[minecraft_server.1.17.1.jar:?]
+	at abp.d(SourceFile:280) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.bf(SourceFile:776) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.z(SourceFile:764) ~[minecraft_server.1.17.1.jar:?]
+	at aqv.bp(SourceFile:110) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:748) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:701) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[minecraft_server.1.17.1.jar:?]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[00:53:44] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: dar{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[00:53:44] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at cxt.a(SourceFile:39) ~[minecraft_server.1.17.1.jar:?]
+	at dbg.<init>(SourceFile:57) ~[minecraft_server.1.17.1.jar:?]
+	at cud.a(SourceFile:151) ~[minecraft_server.1.17.1.jar:?]
+	at cnj.a(SourceFile:415) ~[minecraft_server.1.17.1.jar:?]
+	at cnj.a(SourceFile:175) ~[minecraft_server.1.17.1.jar:?]
+	at abe.l(SourceFile:512) ~[minecraft_server.1.17.1.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at aqv.c(SourceFile:151) ~[minecraft_server.1.17.1.jar:?]
+	at abp$a.c(SourceFile:528) ~[minecraft_server.1.17.1.jar:?]
+	at aqv.z(SourceFile:125) ~[minecraft_server.1.17.1.jar:?]
+	at abp$a.z(SourceFile:537) ~[minecraft_server.1.17.1.jar:?]
+	at abp.d(SourceFile:280) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.bf(SourceFile:776) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.z(SourceFile:764) ~[minecraft_server.1.17.1.jar:?]
+	at aqv.bp(SourceFile:110) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:748) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:701) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[minecraft_server.1.17.1.jar:?]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[00:53:44] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: dar{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[00:53:44] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at cxt.a(SourceFile:39) ~[minecraft_server.1.17.1.jar:?]
+	at dbg.<init>(SourceFile:57) ~[minecraft_server.1.17.1.jar:?]
+	at cud.a(SourceFile:151) ~[minecraft_server.1.17.1.jar:?]
+	at cnj.a(SourceFile:415) ~[minecraft_server.1.17.1.jar:?]
+	at cnj.a(SourceFile:175) ~[minecraft_server.1.17.1.jar:?]
+	at abe.l(SourceFile:512) ~[minecraft_server.1.17.1.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at aqv.c(SourceFile:151) ~[minecraft_server.1.17.1.jar:?]
+	at abp$a.c(SourceFile:528) ~[minecraft_server.1.17.1.jar:?]
+	at aqv.z(SourceFile:125) ~[minecraft_server.1.17.1.jar:?]
+	at abp$a.z(SourceFile:537) ~[minecraft_server.1.17.1.jar:?]
+	at abp.d(SourceFile:280) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.bf(SourceFile:776) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.z(SourceFile:764) ~[minecraft_server.1.17.1.jar:?]
+	at aqv.bp(SourceFile:110) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:748) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:701) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[minecraft_server.1.17.1.jar:?]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[00:53:44] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: dar{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[00:53:44] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at cxt.a(SourceFile:39) ~[minecraft_server.1.17.1.jar:?]
+	at dbg.<init>(SourceFile:57) ~[minecraft_server.1.17.1.jar:?]
+	at cud.a(SourceFile:151) ~[minecraft_server.1.17.1.jar:?]
+	at cnj.a(SourceFile:415) ~[minecraft_server.1.17.1.jar:?]
+	at cnj.a(SourceFile:175) ~[minecraft_server.1.17.1.jar:?]
+	at abe.l(SourceFile:512) ~[minecraft_server.1.17.1.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at aqv.c(SourceFile:151) ~[minecraft_server.1.17.1.jar:?]
+	at abp$a.c(SourceFile:528) ~[minecraft_server.1.17.1.jar:?]
+	at aqv.z(SourceFile:125) ~[minecraft_server.1.17.1.jar:?]
+	at abp$a.z(SourceFile:537) ~[minecraft_server.1.17.1.jar:?]
+	at abp.d(SourceFile:280) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.bf(SourceFile:776) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.z(SourceFile:764) ~[minecraft_server.1.17.1.jar:?]
+	at aqv.bp(SourceFile:110) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:748) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:701) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[minecraft_server.1.17.1.jar:?]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[00:53:44] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: dar{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[00:53:44] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at cxt.a(SourceFile:39) ~[minecraft_server.1.17.1.jar:?]
+	at dbg.<init>(SourceFile:57) ~[minecraft_server.1.17.1.jar:?]
+	at cud.a(SourceFile:151) ~[minecraft_server.1.17.1.jar:?]
+	at cnj.a(SourceFile:415) ~[minecraft_server.1.17.1.jar:?]
+	at cnj.a(SourceFile:175) ~[minecraft_server.1.17.1.jar:?]
+	at abe.l(SourceFile:512) ~[minecraft_server.1.17.1.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at aqv.c(SourceFile:151) ~[minecraft_server.1.17.1.jar:?]
+	at abp$a.c(SourceFile:528) ~[minecraft_server.1.17.1.jar:?]
+	at aqv.z(SourceFile:125) ~[minecraft_server.1.17.1.jar:?]
+	at abp$a.z(SourceFile:537) ~[minecraft_server.1.17.1.jar:?]
+	at abp.d(SourceFile:280) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.bf(SourceFile:776) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.z(SourceFile:764) ~[minecraft_server.1.17.1.jar:?]
+	at aqv.bp(SourceFile:110) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:748) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:701) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[minecraft_server.1.17.1.jar:?]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[00:53:44] [Server thread/ERROR]: Invalid bounding box data, inverted bounds for: dar{minX=2147483647, minY=2147483647, minZ=2147483647, maxX=-2147483648, maxY=-2147483648, maxZ=-2147483648}
+[00:53:44] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid call to EmtyPoolElement.getBoundingBox, filter me!
+	at cxt.a(SourceFile:39) ~[minecraft_server.1.17.1.jar:?]
+	at dbg.<init>(SourceFile:57) ~[minecraft_server.1.17.1.jar:?]
+	at cud.a(SourceFile:151) ~[minecraft_server.1.17.1.jar:?]
+	at cnj.a(SourceFile:415) ~[minecraft_server.1.17.1.jar:?]
+	at cnj.a(SourceFile:175) ~[minecraft_server.1.17.1.jar:?]
+	at abe.l(SourceFile:512) ~[minecraft_server.1.17.1.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	at aqv.c(SourceFile:151) ~[minecraft_server.1.17.1.jar:?]
+	at abp$a.c(SourceFile:528) ~[minecraft_server.1.17.1.jar:?]
+	at aqv.z(SourceFile:125) ~[minecraft_server.1.17.1.jar:?]
+	at abp$a.z(SourceFile:537) ~[minecraft_server.1.17.1.jar:?]
+	at abp.d(SourceFile:280) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.bf(SourceFile:776) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.z(SourceFile:764) ~[minecraft_server.1.17.1.jar:?]
+	at aqv.bp(SourceFile:110) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:748) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:701) ~[minecraft_server.1.17.1.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[minecraft_server.1.17.1.jar:?]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[00:53:52] [Server thread/INFO]: <DodgeyDoge> we have new world technology
+[00:55:20] [Server thread/WARN]: Om3gaNut moved too quickly! -17.953122266447963,-3.0849758099407154,-4.594207323801129
+[00:55:33] [Server thread/WARN]: Om3gaNut moved too quickly! 12.542952041034141,12.33607926450091,3.3212896557563454
+[00:55:41] [Server thread/INFO]: KangaReuben lost connection: Timed out
+[00:55:41] [Server thread/INFO]: KangaReuben left the game
+[00:55:45] [Server thread/WARN]: Om3gaNut moved too quickly! -17.599988554172796,-2.731397327760959,-4.6024132265233675
+[00:56:04] [Server thread/WARN]: DodgeyDoge moved too quickly! -9.633647593995477,0.0,-3.218112057712702
+[00:56:09] [Server thread/INFO]: KangaReuben[/25.107.130.90:49999] logged in with entity id 171714 at (77.49394931253018, 128.0, 56.193381912324774)
+[00:56:09] [Server thread/INFO]: KangaReuben joined the game
+[00:56:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[00:56:10] [Server thread/WARN]: Om3gaNut moved too quickly! -13.28111635768255,-2.2283813524479967,12.371669862266572
+[00:56:20] [Server thread/WARN]: Om3gaNut moved too quickly! -5.154195899537626,-5.859399953877656,-16.86641571883615
+[00:56:25] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to Om3gaNut]
+[00:56:33] [Server thread/WARN]: Om3gaNut moved wrongly!
+[00:56:41] [Server thread/WARN]: Om3gaNut moved too quickly! -12.846038341693657,1.1822209905873962,-12.051249848308771
+[00:56:56] [Server thread/INFO]: <Om3gaNut> hoho found one
+[00:57:14] [Server thread/INFO]: <Om3gaNut> stahp scott
+[00:57:20] [Server thread/INFO]: <KangaReuben> whats up
+[00:57:27] [Server thread/INFO]: <Om3gaNut> hes burning my beehive
+[00:57:29] [Server thread/INFO]: <KangaReuben> my com just tanked
+[00:57:33] [Server thread/INFO]: <KangaReuben> wtf scott thats fking rude
+[00:57:42] [Server thread/INFO]: [DodgeyDoge: Set the time to 1000]
+[00:57:46] [Server thread/INFO]: <Om3gaNut> scott drop me a campfire pls
+[00:58:03] [Server thread/INFO]: <Om3gaNut> thx
+[00:58:18] [Server thread/INFO]: <DodgeyDoge> can i hit the bees
+[00:58:23] [Server thread/INFO]: <Om3gaNut> no pls
+[00:58:57] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to KangaReuben]
+[00:59:18] [Server thread/INFO]: <KangaReuben> kk i gotta farm some gold rn
+[00:59:25] [Server thread/INFO]: <DodgeyDoge> does lightning still work in the outside world here
+[00:59:28] [Server thread/INFO]: <KangaReuben> so try not to be too close to the farm scotty or they will stop farming
+[00:59:33] [Server thread/INFO]: [DodgeyDoge: Summoned new Lightning Bolt]
+[00:59:35] [Server thread/INFO]: <KangaReuben> idk why dont you try
+[00:59:37] [Server thread/INFO]: <KangaReuben> yes it does
+[00:59:41] [Server thread/INFO]: [DodgeyDoge: Summoned new Lightning Bolt]
+[00:59:42] [Server thread/INFO]: <KangaReuben> im gna be afk
+[00:59:47] [Server thread/INFO]: <DodgeyDoge> Damn
+[00:59:54] [Server thread/INFO]: <KangaReuben> gonna force ryan to watch demon slayer
+[00:59:59] [Server thread/INFO]: <DodgeyDoge> nice
+[01:00:06] [Server thread/INFO]: <DodgeyDoge> the season or the movie
+[01:00:34] [Server thread/WARN]: Om3gaNut moved too quickly! -14.51455872635188,2.7154200904161456,9.913844343070195
+[01:01:06] [Server thread/WARN]: Om3gaNut moved too quickly! -8.507015124148438,-2.095789242050074,-16.424821203985857
+[01:01:07] [Server thread/INFO]: DodgeyDoge lost connection: Disconnected
+[01:01:07] [Server thread/INFO]: DodgeyDoge left the game
+[01:01:20] [Server thread/INFO]: [Server] k imma exercise
+[01:05:18] [Server thread/WARN]: Om3gaNut moved too quickly! 15.935538200667906,8.060770846269676,2.757417144509418
+[01:05:54] [Server thread/WARN]: Om3gaNut moved too quickly! 17.91832382400935,-2.0798689665974592,5.812825019423599
+[01:06:06] [Server thread/WARN]: Om3gaNut moved too quickly! 7.5553949861462115,-3.383266779579614,15.978163633501708
+[01:06:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[01:15:06] [Server thread/INFO]: Om3gaNut lost connection: Disconnected
+[01:15:06] [Server thread/INFO]: Om3gaNut left the game
+[01:51:34] [Server thread/INFO]: <KangaReuben> season
+[02:08:50] [Server thread/INFO]: [Server] nice
+[02:12:42] [Server thread/INFO]: <KangaReuben> scotty
+[02:12:48] [Server thread/INFO]: <KangaReuben> is it chill if i just afk this the whole night
+[02:12:49] [Server thread/INFO]: <KangaReuben> HAHAHA
+[02:13:03] [Server thread/INFO]: <KangaReuben> it shouldnt overload the server since they dont entity cram
+[02:13:09] [Server thread/INFO]: <KangaReuben> they just fall to their deaths
+[02:13:25] [Server thread/INFO]: <KangaReuben> but if u need to shut server/restart com just go for it
+[02:14:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:14:12] [Server thread/INFO]: can<--[HERE]
+[02:14:15] [Server thread/INFO]: [Server] can
+[02:14:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:14:36] [Server thread/INFO]: /sayy i'll just leave it on the whole night its g<--[HERE]
+[02:14:40] [Server thread/INFO]: <KangaReuben> cheers buddy
+[02:14:42] [Server thread/INFO]: <KangaReuben> goodnight!
+[02:14:52] [Server thread/INFO]: [Server] night man see ya sometime 
+[09:13:02] [Server thread/INFO]: Om3gaNut[/25.15.168.113:55256] logged in with entity id 454324 at (-1470.1399493174426, 68.0, 236.74347100680203)
+[09:13:02] [Server thread/INFO]: Om3gaNut joined the game
+[09:13:49] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 10.238672854410481,0.0,0.15923665552106314
+[09:13:49] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 11.225598997932309,0.0,0.15923665552106314
+[09:13:49] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 12.239895006760719,0.0,0.15923665552106314
+[09:13:49] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 13.281385191360982,0.0,0.15923665552106314
+[09:13:49] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 14.349890240371536,0.0,0.15923665552106314
+[09:13:49] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 15.44522635892369,0.0,0.15923665552106314
+[09:13:49] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 16.567206510052955,0.0,0.15923665552106314
+[09:13:49] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 17.715640554670216,0.0,0.15923665552106314
+[09:13:49] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 18.89033539371846,0.0,0.15923665552106314
+[09:13:49] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 20.09109509758983,0.0,0.15923665552106314
+[09:13:49] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 12.038432543376786,0.0,0.0
+[09:13:49] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 13.290722777872958,0.0,0.0
+[09:13:49] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 14.568472996434082,0.0,0.0
+[09:13:49] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 15.871476680761788,0.0,0.0
+[09:13:49] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 17.199525221939467,0.0,0.0
+[09:13:49] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 18.55240805518767,0.0,0.0
+[09:13:49] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 19.929912774510825,0.0,0.0
+[09:13:49] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 21.331825253533424,0.0,0.0
+[09:13:50] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! 10.867279506295034,0.0,0.0
+[09:13:51] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -19.432700955396754,0.0,0.0
+[09:13:51] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -17.39069952538425,0.0,0.0
+[09:13:51] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -15.331700807019928,0.0,0.0
+[09:13:51] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -13.255850478977067,0.0,0.0
+[09:13:51] [Server thread/WARN]: Boat (vehicle of Om3gaNut) moved too quickly! -11.163294826563941,0.0,0.0
+[09:27:29] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-53, y=61, z=79} gg{x=-74, y=58, z=63}
+[09:32:54] [Server thread/INFO]: Om3gaNut lost connection: Disconnected
+[09:32:54] [Server thread/INFO]: Om3gaNut left the game
+[10:22:41] [Server thread/INFO]: Om3gaNut[/25.15.168.113:53854] logged in with entity id 472765 at (-47.453354487933346, 58.0, 70.81074476536587)
+[10:22:41] [Server thread/INFO]: Om3gaNut joined the game
+[10:43:25] [Server thread/INFO]: Om3gaNut was shot by Skeleton
+[10:43:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2242ms or 44 ticks behind
+[10:43:38] [Server thread/INFO]: <KangaReuben> hi
+[10:43:43] [Server thread/INFO]: <Om3gaNut> yo
+[10:43:59] [Server thread/INFO]: <Om3gaNut> how much gold u have now haha
+[10:44:03] [Server thread/INFO]: <KangaReuben> uh
+[10:44:07] [Server thread/INFO]: <KangaReuben> a fair amount
+[10:44:25] [Server thread/WARN]: Om3gaNut moved too quickly! -4.352261122906306,-2.177849939799728,-17.64625592400371
+[10:44:28] [Server thread/WARN]: Om3gaNut moved too quickly! -8.279171365201243,12.488257839633633,-10.302229558969316
+[10:44:31] [Server thread/WARN]: Om3gaNut moved too quickly! -14.409398655075638,7.136139493994293,-7.45767425016966
+[10:44:59] [Server thread/INFO]: <KangaReuben> im converting nuggets to gold blocks first
+[10:46:10] [Server thread/WARN]: Om3gaNut moved too quickly! -12.600677490186172,9.838608234925914,-9.037278228650678
+[10:46:54] [Server thread/INFO]: Om3gaNut drowned
+[10:48:44] [Server thread/INFO]: <KangaReuben> 17 stacks of gold blocks
+[10:50:59] [Server thread/INFO]: <KangaReuben> mike
+[10:51:10] [Server thread/INFO]: <KangaReuben> when youre free can you come check out the sorting system on the gold farm
+[10:51:27] [Server thread/INFO]: <KangaReuben> im getting both rotten flesh and nuggets in the chests
+[10:51:29] [Server thread/INFO]: <KangaReuben> just wondering why
+[10:54:42] [Server thread/INFO]: <Om3gaNut> i think it overloaded
+[10:54:47] [Server thread/INFO]: <Om3gaNut> so it broke
+[10:55:01] [Server thread/INFO]: <Om3gaNut> is there cobblestone in the chests
+[10:56:00] [Server thread/INFO]: <KangaReuben> oh
+[10:56:02] [Server thread/INFO]: <KangaReuben> yeah
+[10:56:08] [Server thread/INFO]: <KangaReuben> i was wondering why there were slabs in the chests
+[10:56:16] [Server thread/INFO]: <KangaReuben> geez
+[10:56:17] [Server thread/INFO]: <KangaReuben> ok
+[10:56:18] [Server thread/INFO]: <Om3gaNut> yeah those were the placeholder blocks in the sorting
+[10:56:21] [Server thread/INFO]: <KangaReuben> maybe its time to
+[10:56:38] [Server thread/INFO]: <KangaReuben> EXPAND STORAGE CAPACITY
+[10:56:52] [Server thread/INFO]: <Om3gaNut> either that or look into a better sorting system
+[10:56:59] [Server thread/INFO]: <KangaReuben> ok but i go farm wither skeletons first
+[10:57:10] [Server thread/INFO]: [Server] sup
+[10:57:15] [Server thread/INFO]: <KangaReuben> sup
+[10:58:17] [Server thread/WARN]: KangaReuben moved too quickly! -13.62585290907839,-2.7531616688950464,-10.569879158516642
+[10:59:19] [Server thread/WARN]: KangaReuben was kicked for floating too long!
+[10:59:19] [Server thread/INFO]: KangaReuben lost connection: Flying is not enabled on this server
+[10:59:19] [Server thread/INFO]: KangaReuben left the game
+[10:59:27] [Server thread/INFO]: KangaReuben[/25.107.130.90:54316] logged in with entity id 503547 at (-382.56614621096145, 78.06521594193272, -367.305103485251)
+[10:59:27] [Server thread/INFO]: KangaReuben joined the game
+[11:04:41] [Server thread/WARN]: Om3gaNut moved too quickly! 15.937220062523238,-6.574148774812841,-2.4315385585729103
+[11:07:39] [Server thread/INFO]: KangaReuben was slain by Wither Skeleton
+[11:10:36] [Server thread/INFO]: Om3gaNut has made the advancement [Diamonds!]
+[11:14:32] [Server thread/INFO]: Om3gaNut was slain by Zombie
+[11:24:22] [Server thread/INFO]: <KangaReuben> wait
+[11:24:30] [Server thread/INFO]: <KangaReuben> did ur achievements get reset
+[11:24:34] [Server thread/INFO]: <Om3gaNut> yeah
+[11:24:46] [Server thread/INFO]: <Om3gaNut> scott reset everything by accident i think
+[11:25:22] [Server thread/INFO]: <Om3gaNut> there are just
+[11:25:25] [Server thread/INFO]: <Om3gaNut> chunk failures
+[11:25:27] [Server thread/INFO]: <Om3gaNut> everywhere
+[11:25:30] [Server thread/INFO]: <KangaReuben> yeh...
+[11:25:32] [Server thread/INFO]: <Om3gaNut> onceu go far out enuf
+[11:25:44] [Server thread/INFO]: [Server] whats up
+[11:25:58] [Server thread/INFO]: <Om3gaNut> i think our world gen messed up haha
+[11:26:06] [Server thread/INFO]: <KangaReuben> when the seed swapped
+[11:26:11] [Server thread/WARN]: Om3gaNut moved too quickly! 11.704813525637519,-2.9181329711951918,-13.320940186796179
+[11:26:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11:27:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[11:28:17] [Server thread/INFO]: KangaReuben was slain by Wither Skeleton
+[11:28:20] [Server thread/INFO]: [Server] i can go edit it later on
+[11:28:24] [Server thread/INFO]: [Server] lemme see
+[11:29:15] [Server thread/INFO]: DodgeyDoge[/25.37.10.0:56811] logged in with entity id 535667 at (60.53141858618967, 256.0, 78.94234168830845)
+[11:29:15] [Server thread/INFO]: DodgeyDoge joined the game
+[11:29:23] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to Om3gaNut]
+[11:29:32] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to KangaReuben]
+[11:29:32] [Server thread/WARN]: DodgeyDoge moved too quickly! -571.7149333070254,51.46365291827422,-3744.1142086513255
+[11:29:32] [Server thread/WARN]: DodgeyDoge moved too quickly! -571.7149333070254,51.46365291827422,-3744.1142086513255
+[11:29:51] [Server thread/INFO]: <DodgeyDoge> ya i can just change the seed to the old seed later on
+[11:30:00] [Server thread/INFO]: <DodgeyDoge> dont know how it became 0
+[11:30:16] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to Om3gaNut]
+[11:30:16] [Server thread/WARN]: DodgeyDoge moved too quickly! 458.69649583145684,-31.4226669817388,3848.910465821417
+[11:30:16] [Server thread/WARN]: DodgeyDoge moved too quickly! 458.69649583145684,-31.4226669817388,3848.910465821417
+[11:30:18] [Server thread/INFO]: <KangaReuben> i think what happens is that
+[11:30:23] [Server thread/INFO]: <KangaReuben> now the loaded chunks
+[11:30:28] [Server thread/INFO]: <KangaReuben> wont revert
+[11:30:31] [Server thread/INFO]: <KangaReuben> so anything seed 0
+[11:30:36] [Server thread/INFO]: <KangaReuben> remains 0
+[11:30:41] [Server thread/INFO]: <KangaReuben> so even if you switch it back
+[11:30:47] [Server thread/INFO]: <KangaReuben> the new chunks will have chunk errors again
+[11:30:48] [Server thread/INFO]: <KangaReuben> i think
+[11:31:00] [Server thread/INFO]: <Om3gaNut> can always try
+[11:31:05] [Server thread/INFO]: <Om3gaNut> just backup first lor
+[11:31:07] [Server thread/INFO]: <DodgeyDoge> only one way to find out haha
+[11:31:15] [Server thread/INFO]: <Om3gaNut> scto make it day
+[11:31:23] [Server thread/INFO]: <DodgeyDoge> i havent backed up since yall started playing tho
+[11:31:29] [Server thread/INFO]: [DodgeyDoge: Set the time to 1000]
+[11:31:37] [Server thread/INFO]: <DodgeyDoge> oh well
+[11:31:44] [Server thread/INFO]: <DodgeyDoge> adds more character to the world
+[11:31:53] [Server thread/INFO]: <Om3gaNut> yeah it doesnt bother me too much
+[11:32:01] [Server thread/INFO]: <DodgeyDoge> just need to travel beyond the messed up chunks once i revert it
+[11:32:22] [Server thread/INFO]: <DodgeyDoge> i can try changing it now
+[11:32:45] [Server thread/INFO]: <DodgeyDoge> but yall would have to leave first
+[11:33:01] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to KangaReuben]
+[11:33:28] [Server thread/INFO]: <KangaReuben> kk i can log off if wanna change now
+[11:33:32] [Server thread/INFO]: [DodgeyDoge: Teleported DodgeyDoge to Om3gaNut]
+[11:33:32] [Server thread/WARN]: DodgeyDoge moved too quickly! 425.768155261911,4.9375,4181.461511411772
+[11:33:32] [Server thread/WARN]: DodgeyDoge moved too quickly! 425.768155261911,4.9375,4181.461511411772
+[11:33:38] [Server thread/INFO]: <Om3gaNut> same
+[11:33:46] [Server thread/INFO]: <DodgeyDoge> kk gimme 2 mins
+[11:33:49] [Server thread/INFO]: [DodgeyDoge: Stopping the server]
+[11:33:49] [Server thread/INFO]: Stopping server
+[11:33:49] [Server thread/INFO]: Saving players
+[11:33:49] [Server thread/INFO]: Saving worlds
+[11:33:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[]'/minecraft:overworld
+[11:33:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[]'/minecraft:the_nether
+[11:33:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[]'/minecraft:the_end
+[11:33:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:33:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:33:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:33:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
